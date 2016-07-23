@@ -11,17 +11,22 @@ Here are some general rules for the repo:
 - DO NOT use space in column/object titles, e.g., percentCover or percent_cover
 - Comment all code as informatively as you can before sharing code
 
+### The four key steps to pushing your files to the github repo
+1. Add
+2. Commit (include informative message, e.g., robin modified readme file)
+3. *Pull* first
+4. *Push* second
+
 Here are our guiding principles for version control in Git:
 
 Do:
-Commit (informative message), PULL!!!! Then push
-Use your scripts folder
-Put general R code in the R folder (if we use other languages we can create a new folder)
-Use the issues to indicate enhancements and bugs in the workspace or in code
+* Use your scripts folder for practice code
+* Put general R code in the R folder (if we use other languages we can create a new folder)
+* Use the issues to indicate enhancements and bugs in the workspace or in code
 
-Do NOT Do:
-Push large files (50MB or larger – never) - keep these outside of the project repository on your local drive
-Alter any files in workspace
+Do NOT:
+* Push large files (50MB or larger – never) - keep these outside of the project repository on your local drive
+* Alter any files in workspace
 
 
 This is the structure of the repository:
@@ -39,26 +44,6 @@ This is the structure of the repository:
 *scripts* - This folder contains individual folders for each collaborator in the repository.  
 
 *workspace* - This folder contains the output data (i.e., processed raw data, or processed gridded data) that all analysis code should use as a base.  DO NOT alter any of the files in this folder.  Only the administrators should change these files and they should use the code in the create_workspace folder to generate these files.  These changes should only be made infrequently when major updates are required.  
-
-
-
-### Here is a template header for your scripts:
-
-### HEADER #####################################################################
-##' @title Add your informative title here 
-##'
-##' @author your name here 
-##' @contact your email here
-##' @contributor your name here if you contributed
-##' 
-##' @date Add the date here
-##' 
-##' @description Add your description here
-##' 
-##' @log Add a log here
-##' Add date and an informative comment here
-################################################################################
-
 
 ### Some other guidelines:
 
@@ -87,3 +72,19 @@ The concept of using a repo with RStudio is that the repo and the .Rproj have th
 If, in the past, you have set the working directory to what ever folder you are working in - stop doing that and use complete file paths from the base of the repo file: "data_processed/datafile.csv" or "scripts/elahi/newscript.R". The reason why we only have a few folders and are trying not to nest files within many sub folders is so that those file paths stay short, but this way we can all run each other's code without editing it at all as the file paths will always stay the same.  
 
 
+### Here is a template header for your scripts:
+
+### HEADER #####################################################################
+##' @title Add your informative title here 
+##'
+##' @author your name here 
+##' @contact your email here
+##' @contributor your name here if you contributed
+##' 
+##' @date Add the date here
+##' 
+##' @description Add your description here
+##' 
+##' @log Add a log here
+##' Add date and an informative comment here
+################################################################################
