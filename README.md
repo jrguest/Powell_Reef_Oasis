@@ -8,8 +8,7 @@ This repository contains code that relates to the projects developed for the Pow
 Here are some general rules for the repo:
 
 - DO NOT use spaces in filenames. - preferably use underscores and no '.'
-- Capitalize the first letter in each word for column/object titles, but use no spaces: e.g., ScaleUnits
-- Do not capitalize any character/factor data
+- DO NOT use space in column/object titles, e.g., percentCover or percent_cover
 - Comment all code as informatively as you can before sharing code
 
 Here are our guiding principles for version control in Git:
