@@ -83,7 +83,7 @@ Comments to yourself or to other potential code authors can be made using GitHub
 
 ### Using .Rproj and RStudio
 
-The concept of using a repo with RStudio is that the repo and the .Rproj have the same name and the project is in the base folder of the repo.  Never change the name of the .Rproj and never move it's location or the file paths in peoples code won't work and your personal version of the .Rproj will get pushed to the repo and go on everyone's computer, which can cause problems for everyone.  We have set up the .Gitignore file to ignore the project file, but only if it is called "BiodivChange.Rproj".
+The concept of using a repo with RStudio is that the repo and the .Rproj have the same name and the project is in the base folder of the repo.  Never change the name of the .Rproj and never move it's location or the file paths in peoples code won't work and your personal version of the .Rproj will get pushed to the repo and go on everyone's computer, which can cause problems for everyone.  
 
 If, in the past, you have set the working directory to what ever folder you are working in - stop doing that and use complete file paths from the base of the repo file: "data_processed/datafile.csv" or "scripts/elahi/newscript.R". The reason why we only have a few folders and are trying not to nest files within many sub folders is so that those file paths stay short, but this way we can all run each other's code without editing it at all as the file paths will always stay the same.  
 
