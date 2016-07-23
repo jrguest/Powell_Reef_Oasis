@@ -81,6 +81,10 @@ Comments to yourself or to other potential code authors can be made using GitHub
 
 **The scripts folder** is a space for each individual to use to play with or explore new ideas that you aren't ready to share with other contributors. Please make a subfolder within it that has your name. Within your named folder, you can store and update any scripts that you are using to explore new ideas that you aren't ready to share. Please respect the privacy of others' folders and only view your own. While this space is available for you to use if you would prefer, please do not be shy about sharing and editing your code directly within the code folder so that everyone can see and contribute to code development, even if it isn't "perfect" yet. We are all learning together, and we can all learn and move projects forward more efficiently by collaboratively coding in the *R* folder.  
 
+### Using .Rproj and RStudio
 
+The concept of using a repo with RStudio is that the repo and the .Rproj have the same name and the project is in the base folder of the repo.  Never change the name of the .Rproj and never move it's location or the file paths in peoples code won't work and your personal version of the .Rproj will get pushed to the repo and go on everyone's computer, which can cause problems for everyone.  We have set up the .Gitignore file to ignore the project file, but only if it is called "BiodivChange.Rproj".
+
+If, in the past, you have set the working directory to what ever folder you are working in - stop doing that and use complete file paths from the base of the repo file: "data_processed/datafile.csv" or "scripts/elahi/newscript.R". The reason why we only have a few folders and are trying not to nest files within many sub folders is so that those file paths stay short, but this way we can all run each other's code without editing it at all as the file paths will always stay the same.  
 
 
