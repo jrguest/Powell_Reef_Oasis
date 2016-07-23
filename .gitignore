@@ -1,4 +1,28 @@
+#.Rproj.user
+#.Rhistory
+#.RData
+#.Ruserdata
+
+#gitignore file copied from biodivchange project
+## prevent users to commit their own project
 .Rproj.user
-.Rhistory
+Powell_Reef_Oasis.Rproj
+.Rproj
+## prevent users to commit their own .RData and .Rhistory in mutual area
 .RData
-.Ruserdata
+.Rhistory
+workspace/.RData
+workspace/.Rhistory
+.Rapp.history
+## prevent users to commit to heavy files
+*.zip
+*.tif
+*.shp
+## hide the workspace creation procedure
+# scripts/create_workspace/*
+## prevent mac users to commit .DS_Store files
+*.DS_Store
+## prevent to commit the README.. files created by RStudio
+*README.html
+*README_cache/
+#*README_files/
