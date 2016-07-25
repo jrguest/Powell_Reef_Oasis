@@ -1,0 +1,62 @@
+I didn’t quite finish this, but just in case yall need it today, here’s the code and the data are all zipped on the shared drive. Most importantly, I need to get rid of the unsampled sites within some years. They’re coded as NS in the data. Also I didn’t rename the last couple column headings.
+ 
+Lauren
+ 
+#CREMP data
+ 
+setwd("C:/Users/ltoth/Documents/Conferences and presentations/Powell Center synthesis workshop/Powell data/CREMP data")
+ 
+#pull all csv files from your wd and then assign them their original names
+temp = list.files(pattern="*.csv")
+list2env(
+  lapply(setNames(temp, make.names(gsub("*.csv$", "", temp))),
+         read.csv), envir = .GlobalEnv)
+ 
+install.packages("reshape")
+library(reshape)
+ 
+#Turn all the species columns into rows
+CREMP1996<-melt(CREMP_NonGeneric_1996, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP1997<-melt(CREMP_NonGeneric_1997, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP1998<-melt(CREMP_NonGeneric_1998, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP1999<-melt(CREMP_NonGeneric_1999, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP2000<-melt(CREMP_NonGeneric_2000, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP2001<-melt(CREMP_NonGeneric_2001, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP2002<-melt(CREMP_NonGeneric_2002, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP2003<-melt(CREMP_NonGeneric_2003, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP2004<-melt(CREMP_NonGeneric_2004, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP2005<-melt(CREMP_NonGeneric_2005, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP2006<-melt(CREMP_NonGeneric_2006, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP2007<-melt(CREMP_NonGeneric_2007, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP2008<-melt(CREMP_NonGeneric_2008, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP2009<-melt(CREMP_NonGeneric_2009, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP2010<-melt(CREMP_NonGeneric_2010, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+CREMP2011_2013<-melt(CREMP_NonGeneric_2011_2013, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year"))
+ 
+#add in generic cover data
+#Turn all the percent cover columns into rows
+CREMP1996<-rbind(melt(CREMP_Generic_1996, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP1996)
+CREMP1997<-rbind(melt(CREMP_Generic_1997, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP1997)
+CREMP1998<-rbind(melt(CREMP_Generic_1998, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP1998)
+CREMP1999<-rbind(melt(CREMP_Generic_1999, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP1999)
+CREMP2000<-rbind(melt(CREMP_Generic_2000, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP2000)
+CREMP2001<-rbind(melt(CREMP_Generic_2001, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP2001)
+CREMP2002<-rbind(melt(CREMP_Generic_2002, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP2002)
+CREMP2003<-rbind(melt(CREMP_Generic_2003, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP2003)
+CREMP2004<-rbind(melt(CREMP_Generic_2004, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP2004)
+CREMP2005<-rbind(melt(CREMP_Generic_2005, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP2005)
+CREMP2006<-rbind(melt(CREMP_Generic_2006, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP2006)
+CREMP2007<-rbind(melt(CREMP_Generic_2007, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP2007)
+CREMP2008<-rbind(melt(CREMP_Generic_2008, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP2008)
+CREMP2009<-rbind(melt(CREMP_Generic_2009, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP2009)
+CREMP2010<-rbind(melt(CREMP_Generic_2010, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP2010)
+CREMP2011_2013<-rbind(melt(CREMP_Generic_2011_2013, id=c("Sample.Year", "subRegionId", "habitatid", "Site.Code", "sitename", "stationid", "First_Year", "Latest_Year")),CREMP2011_2013)
+ 
+#Combine all
+CREMP1996_2013<-rbind(CREMP1996, CREMP1997, CREMP1998, CREMP1999, CREMP2000, CREMP2001, CREMP2002, CREMP2003, CREMP2004, CREMP2005, CREMP2006, CREMP2007, CREMP2008, CREMP2009, CREMP2010, CREMP2011_2013)
+ 
+#add Study_ID and Derived_Site
+CREMP1996_2013_all<-cbind(Study_ID="CREMP_Keys", Derived_Site=with(CREMP1996_2013, paste0(subRegionId,".", sitename, ".", Site.Code, ".", habitatid)), Nest1=CREMP1996_2013$stationid, Nest2=NA, Nest3=NA, Nest4=NA, Date=NA, CREMP1996_2013)
+CREMP1996_2013_all<-cbind(CREMP1996_2013_all[1:8],CREMP1996_2013_all[16:17])
+#####JUST NEED TO CHANGE COL NAMES AND GET RID OF NOT SAMPLED INSTANCES "NS"###########
+ 
