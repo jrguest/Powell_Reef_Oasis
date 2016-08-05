@@ -1,0 +1,5590 @@
+date,site,transect,quadrat,functional_group,percent_cover
+12/01/87,Yawzi,1,1,All coral,57
+12/01/87,Yawzi,1,2,All coral,23
+12/01/87,Yawzi,1,3,All coral,80
+12/01/87,Yawzi,1,4,All coral,67
+12/01/87,Yawzi,1,5,All coral,48.1
+12/01/87,Yawzi,1,6,All coral,58.9
+12/01/87,Yawzi,1,7,All coral,50.2
+12/01/87,Yawzi,1,8,All coral,58.5
+12/01/87,Yawzi,1,9,All coral,61
+12/01/87,Yawzi,1,10,All coral,33
+12/01/87,Yawzi,2,1,All coral,64.5
+12/01/87,Yawzi,2,2,All coral,20
+12/01/87,Yawzi,2,3,All coral,38.5
+12/01/87,Yawzi,2,4,All coral,46.5
+12/01/87,Yawzi,2,6,All coral,28.5
+12/01/87,Yawzi,2,7,All coral,24.5
+12/01/87,Yawzi,2,8,All coral,45
+12/01/87,Yawzi,2,9,All coral,34.5
+12/01/87,Yawzi,2,10,All coral,49.5
+12/01/87,Yawzi,3,1,All coral,76
+12/01/87,Yawzi,3,2,All coral,62.5
+12/01/87,Yawzi,3,3,All coral,62.5
+12/01/87,Yawzi,3,4,All coral,18.5
+12/01/87,Yawzi,3,5,All coral,42.7
+12/01/87,Yawzi,3,6,All coral,16
+12/01/87,Yawzi,3,7,All coral,49
+12/01/87,Yawzi,3,8,All coral,14
+12/01/87,Yawzi,3,9,All coral,22.5
+12/01/87,Yawzi,3,10,All coral,42
+03/01/88,Yawzi,1,1,All coral,49
+03/01/88,Yawzi,1,2,All coral,29
+03/01/88,Yawzi,1,3,All coral,64.6
+03/01/88,Yawzi,1,4,All coral,59.5
+03/01/88,Yawzi,1,5,All coral,41.7
+03/01/88,Yawzi,1,6,All coral,58.5
+03/01/88,Yawzi,1,7,All coral,37.8
+03/01/88,Yawzi,1,8,All coral,42
+03/01/88,Yawzi,1,9,All coral,64.5
+03/01/88,Yawzi,1,10,All coral,50
+03/01/88,Yawzi,2,1,All coral,66.5
+03/01/88,Yawzi,2,2,All coral,60.5
+03/01/88,Yawzi,2,3,All coral,61.5
+03/01/88,Yawzi,2,4,All coral,48
+03/01/88,Yawzi,2,5,All coral,34.5
+03/01/88,Yawzi,2,6,All coral,33.5
+03/01/88,Yawzi,2,7,All coral,47.5
+03/01/88,Yawzi,2,8,All coral,15
+03/01/88,Yawzi,2,9,All coral,23.5
+03/01/88,Yawzi,2,10,All coral,61.5
+03/01/88,Yawzi,3,1,All coral,58
+03/01/88,Yawzi,3,2,All coral,66
+03/01/88,Yawzi,3,3,All coral,43
+03/01/88,Yawzi,3,4,All coral,15.5
+03/01/88,Yawzi,3,5,All coral,28.5
+03/01/88,Yawzi,3,6,All coral,27.5
+03/01/88,Yawzi,3,7,All coral,31
+03/01/88,Yawzi,3,8,All coral,6
+03/01/88,Yawzi,3,9,All coral,29
+03/01/88,Yawzi,3,10,All coral,48.5
+07/01/88,Yawzi,1,1,All coral,44
+07/01/88,Yawzi,1,2,All coral,27.5
+07/01/88,Yawzi,1,3,All coral,64
+07/01/88,Yawzi,1,4,All coral,59.5
+07/01/88,Yawzi,1,5,All coral,48.7
+07/01/88,Yawzi,1,6,All coral,68
+07/01/88,Yawzi,1,7,All coral,55
+07/01/88,Yawzi,1,8,All coral,51
+07/01/88,Yawzi,1,9,All coral,65.5
+07/01/88,Yawzi,1,10,All coral,55.5
+07/01/88,Yawzi,2,1,All coral,66.5
+07/01/88,Yawzi,2,2,All coral,54.5
+07/01/88,Yawzi,2,3,All coral,67.5
+07/01/88,Yawzi,2,4,All coral,59
+07/01/88,Yawzi,2,5,All coral,34
+07/01/88,Yawzi,2,6,All coral,27.5
+07/01/88,Yawzi,2,7,All coral,32.5
+07/01/88,Yawzi,2,8,All coral,11
+07/01/88,Yawzi,2,9,All coral,23
+07/01/88,Yawzi,2,10,All coral,63.5
+07/01/88,Yawzi,3,1,All coral,64
+07/01/88,Yawzi,3,2,All coral,64.5
+07/01/88,Yawzi,3,3,All coral,46.5
+07/01/88,Yawzi,3,4,All coral,17.5
+07/01/88,Yawzi,3,5,All coral,29.5
+07/01/88,Yawzi,3,6,All coral,17
+07/01/88,Yawzi,3,7,All coral,45
+07/01/88,Yawzi,3,8,All coral,11.5
+07/01/88,Yawzi,3,9,All coral,24.5
+07/01/88,Yawzi,3,10,All coral,24
+04/01/89,Yawzi,1,1,All coral,48
+04/01/89,Yawzi,1,2,All coral,35
+04/01/89,Yawzi,1,3,All coral,68
+04/01/89,Yawzi,1,4,All coral,69.5
+04/01/89,Yawzi,1,5,All coral,31.3
+04/01/89,Yawzi,1,6,All coral,63
+04/01/89,Yawzi,1,7,All coral,53
+04/01/89,Yawzi,1,8,All coral,46
+04/01/89,Yawzi,1,9,All coral,70
+04/01/89,Yawzi,1,10,All coral,52
+04/01/89,Yawzi,2,1,All coral,71.5
+04/01/89,Yawzi,2,2,All coral,63
+04/01/89,Yawzi,2,3,All coral,72
+04/01/89,Yawzi,2,4,All coral,64.6
+04/01/89,Yawzi,2,5,All coral,31
+04/01/89,Yawzi,2,6,All coral,30
+04/01/89,Yawzi,2,7,All coral,39
+04/01/89,Yawzi,2,8,All coral,10.5
+04/01/89,Yawzi,2,9,All coral,27.5
+04/01/89,Yawzi,2,10,All coral,65
+04/01/89,Yawzi,3,1,All coral,65.5
+04/01/89,Yawzi,3,2,All coral,64.5
+04/01/89,Yawzi,3,3,All coral,53
+04/01/89,Yawzi,3,4,All coral,30.5
+04/01/89,Yawzi,3,5,All coral,33.5
+04/01/89,Yawzi,3,6,All coral,12
+04/01/89,Yawzi,3,7,All coral,49
+04/01/89,Yawzi,3,8,All coral,9.5
+04/01/89,Yawzi,3,9,All coral,15.5
+04/01/89,Yawzi,3,10,All coral,24
+10/01/89,Yawzi,1,1,All coral,51
+10/01/89,Yawzi,1,2,All coral,25.5
+10/01/89,Yawzi,1,3,All coral,59
+10/01/89,Yawzi,1,4,All coral,60.5
+10/01/89,Yawzi,1,5,All coral,41
+10/01/89,Yawzi,1,6,All coral,41.5
+10/01/89,Yawzi,1,7,All coral,46
+10/01/89,Yawzi,1,8,All coral,48.5
+10/01/89,Yawzi,2,1,All coral,12.5
+10/01/89,Yawzi,2,2,All coral,3
+10/01/89,Yawzi,2,3,All coral,27
+10/01/89,Yawzi,2,4,All coral,27
+10/01/89,Yawzi,2,5,All coral,37
+10/01/89,Yawzi,2,6,All coral,45.5
+10/01/89,Yawzi,2,7,All coral,37.5
+10/01/89,Yawzi,2,8,All coral,50
+10/01/89,Yawzi,2,9,All coral,33
+10/01/89,Yawzi,2,10,All coral,53.5
+10/01/89,Yawzi,3,1,All coral,53.5
+10/01/89,Yawzi,3,2,All coral,60.5
+10/01/89,Yawzi,3,3,All coral,53
+10/01/89,Yawzi,3,4,All coral,17
+10/01/89,Yawzi,3,5,All coral,5
+10/01/89,Yawzi,3,6,All coral,2
+10/01/89,Yawzi,3,7,All coral,6.5
+10/01/89,Yawzi,3,8,All coral,3.5
+10/01/89,Yawzi,3,9,All coral,1.5
+10/01/89,Yawzi,3,10,All coral,5
+09/01/90,Yawzi,1,1,All coral,52
+09/01/90,Yawzi,1,2,All coral,23
+09/01/90,Yawzi,1,3,All coral,58.5
+09/01/90,Yawzi,1,4,All coral,65.5
+09/01/90,Yawzi,1,5,All coral,60
+09/01/90,Yawzi,1,6,All coral,45
+09/01/90,Yawzi,1,7,All coral,42
+09/01/90,Yawzi,1,8,All coral,47
+09/01/90,Yawzi,1,9,All coral,64.5
+09/01/90,Yawzi,1,10,All coral,40.5
+09/01/90,Yawzi,2,1,All coral,60
+09/01/90,Yawzi,2,2,All coral,49.5
+09/01/90,Yawzi,2,3,All coral,48.5
+09/01/90,Yawzi,2,4,All coral,18.5
+09/01/90,Yawzi,2,5,All coral,13.5
+09/01/90,Yawzi,2,6,All coral,8.5
+09/01/90,Yawzi,2,7,All coral,8.5
+09/01/90,Yawzi,2,8,All coral,19.5
+09/01/90,Yawzi,2,9,All coral,5
+09/01/90,Yawzi,2,10,All coral,16.5
+09/01/90,Yawzi,3,1,All coral,51.5
+09/01/90,Yawzi,3,2,All coral,65
+09/01/90,Yawzi,3,3,All coral,53
+09/01/90,Yawzi,3,4,All coral,13.5
+09/01/90,Yawzi,3,5,All coral,6
+09/01/90,Yawzi,3,6,All coral,9.5
+09/01/90,Yawzi,3,7,All coral,6.5
+09/01/90,Yawzi,3,8,All coral,2
+09/01/90,Yawzi,3,10,All coral,7
+03/01/91,Yawzi,1,1,All coral,45
+03/01/91,Yawzi,1,2,All coral,27
+03/01/91,Yawzi,1,3,All coral,49
+03/01/91,Yawzi,1,4,All coral,69.5
+03/01/91,Yawzi,1,5,All coral,55.5
+03/01/91,Yawzi,1,6,All coral,43.5
+03/01/91,Yawzi,1,7,All coral,59
+03/01/91,Yawzi,1,8,All coral,55
+03/01/91,Yawzi,1,9,All coral,44.5
+03/01/91,Yawzi,1,10,All coral,33.5
+03/01/91,Yawzi,2,1,All coral,67
+03/01/91,Yawzi,2,2,All coral,37.5
+03/01/91,Yawzi,2,3,All coral,38
+03/01/91,Yawzi,2,4,All coral,16
+03/01/91,Yawzi,2,5,All coral,14
+03/01/91,Yawzi,2,6,All coral,9
+03/01/91,Yawzi,2,7,All coral,10
+03/01/91,Yawzi,2,8,All coral,18.5
+03/01/91,Yawzi,2,9,All coral,9
+03/01/91,Yawzi,2,10,All coral,22
+03/01/91,Yawzi,3,1,All coral,54
+03/01/91,Yawzi,3,2,All coral,55.5
+03/01/91,Yawzi,3,3,All coral,49
+03/01/91,Yawzi,3,4,All coral,10.5
+03/01/91,Yawzi,3,5,All coral,6
+03/01/91,Yawzi,3,6,All coral,4
+03/01/91,Yawzi,3,7,All coral,8.5
+03/01/91,Yawzi,3,8,All coral,2.5
+03/01/91,Yawzi,3,9,All coral,4
+03/01/91,Yawzi,3,10,All coral,6.5
+05/01/92,Yawzi,1,1,All coral,51.7
+05/01/92,Yawzi,1,2,All coral,20.1
+05/01/92,Yawzi,1,3,All coral,53.3
+05/01/92,Yawzi,1,4,All coral,57.1
+05/01/92,Yawzi,1,5,All coral,51.3
+05/01/92,Yawzi,1,6,All coral,31.1
+05/01/92,Yawzi,1,7,All coral,39.2
+05/01/92,Yawzi,1,8,All coral,39.2
+05/01/92,Yawzi,1,9,All coral,39
+05/01/92,Yawzi,1,10,All coral,19.3
+05/01/92,Yawzi,2,2,All coral,nd
+05/01/92,Yawzi,2,3,All coral,nd
+05/01/92,Yawzi,2,4,All coral,nd
+05/01/92,Yawzi,2,5,All coral,nd
+05/01/92,Yawzi,2,6,All coral,nd
+05/01/92,Yawzi,2,7,All coral,nd
+05/01/92,Yawzi,2,8,All coral,nd
+05/01/92,Yawzi,2,9,All coral,nd
+05/01/92,Yawzi,2,10,All coral,nd
+05/01/92,Yawzi,3,1,All coral,54.7
+05/01/92,Yawzi,3,2,All coral,62
+05/01/92,Yawzi,3,3,All coral,61.5
+05/01/92,Yawzi,3,4,All coral,7.8
+05/01/92,Yawzi,3,5,All coral,7.6
+05/01/92,Yawzi,3,6,All coral,5.3
+05/01/92,Yawzi,3,7,All coral,9.1
+05/01/92,Yawzi,3,8,All coral,8.7
+05/01/92,Yawzi,3,9,All coral,3.1
+05/01/92,Yawzi,3,10,All coral,7.6
+06/01/93,Yawzi,1,1,All coral,64.8
+06/01/93,Yawzi,1,2,All coral,23.2
+06/01/93,Yawzi,1,3,All coral,61.8
+06/01/93,Yawzi,1,4,All coral,55.3
+06/01/93,Yawzi,1,5,All coral,52.2
+06/01/93,Yawzi,1,6,All coral,35.3
+06/01/93,Yawzi,1,7,All coral,30.6
+06/01/93,Yawzi,1,8,All coral,57.6
+06/01/93,Yawzi,1,9,All coral,60.5
+06/01/93,Yawzi,1,10,All coral,34.6
+06/01/93,Yawzi,2,1,All coral,58.2
+06/01/93,Yawzi,2,2,All coral,30.6
+06/01/93,Yawzi,2,3,All coral,41.6
+06/01/93,Yawzi,2,4,All coral,16.5
+06/01/93,Yawzi,2,5,All coral,15.2
+06/01/93,Yawzi,2,6,All coral,13.6
+06/01/93,Yawzi,2,7,All coral,13.6
+06/01/93,Yawzi,2,8,All coral,22.1
+06/01/93,Yawzi,2,9,All coral,8.1
+06/01/93,Yawzi,2,10,All coral,18.6
+06/01/93,Yawzi,3,1,All coral,51.2
+06/01/93,Yawzi,3,2,All coral,60.8
+06/01/93,Yawzi,3,3,All coral,71.3
+06/01/93,Yawzi,3,4,All coral,14.9
+06/01/93,Yawzi,3,5,All coral,9.4
+06/01/93,Yawzi,3,6,All coral,3.7
+06/01/93,Yawzi,3,7,All coral,9.8
+06/01/93,Yawzi,3,8,All coral,6
+06/01/93,Yawzi,3,9,All coral,5.9
+06/01/93,Yawzi,3,10,All coral,7.2
+08/01/94,Yawzi,1,1,All coral,54.4
+08/01/94,Yawzi,1,2,All coral,77.1
+08/01/94,Yawzi,1,3,All coral,65
+08/01/94,Yawzi,1,4,All coral,51.1
+08/01/94,Yawzi,1,5,All coral,19.9
+08/01/94,Yawzi,1,6,All coral,41
+08/01/94,Yawzi,1,7,All coral,38.5
+08/01/94,Yawzi,1,8,All coral,66
+08/01/94,Yawzi,1,9,All coral,68
+08/01/94,Yawzi,1,10,All coral,37
+08/01/94,Yawzi,2,1,All coral,74
+08/01/94,Yawzi,2,2,All coral,39.4
+08/01/94,Yawzi,2,3,All coral,42.4
+08/01/94,Yawzi,2,4,All coral,21.1
+08/01/94,Yawzi,2,5,All coral,27.4
+08/01/94,Yawzi,2,6,All coral,13.5
+08/01/94,Yawzi,2,7,All coral,26
+08/01/94,Yawzi,2,8,All coral,22
+08/01/94,Yawzi,2,9,All coral,15.5
+08/01/94,Yawzi,2,10,All coral,15.5
+08/01/94,Yawzi,3,1,All coral,53
+08/01/94,Yawzi,3,2,All coral,60
+08/01/94,Yawzi,3,3,All coral,77.2
+08/01/94,Yawzi,3,4,All coral,18.8
+08/01/94,Yawzi,3,5,All coral,4.5
+08/01/94,Yawzi,3,6,All coral,4
+08/01/94,Yawzi,3,7,All coral,23.1
+08/01/94,Yawzi,3,8,All coral,6.6
+08/01/94,Yawzi,3,9,All coral,3
+08/01/94,Yawzi,3,10,All coral,7.2
+05/01/95,Yawzi,1,1,All coral,37.4
+05/01/95,Yawzi,1,2,All coral,37.3
+05/01/95,Yawzi,1,3,All coral,60.8
+05/01/95,Yawzi,1,4,All coral,49.4
+05/01/95,Yawzi,1,5,All coral,41.2
+05/01/95,Yawzi,1,6,All coral,28.6
+05/01/95,Yawzi,1,7,All coral,43
+05/01/95,Yawzi,1,8,All coral,54.7
+05/01/95,Yawzi,1,9,All coral,45.1
+05/01/95,Yawzi,1,10,All coral,22.1
+05/01/95,Yawzi,2,1,All coral,54
+05/01/95,Yawzi,2,2,All coral,29.3
+05/01/95,Yawzi,2,3,All coral,43
+05/01/95,Yawzi,2,4,All coral,18.7
+05/01/95,Yawzi,2,5,All coral,21.8
+05/01/95,Yawzi,2,6,All coral,7
+05/01/95,Yawzi,2,7,All coral,13.7
+05/01/95,Yawzi,2,8,All coral,26.5
+05/01/95,Yawzi,2,9,All coral,8
+05/01/95,Yawzi,2,10,All coral,17.4
+05/01/95,Yawzi,3,1,All coral,52.9
+05/01/95,Yawzi,3,2,All coral,50.6
+05/01/95,Yawzi,3,3,All coral,66.7
+05/01/95,Yawzi,3,4,All coral,12.8
+05/01/95,Yawzi,3,5,All coral,9.5
+05/01/95,Yawzi,3,6,All coral,6.9
+05/01/95,Yawzi,3,7,All coral,13.8
+05/01/95,Yawzi,3,8,All coral,3.4
+05/01/95,Yawzi,3,9,All coral,4.4
+05/01/95,Yawzi,3,10,All coral,12.3
+05/01/96,Yawzi,1,1,All coral,68.7
+05/01/96,Yawzi,1,2,All coral,29.6
+05/01/96,Yawzi,1,3,All coral,64.4
+05/01/96,Yawzi,1,4,All coral,53.7
+05/01/96,Yawzi,1,5,All coral,60.7
+05/01/96,Yawzi,1,6,All coral,35.2
+05/01/96,Yawzi,1,7,All coral,32
+05/01/96,Yawzi,1,8,All coral,32.8
+05/01/96,Yawzi,1,9,All coral,40.2
+05/01/96,Yawzi,1,10,All coral,26
+05/01/96,Yawzi,2,1,All coral,15.7
+05/01/96,Yawzi,2,2,All coral,9.2
+05/01/96,Yawzi,2,3,All coral,4.2
+05/01/96,Yawzi,2,4,All coral,1.2
+05/01/96,Yawzi,2,5,All coral,1.1
+05/01/96,Yawzi,2,6,All coral,0.5
+05/01/96,Yawzi,2,7,All coral,5
+05/01/96,Yawzi,2,8,All coral,4.5
+05/01/96,Yawzi,2,9,All coral,9.6
+05/01/96,Yawzi,2,10,All coral,10.5
+05/01/96,Yawzi,3,1,All coral,25.3
+05/01/96,Yawzi,3,2,All coral,44
+05/01/96,Yawzi,3,3,All coral,35.9
+05/01/96,Yawzi,3,4,All coral,0.5
+05/01/96,Yawzi,3,5,All coral,0.5
+05/01/96,Yawzi,3,6,All coral,2.7
+05/01/96,Yawzi,3,7,All coral,6.4
+05/01/96,Yawzi,3,8,All coral,1
+05/01/96,Yawzi,3,9,All coral,0.5
+05/01/96,Yawzi,3,10,All coral,7
+05/01/97,Yawzi,1,1,All coral,74.5
+05/01/97,Yawzi,1,2,All coral,36
+05/01/97,Yawzi,1,3,All coral,70.5
+05/01/97,Yawzi,1,4,All coral,67.5
+05/01/97,Yawzi,1,5,All coral,69.5
+05/01/97,Yawzi,1,6,All coral,41.5
+05/01/97,Yawzi,1,7,All coral,31
+05/01/97,Yawzi,1,8,All coral,40
+05/01/97,Yawzi,1,9,All coral,45
+05/01/97,Yawzi,1,10,All coral,34.5
+05/01/97,Yawzi,2,1,All coral,8
+05/01/97,Yawzi,2,2,All coral,3.5
+05/01/97,Yawzi,2,3,All coral,5.5
+05/01/97,Yawzi,2,4,All coral,2.5
+05/01/97,Yawzi,2,5,All coral,2
+05/01/97,Yawzi,2,6,All coral,1.5
+05/01/97,Yawzi,2,7,All coral,7.5
+05/01/97,Yawzi,2,8,All coral,7.5
+05/01/97,Yawzi,2,9,All coral,9.5
+05/01/97,Yawzi,2,10,All coral,13
+05/01/97,Yawzi,3,1,All coral,24.5
+05/01/97,Yawzi,3,2,All coral,45.5
+05/01/97,Yawzi,3,3,All coral,42.5
+05/01/97,Yawzi,3,4,All coral,0.5
+05/01/97,Yawzi,3,5,All coral,1
+05/01/97,Yawzi,3,6,All coral,2.5
+05/01/97,Yawzi,3,7,All coral,5
+05/01/97,Yawzi,3,8,All coral,2.5
+05/01/97,Yawzi,3,9,All coral,0.5
+05/01/97,Yawzi,3,10,All coral,10
+08/01/98,Yawzi,1,1,All coral,61.6
+08/01/98,Yawzi,1,2,All coral,35.7
+08/01/98,Yawzi,1,3,All coral,68.4
+08/01/98,Yawzi,1,4,All coral,57.2
+08/01/98,Yawzi,1,5,All coral,53.5
+08/01/98,Yawzi,1,6,All coral,31.6
+08/01/98,Yawzi,1,7,All coral,26.9
+08/01/98,Yawzi,1,8,All coral,35.4
+08/01/98,Yawzi,1,9,All coral,36.8
+08/01/98,Yawzi,1,10,All coral,18.2
+08/01/98,Yawzi,2,1,All coral,7.7
+08/01/98,Yawzi,2,2,All coral,6.5
+08/01/98,Yawzi,2,3,All coral,4.4
+08/01/98,Yawzi,2,4,All coral,2.2
+08/01/98,Yawzi,2,5,All coral,1.8
+08/01/98,Yawzi,2,6,All coral,1
+08/01/98,Yawzi,2,7,All coral,4.5
+08/01/98,Yawzi,2,8,All coral,9.2
+08/01/98,Yawzi,2,9,All coral,3.9
+08/01/98,Yawzi,2,10,All coral,9
+08/01/98,Yawzi,3,1,All coral,26.9
+08/01/98,Yawzi,3,2,All coral,44.2
+08/01/98,Yawzi,3,3,All coral,37
+08/01/98,Yawzi,3,4,All coral,2.2
+08/01/98,Yawzi,3,5,All coral,1.1
+08/01/98,Yawzi,3,6,All coral,4.2
+08/01/98,Yawzi,3,7,All coral,2.5
+08/01/98,Yawzi,3,8,All coral,3.2
+08/01/98,Yawzi,3,9,All coral,3.3
+08/01/98,Yawzi,3,10,All coral,6.3
+08/01/99,Yawzi,1,1,All coral,32
+08/01/99,Yawzi,1,2,All coral,44.1
+08/01/99,Yawzi,1,3,All coral,52.5
+08/01/99,Yawzi,1,4,All coral,28.6
+08/01/99,Yawzi,1,5,All coral,26.4
+08/01/99,Yawzi,1,6,All coral,16.9
+08/01/99,Yawzi,1,7,All coral,6.7
+08/01/99,Yawzi,1,8,All coral,25.9
+08/01/99,Yawzi,1,9,All coral,10.1
+08/01/99,Yawzi,1,10,All coral,15.8
+08/01/99,Yawzi,2,1,All coral,2
+08/01/99,Yawzi,2,2,All coral,1.1
+08/01/99,Yawzi,2,3,All coral,0
+08/01/99,Yawzi,2,4,All coral,1.1
+08/01/99,Yawzi,2,5,All coral,0
+08/01/99,Yawzi,2,6,All coral,0
+08/01/99,Yawzi,2,7,All coral,3.6
+08/01/99,Yawzi,2,8,All coral,5.1
+08/01/99,Yawzi,2,9,All coral,2
+08/01/99,Yawzi,2,10,All coral,9.1
+08/01/99,Yawzi,3,1,All coral,9.7
+08/01/99,Yawzi,3,2,All coral,20.1
+08/01/99,Yawzi,3,3,All coral,29
+08/01/99,Yawzi,3,4,All coral,0.5
+08/01/99,Yawzi,3,5,All coral,0.5
+08/01/99,Yawzi,3,6,All coral,2.1
+08/01/99,Yawzi,3,7,All coral,0
+08/01/99,Yawzi,3,8,All coral,1.5
+08/01/99,Yawzi,3,9,All coral,1.5
+08/01/99,Yawzi,3,10,All coral,8.2
+08/01/00,Yawzi,1,1,All coral,60.3
+08/01/00,Yawzi,1,2,All coral,31.7
+08/01/00,Yawzi,1,3,All coral,65.7
+08/01/00,Yawzi,1,4,All coral,49.5
+08/01/00,Yawzi,1,5,All coral,15.9
+08/01/00,Yawzi,1,6,All coral,9.5
+08/01/00,Yawzi,1,7,All coral,16
+08/01/00,Yawzi,1,8,All coral,8.5
+08/01/00,Yawzi,1,9,All coral,10.8
+08/01/00,Yawzi,1,10,All coral,14.2
+08/01/00,Yawzi,2,1,All coral,5.1
+08/01/00,Yawzi,2,2,All coral,4
+08/01/00,Yawzi,2,3,All coral,1.5
+08/01/00,Yawzi,2,4,All coral,1.5
+08/01/00,Yawzi,2,5,All coral,0.5
+08/01/00,Yawzi,2,6,All coral,0.5
+08/01/00,Yawzi,2,7,All coral,1.1
+08/01/00,Yawzi,2,8,All coral,0.5
+08/01/00,Yawzi,2,9,All coral,2.2
+08/01/00,Yawzi,2,10,All coral,7.4
+08/01/00,Yawzi,3,1,All coral,4.3
+08/01/00,Yawzi,3,2,All coral,21
+08/01/00,Yawzi,3,3,All coral,18.5
+08/01/00,Yawzi,3,4,All coral,0
+08/01/00,Yawzi,3,5,All coral,0.6
+08/01/00,Yawzi,3,6,All coral,0.6
+08/01/00,Yawzi,3,7,All coral,0
+08/01/00,Yawzi,3,8,All coral,0
+08/01/00,Yawzi,3,9,All coral,0
+08/01/00,Yawzi,3,10,All coral,6.6
+08/01/01,Yawzi,1,1,All coral,58.9
+08/01/01,Yawzi,1,2,All coral,43
+08/01/01,Yawzi,1,3,All coral,50
+08/01/01,Yawzi,1,4,All coral,44
+08/01/01,Yawzi,1,5,All coral,18.7
+08/01/01,Yawzi,1,6,All coral,5.6
+08/01/01,Yawzi,1,7,All coral,9.2
+08/01/01,Yawzi,1,8,All coral,7.1
+08/01/01,Yawzi,1,9,All coral,9.6
+08/01/01,Yawzi,1,10,All coral,17.6
+08/01/01,Yawzi,2,1,All coral,3
+08/01/01,Yawzi,2,2,All coral,2.6
+08/01/01,Yawzi,2,3,All coral,0
+08/01/01,Yawzi,2,4,All coral,1.5
+08/01/01,Yawzi,2,5,All coral,1.5
+08/01/01,Yawzi,2,6,All coral,1.5
+08/01/01,Yawzi,2,7,All coral,4
+08/01/01,Yawzi,2,8,All coral,2
+08/01/01,Yawzi,2,9,All coral,3.1
+08/01/01,Yawzi,2,10,All coral,7
+08/01/01,Yawzi,3,1,All coral,7.5
+08/01/01,Yawzi,3,2,All coral,19.8
+08/01/01,Yawzi,3,3,All coral,22.6
+08/01/01,Yawzi,3,4,All coral,0
+08/01/01,Yawzi,3,5,All coral,0.5
+08/01/01,Yawzi,3,6,All coral,0.5
+08/01/01,Yawzi,3,7,All coral,0.5
+08/01/01,Yawzi,3,8,All coral,0
+08/01/01,Yawzi,3,9,All coral,0
+08/01/01,Yawzi,3,10,All coral,7.1
+08/01/02,Yawzi,1,1,All coral,53.9
+08/01/02,Yawzi,1,2,All coral,26.9
+08/01/02,Yawzi,1,3,All coral,66
+08/01/02,Yawzi,1,4,All coral,38.7
+08/01/02,Yawzi,1,5,All coral,20.1
+08/01/02,Yawzi,1,6,All coral,16.8
+08/01/02,Yawzi,1,7,All coral,13
+08/01/02,Yawzi,1,8,All coral,9.2
+08/01/02,Yawzi,1,9,All coral,21.9
+08/01/02,Yawzi,1,10,All coral,23.7
+08/01/02,Yawzi,2,1,All coral,3.7
+08/01/02,Yawzi,2,2,All coral,2.6
+08/01/02,Yawzi,2,3,All coral,1.5
+08/01/02,Yawzi,2,4,All coral,2.1
+08/01/02,Yawzi,2,5,All coral,2.8
+08/01/02,Yawzi,2,6,All coral,0.5
+08/01/02,Yawzi,2,7,All coral,3.7
+08/01/02,Yawzi,2,8,All coral,1.5
+08/01/02,Yawzi,2,9,All coral,3
+08/01/02,Yawzi,2,10,All coral,11.2
+08/01/02,Yawzi,3,1,All coral,6.7
+08/01/02,Yawzi,3,2,All coral,15.3
+08/01/02,Yawzi,3,3,All coral,27.6
+08/01/02,Yawzi,3,4,All coral,2
+08/01/02,Yawzi,3,5,All coral,0.5
+08/01/02,Yawzi,3,6,All coral,1
+08/01/02,Yawzi,3,7,All coral,1.1
+08/01/02,Yawzi,3,8,All coral,0
+08/01/02,Yawzi,3,9,All coral,0
+08/01/02,Yawzi,3,10,All coral,6.7
+08/01/03,Yawzi,1,1,All coral,60.1
+08/01/03,Yawzi,1,2,All coral,39.6
+08/01/03,Yawzi,1,3,All coral,51.8
+08/01/03,Yawzi,1,4,All coral,29
+08/01/03,Yawzi,1,5,All coral,20
+08/01/03,Yawzi,1,6,All coral,9.1
+08/01/03,Yawzi,1,7,All coral,12.8
+08/01/03,Yawzi,1,8,All coral,12.4
+08/01/03,Yawzi,1,9,All coral,16.9
+08/01/03,Yawzi,1,10,All coral,20
+08/01/03,Yawzi,2,1,All coral,4.1
+08/01/03,Yawzi,2,2,All coral,5.1
+08/01/03,Yawzi,2,3,All coral,1.5
+08/01/03,Yawzi,2,4,All coral,2.5
+08/01/03,Yawzi,2,5,All coral,0.5
+08/01/03,Yawzi,2,6,All coral,1.5
+08/01/03,Yawzi,2,7,All coral,4.6
+08/01/03,Yawzi,2,8,All coral,3.6
+08/01/03,Yawzi,2,9,All coral,1
+08/01/03,Yawzi,2,10,All coral,9.2
+08/01/03,Yawzi,3,1,All coral,12.9
+08/01/03,Yawzi,3,2,All coral,17.4
+08/01/03,Yawzi,3,3,All coral,26.7
+08/01/03,Yawzi,3,4,All coral,0.5
+08/01/03,Yawzi,3,5,All coral,0.5
+08/01/03,Yawzi,3,6,All coral,1
+08/01/03,Yawzi,3,7,All coral,0
+08/01/03,Yawzi,3,8,All coral,0
+08/01/03,Yawzi,3,9,All coral,0
+08/01/03,Yawzi,3,10,All coral,4.6
+08/01/04,Yawzi,1,1,All coral,41.7
+08/01/04,Yawzi,1,2,All coral,22.3
+08/01/04,Yawzi,1,3,All coral,75
+08/01/04,Yawzi,1,4,All coral,14.4
+08/01/04,Yawzi,1,5,All coral,16.2
+08/01/04,Yawzi,1,6,All coral,8.6
+08/01/04,Yawzi,1,7,All coral,12.3
+08/01/04,Yawzi,1,8,All coral,20.4
+08/01/04,Yawzi,1,9,All coral,11.7
+08/01/04,Yawzi,1,10,All coral,22.7
+08/01/04,Yawzi,2,1,All coral,12.9
+08/01/04,Yawzi,2,2,All coral,5.8
+08/01/04,Yawzi,2,3,All coral,3.5
+08/01/04,Yawzi,2,4,All coral,1.8
+08/01/04,Yawzi,2,5,All coral,1.2
+08/01/04,Yawzi,2,6,All coral,1.9
+08/01/04,Yawzi,2,7,All coral,3.6
+08/01/04,Yawzi,2,8,All coral,3.1
+08/01/04,Yawzi,2,9,All coral,0
+08/01/04,Yawzi,2,10,All coral,8
+08/01/04,Yawzi,3,1,All coral,8.2
+08/01/04,Yawzi,3,2,All coral,18.3
+08/01/04,Yawzi,3,3,All coral,26.8
+08/01/04,Yawzi,3,4,All coral,1.2
+08/01/04,Yawzi,3,5,All coral,1.2
+08/01/04,Yawzi,3,6,All coral,0.6
+08/01/04,Yawzi,3,7,All coral,1.1
+08/01/04,Yawzi,3,8,All coral,0
+08/01/04,Yawzi,3,9,All coral,1.8
+08/01/04,Yawzi,3,10,All coral,4
+08/01/05,Yawzi,1,1,All coral,44.1
+08/01/05,Yawzi,1,2,All coral,20.9
+08/01/05,Yawzi,1,3,All coral,38.2
+08/01/05,Yawzi,1,4,All coral,19.7
+08/01/05,Yawzi,1,5,All coral,26.1
+08/01/05,Yawzi,1,6,All coral,13.1
+08/01/05,Yawzi,1,7,All coral,50.9
+08/01/05,Yawzi,1,8,All coral,23.5
+08/01/05,Yawzi,1,9,All coral,55.5
+08/01/05,Yawzi,1,10,All coral,13
+08/01/05,Yawzi,2,1,All coral,7.6
+08/01/05,Yawzi,2,2,All coral,8
+08/01/05,Yawzi,2,3,All coral,2.7
+08/01/05,Yawzi,2,4,All coral,2.8
+08/01/05,Yawzi,2,5,All coral,6.9
+08/01/05,Yawzi,2,6,All coral,2.3
+08/01/05,Yawzi,2,7,All coral,6.9
+08/01/05,Yawzi,2,8,All coral,4.1
+08/01/05,Yawzi,2,9,All coral,1.7
+08/01/05,Yawzi,2,10,All coral,7.8
+08/01/05,Yawzi,3,1,All coral,12.2
+08/01/05,Yawzi,3,2,All coral,16.3
+08/01/05,Yawzi,3,3,All coral,18.1
+08/01/05,Yawzi,3,4,All coral,0.6
+08/01/05,Yawzi,3,5,All coral,0.6
+08/01/05,Yawzi,3,6,All coral,0.6
+08/01/05,Yawzi,3,7,All coral,1.1
+08/01/05,Yawzi,3,8,All coral,0.6
+08/01/05,Yawzi,3,9,All coral,0
+08/01/05,Yawzi,3,10,All coral,8.2
+08/01/06,Yawzi,1,1,All coral,40
+08/01/06,Yawzi,1,2,All coral,22.1
+08/01/06,Yawzi,1,3,All coral,14.8
+08/01/06,Yawzi,1,4,All coral,17.7
+08/01/06,Yawzi,1,5,All coral,22.8
+08/01/06,Yawzi,1,6,All coral,7.4
+08/01/06,Yawzi,1,7,All coral,8.8
+08/01/06,Yawzi,1,8,All coral,13.5
+08/01/06,Yawzi,1,9,All coral,31
+08/01/06,Yawzi,1,10,All coral,12.8
+08/01/06,Yawzi,2,1,All coral,4
+08/01/06,Yawzi,2,2,All coral,5.1
+08/01/06,Yawzi,2,3,All coral,2.1
+08/01/06,Yawzi,2,4,All coral,1
+08/01/06,Yawzi,2,5,All coral,2.6
+08/01/06,Yawzi,2,6,All coral,0
+08/01/06,Yawzi,2,7,All coral,3.1
+08/01/06,Yawzi,2,8,All coral,1
+08/01/06,Yawzi,2,9,All coral,0
+08/01/06,Yawzi,2,10,All coral,6.3
+08/01/06,Yawzi,3,1,All coral,2.5
+08/01/06,Yawzi,3,2,All coral,25.8
+08/01/06,Yawzi,3,3,All coral,15
+08/01/06,Yawzi,3,4,All coral,0
+08/01/06,Yawzi,3,5,All coral,1
+08/01/06,Yawzi,3,6,All coral,0.5
+08/01/06,Yawzi,3,7,All coral,2.6
+08/01/06,Yawzi,3,8,All coral,0
+08/01/06,Yawzi,3,9,All coral,0
+08/01/06,Yawzi,3,10,All coral,3
+08/01/07,Yawzi,1,1,All coral,36.8
+08/01/07,Yawzi,1,2,All coral,10.6
+08/01/07,Yawzi,1,3,All coral,13.1
+08/01/07,Yawzi,1,4,All coral,15.5
+08/01/07,Yawzi,1,5,All coral,20.3
+08/01/07,Yawzi,1,6,All coral,2.2
+08/01/07,Yawzi,1,7,All coral,7.2
+08/01/07,Yawzi,1,8,All coral,11.2
+08/01/07,Yawzi,1,9,All coral,35.5
+08/01/07,Yawzi,1,10,All coral,9.1
+08/01/07,Yawzi,2,1,All coral,5.1
+08/01/07,Yawzi,2,2,All coral,1.5
+08/01/07,Yawzi,2,3,All coral,1.1
+08/01/07,Yawzi,2,4,All coral,2.1
+08/01/07,Yawzi,2,5,All coral,5.2
+08/01/07,Yawzi,2,6,All coral,0.5
+08/01/07,Yawzi,2,7,All coral,1
+08/01/07,Yawzi,2,8,All coral,1
+08/01/07,Yawzi,2,9,All coral,1
+08/01/07,Yawzi,2,10,All coral,0
+08/01/07,Yawzi,3,1,All coral,11.2
+08/01/07,Yawzi,3,2,All coral,1
+08/01/07,Yawzi,3,3,All coral,1.5
+08/01/07,Yawzi,3,4,All coral,0.5
+08/01/07,Yawzi,3,5,All coral,1.5
+08/01/07,Yawzi,3,6,All coral,0
+08/01/07,Yawzi,3,7,All coral,0
+08/01/07,Yawzi,3,8,All coral,1
+08/01/07,Yawzi,3,9,All coral,3.6
+08/01/07,Yawzi,3,10,All coral,0.5
+08/01/08,Yawzi,1,1,All coral,32.4
+08/01/08,Yawzi,1,2,All coral,12.5
+08/01/08,Yawzi,1,3,All coral,24.7
+08/01/08,Yawzi,1,4,All coral,15.1
+08/01/08,Yawzi,1,5,All coral,20.9
+08/01/08,Yawzi,1,6,All coral,6.3
+08/01/08,Yawzi,1,7,All coral,11.1
+08/01/08,Yawzi,1,8,All coral,17.2
+08/01/08,Yawzi,1,9,All coral,18
+08/01/08,Yawzi,1,10,All coral,11.4
+08/01/08,Yawzi,2,1,All coral,4.4
+08/01/08,Yawzi,2,2,All coral,2.3
+08/01/08,Yawzi,2,3,All coral,3.5
+08/01/08,Yawzi,2,4,All coral,2.2
+08/01/08,Yawzi,2,5,All coral,8.1
+08/01/08,Yawzi,2,6,All coral,1.7
+08/01/08,Yawzi,2,7,All coral,2.8
+08/01/08,Yawzi,2,8,All coral,0
+08/01/08,Yawzi,2,9,All coral,1.1
+08/01/08,Yawzi,2,10,All coral,6.1
+08/01/08,Yawzi,3,1,All coral,3.2
+08/01/08,Yawzi,3,2,All coral,18.2
+08/01/08,Yawzi,3,3,All coral,17
+08/01/08,Yawzi,3,4,All coral,1.1
+08/01/08,Yawzi,3,5,All coral,0.6
+08/01/08,Yawzi,3,6,All coral,1.7
+08/01/08,Yawzi,3,7,All coral,0.6
+08/01/08,Yawzi,3,8,All coral,0
+08/01/08,Yawzi,3,9,All coral,0
+08/01/08,Yawzi,3,10,All coral,0
+08/01/09,Yawzi,1,1,All coral,35.6
+08/01/09,Yawzi,1,2,All coral,6.4
+08/01/09,Yawzi,1,3,All coral,22
+08/01/09,Yawzi,1,4,All coral,29
+08/01/09,Yawzi,1,5,All coral,7.5
+08/01/09,Yawzi,1,6,All coral,5.4
+08/01/09,Yawzi,1,7,All coral,13.7
+08/01/09,Yawzi,1,8,All coral,19.4
+08/01/09,Yawzi,1,9,All coral,11.9
+08/01/09,Yawzi,1,10,All coral,14.2
+08/01/09,Yawzi,2,1,All coral,1.6
+08/01/09,Yawzi,2,2,All coral,1.6
+08/01/09,Yawzi,2,3,All coral,1.6
+08/01/09,Yawzi,2,4,All coral,6.3
+08/01/09,Yawzi,2,5,All coral,8
+08/01/09,Yawzi,2,6,All coral,1
+08/01/09,Yawzi,2,7,All coral,2.1
+08/01/09,Yawzi,2,8,All coral,0
+08/01/09,Yawzi,2,9,All coral,0
+08/01/09,Yawzi,2,10,All coral,8.1
+08/01/09,Yawzi,3,1,All coral,4.2
+08/01/09,Yawzi,3,2,All coral,16
+08/01/09,Yawzi,3,3,All coral,15.5
+08/01/09,Yawzi,3,4,All coral,0
+08/01/09,Yawzi,3,5,All coral,1
+08/01/09,Yawzi,3,6,All coral,1.6
+08/01/09,Yawzi,3,7,All coral,0.5
+08/01/09,Yawzi,3,8,All coral,0
+08/01/09,Yawzi,3,9,All coral,0
+08/01/09,Yawzi,3,10,All coral,2.1
+08/01/10,Yawzi,1,1,All coral,45.9
+08/01/10,Yawzi,1,2,All coral,2.6
+08/01/10,Yawzi,1,3,All coral,15.3
+08/01/10,Yawzi,1,4,All coral,22.6
+08/01/10,Yawzi,1,5,All coral,16.4
+08/01/10,Yawzi,1,6,All coral,7.2
+08/01/10,Yawzi,1,7,All coral,11.3
+08/01/10,Yawzi,1,8,All coral,16.8
+08/01/10,Yawzi,1,9,All coral,12.7
+08/01/10,Yawzi,1,10,All coral,13.3
+08/01/10,Yawzi,2,1,All coral,7.8
+08/01/10,Yawzi,2,2,All coral,7
+08/01/10,Yawzi,2,3,All coral,3.6
+08/01/10,Yawzi,2,4,All coral,5.9
+08/01/10,Yawzi,2,5,All coral,3.2
+08/01/10,Yawzi,2,6,All coral,4.8
+08/01/10,Yawzi,2,7,All coral,1.6
+08/01/10,Yawzi,2,8,All coral,9
+08/01/10,Yawzi,2,9,All coral,0
+08/01/10,Yawzi,2,10,All coral,1.5
+08/01/10,Yawzi,3,1,All coral,5.5
+08/01/10,Yawzi,3,2,All coral,4.6
+08/01/10,Yawzi,3,3,All coral,13
+08/01/10,Yawzi,3,4,All coral,12.2
+08/01/10,Yawzi,3,5,All coral,1
+08/01/10,Yawzi,3,6,All coral,2.6
+08/01/10,Yawzi,3,7,All coral,1.1
+08/01/10,Yawzi,3,8,All coral,3.5
+08/01/10,Yawzi,3,9,All coral,0
+08/01/10,Yawzi,3,10,All coral,0
+08/01/11,Yawzi,1,1,All coral,45.2
+08/01/11,Yawzi,1,2,All coral,4
+08/01/11,Yawzi,1,3,All coral,10.3
+08/01/11,Yawzi,1,4,All coral,21.1
+08/01/11,Yawzi,1,5,All coral,10.8
+08/01/11,Yawzi,1,6,All coral,7.1
+08/01/11,Yawzi,1,7,All coral,9
+08/01/11,Yawzi,1,8,All coral,6.6
+08/01/11,Yawzi,1,9,All coral,13.5
+08/01/11,Yawzi,1,10,All coral,4.5
+08/01/11,Yawzi,2,1,All coral,4.5
+08/01/11,Yawzi,2,2,All coral,4.5
+08/01/11,Yawzi,2,3,All coral,2.5
+08/01/11,Yawzi,2,4,All coral,2.5
+08/01/11,Yawzi,2,5,All coral,8
+08/01/11,Yawzi,2,6,All coral,1
+08/01/11,Yawzi,2,7,All coral,4
+08/01/11,Yawzi,2,8,All coral,0
+08/01/11,Yawzi,2,9,All coral,0
+08/01/11,Yawzi,2,10,All coral,5.2
+08/01/11,Yawzi,3,1,All coral,3
+08/01/11,Yawzi,3,2,All coral,16.5
+08/01/11,Yawzi,3,3,All coral,13
+08/01/11,Yawzi,3,4,All coral,0
+08/01/11,Yawzi,3,5,All coral,0
+08/01/11,Yawzi,3,6,All coral,0
+08/01/11,Yawzi,3,7,All coral,3
+08/01/11,Yawzi,3,8,All coral,0
+08/01/11,Yawzi,3,9,All coral,0
+08/01/11,Yawzi,3,10,All coral,2.5
+08/01/12,Yawzi,1,1,All coral,45.2
+08/01/12,Yawzi,1,2,All coral,1.5
+08/01/12,Yawzi,1,3,All coral,18.6
+08/01/12,Yawzi,1,4,All coral,13.6
+08/01/12,Yawzi,1,5,All coral,12.6
+08/01/12,Yawzi,1,6,All coral,1
+08/01/12,Yawzi,1,7,All coral,14.5
+08/01/12,Yawzi,1,8,All coral,15.1
+08/01/12,Yawzi,1,9,All coral,11
+08/01/12,Yawzi,1,10,All coral,7.5
+08/01/12,Yawzi,2,1,All coral,8.5
+08/01/12,Yawzi,2,2,All coral,3
+08/01/12,Yawzi,2,3,All coral,3.5
+08/01/12,Yawzi,2,4,All coral,3
+08/01/12,Yawzi,2,5,All coral,10.5
+08/01/12,Yawzi,2,6,All coral,2
+08/01/12,Yawzi,2,7,All coral,5.1
+08/01/12,Yawzi,2,8,All coral,0
+08/01/12,Yawzi,2,9,All coral,2
+08/01/12,Yawzi,2,10,All coral,4.6
+08/01/12,Yawzi,3,1,All coral,2.5
+08/01/12,Yawzi,3,2,All coral,8
+08/01/12,Yawzi,3,3,All coral,15
+08/01/12,Yawzi,3,4,All coral,0.5
+08/01/12,Yawzi,3,5,All coral,0
+08/01/12,Yawzi,3,6,All coral,0
+08/01/12,Yawzi,3,7,All coral,2
+08/01/12,Yawzi,3,8,All coral,0
+08/01/12,Yawzi,3,9,All coral,0
+08/01/12,Yawzi,3,10,All coral,3
+08/01/13,Yawzi,1,1,All coral,33.5
+08/01/13,Yawzi,1,2,All coral,2
+08/01/13,Yawzi,1,3,All coral,13.1
+08/01/13,Yawzi,1,4,All coral,23.8
+08/01/13,Yawzi,1,5,All coral,5.9
+08/01/13,Yawzi,1,6,All coral,5.8
+08/01/13,Yawzi,1,7,All coral,9.6
+08/01/13,Yawzi,1,8,All coral,11.7
+08/01/13,Yawzi,1,9,All coral,7.1
+08/01/13,Yawzi,1,10,All coral,8.5
+08/01/13,Yawzi,2,1,All coral,2.5
+08/01/13,Yawzi,2,2,All coral,1.5
+08/01/13,Yawzi,2,3,All coral,2.5
+08/01/13,Yawzi,2,4,All coral,2.5
+08/01/13,Yawzi,2,5,All coral,6
+08/01/13,Yawzi,2,6,All coral,1.5
+08/01/13,Yawzi,2,7,All coral,6.5
+08/01/13,Yawzi,2,8,All coral,0
+08/01/13,Yawzi,2,9,All coral,0.5
+08/01/13,Yawzi,2,10,All coral,9.5
+08/01/13,Yawzi,3,1,All coral,1
+08/01/13,Yawzi,3,2,All coral,4.5
+08/01/13,Yawzi,3,3,All coral,8
+08/01/13,Yawzi,3,4,All coral,0
+08/01/13,Yawzi,3,5,All coral,0
+08/01/13,Yawzi,3,6,All coral,0
+08/01/13,Yawzi,3,7,All coral,0.5
+08/01/13,Yawzi,3,8,All coral,0
+08/01/13,Yawzi,3,9,All coral,0
+08/01/13,Yawzi,3,10,All coral,1
+08/01/14,Yawzi,1,1,All coral,49
+08/01/14,Yawzi,1,2,All coral,4.1
+08/01/14,Yawzi,1,3,All coral,15.5
+08/01/14,Yawzi,1,4,All coral,15.5
+08/01/14,Yawzi,1,5,All coral,9.5
+08/01/14,Yawzi,1,6,All coral,4.5
+08/01/14,Yawzi,1,7,All coral,12.5
+08/01/14,Yawzi,1,8,All coral,10
+08/01/14,Yawzi,1,9,All coral,13
+08/01/14,Yawzi,1,10,All coral,6.5
+08/01/14,Yawzi,2,1,All coral,2.5
+08/01/14,Yawzi,2,2,All coral,3.5
+08/01/14,Yawzi,2,3,All coral,3
+08/01/14,Yawzi,2,4,All coral,1
+08/01/14,Yawzi,2,5,All coral,7.5
+08/01/14,Yawzi,2,6,All coral,1.5
+08/01/14,Yawzi,2,7,All coral,5.5
+08/01/14,Yawzi,2,8,All coral,1.5
+08/01/14,Yawzi,2,9,All coral,1
+08/01/14,Yawzi,2,10,All coral,7.7
+08/01/14,Yawzi,3,1,All coral,4
+08/01/14,Yawzi,3,2,All coral,4.5
+08/01/14,Yawzi,3,3,All coral,6
+08/01/14,Yawzi,3,4,All coral,0
+08/01/14,Yawzi,3,5,All coral,0
+08/01/14,Yawzi,3,6,All coral,0
+08/01/14,Yawzi,3,7,All coral,1
+08/01/14,Yawzi,3,8,All coral,0.5
+08/01/14,Yawzi,3,9,All coral,0
+08/01/14,Yawzi,3,10,All coral,3.5
+08/01/15,Yawzi,1,1,All coral,48.5
+08/01/15,Yawzi,1,2,All coral,7.5
+08/01/15,Yawzi,1,3,All coral,14.7
+08/01/15,Yawzi,1,4,All coral,9
+08/01/15,Yawzi,1,5,All coral,11
+08/01/15,Yawzi,1,6,All coral,4
+08/01/15,Yawzi,1,7,All coral,9
+08/01/15,Yawzi,1,8,All coral,8.5
+08/01/15,Yawzi,1,9,All coral,11.5
+08/01/15,Yawzi,1,10,All coral,8
+08/01/15,Yawzi,2,1,All coral,0.5
+08/01/15,Yawzi,2,2,All coral,2
+08/01/15,Yawzi,2,3,All coral,1.5
+08/01/15,Yawzi,2,4,All coral,0.5
+08/01/15,Yawzi,2,5,All coral,1
+08/01/15,Yawzi,2,6,All coral,3
+08/01/15,Yawzi,2,7,All coral,5
+08/01/15,Yawzi,2,8,All coral,0.5
+08/01/15,Yawzi,2,9,All coral,2.5
+08/01/15,Yawzi,2,10,All coral,7.7
+08/01/15,Yawzi,3,1,All coral,3
+08/01/15,Yawzi,3,2,All coral,4.5
+08/01/15,Yawzi,3,3,All coral,11
+08/01/15,Yawzi,3,4,All coral,0
+08/01/15,Yawzi,3,5,All coral,0
+08/01/15,Yawzi,3,6,All coral,0
+08/01/15,Yawzi,3,7,All coral,1
+08/01/15,Yawzi,3,8,All coral,0
+08/01/15,Yawzi,3,9,All coral,0
+08/01/15,Yawzi,3,10,All coral,3
+12/01/87,Yawzi,1,1,Macroalgae,0.5
+12/01/87,Yawzi,1,2,Macroalgae,2.5
+12/01/87,Yawzi,1,3,Macroalgae,3
+12/01/87,Yawzi,1,4,Macroalgae,0.5
+12/01/87,Yawzi,1,5,Macroalgae,3.1
+12/01/87,Yawzi,1,6,Macroalgae,4.8
+12/01/87,Yawzi,1,7,Macroalgae,2.1
+12/01/87,Yawzi,1,8,Macroalgae,1
+12/01/87,Yawzi,1,9,Macroalgae,2
+12/01/87,Yawzi,1,10,Macroalgae,1.5
+12/01/87,Yawzi,2,1,Macroalgae,0
+12/01/87,Yawzi,2,2,Macroalgae,5.5
+12/01/87,Yawzi,2,3,Macroalgae,0
+12/01/87,Yawzi,2,4,Macroalgae,6.5
+12/01/87,Yawzi,2,6,Macroalgae,9
+12/01/87,Yawzi,2,7,Macroalgae,2.5
+12/01/87,Yawzi,2,8,Macroalgae,1.5
+12/01/87,Yawzi,2,9,Macroalgae,4.5
+12/01/87,Yawzi,2,10,Macroalgae,2
+12/01/87,Yawzi,3,1,Macroalgae,0
+12/01/87,Yawzi,3,2,Macroalgae,0
+12/01/87,Yawzi,3,3,Macroalgae,0
+12/01/87,Yawzi,3,4,Macroalgae,4
+12/01/87,Yawzi,3,5,Macroalgae,4.7
+12/01/87,Yawzi,3,6,Macroalgae,2.5
+12/01/87,Yawzi,3,7,Macroalgae,0
+12/01/87,Yawzi,3,8,Macroalgae,0
+12/01/87,Yawzi,3,9,Macroalgae,0
+12/01/87,Yawzi,3,10,Macroalgae,0.5
+03/01/88,Yawzi,1,1,Macroalgae,0
+03/01/88,Yawzi,1,2,Macroalgae,4
+03/01/88,Yawzi,1,3,Macroalgae,1.5
+03/01/88,Yawzi,1,4,Macroalgae,10.1
+03/01/88,Yawzi,1,5,Macroalgae,1.2
+03/01/88,Yawzi,1,6,Macroalgae,0
+03/01/88,Yawzi,1,7,Macroalgae,1.8
+03/01/88,Yawzi,1,8,Macroalgae,0
+03/01/88,Yawzi,1,9,Macroalgae,1
+03/01/88,Yawzi,1,10,Macroalgae,1
+03/01/88,Yawzi,2,1,Macroalgae,1
+03/01/88,Yawzi,2,2,Macroalgae,3.5
+03/01/88,Yawzi,2,3,Macroalgae,3
+03/01/88,Yawzi,2,4,Macroalgae,3.5
+03/01/88,Yawzi,2,5,Macroalgae,2.5
+03/01/88,Yawzi,2,6,Macroalgae,7
+03/01/88,Yawzi,2,7,Macroalgae,1
+03/01/88,Yawzi,2,8,Macroalgae,1
+03/01/88,Yawzi,2,9,Macroalgae,6.5
+03/01/88,Yawzi,2,10,Macroalgae,0.5
+03/01/88,Yawzi,3,1,Macroalgae,0
+03/01/88,Yawzi,3,2,Macroalgae,0
+03/01/88,Yawzi,3,3,Macroalgae,5
+03/01/88,Yawzi,3,4,Macroalgae,2.5
+03/01/88,Yawzi,3,5,Macroalgae,5.1
+03/01/88,Yawzi,3,6,Macroalgae,4.5
+03/01/88,Yawzi,3,7,Macroalgae,4.5
+03/01/88,Yawzi,3,8,Macroalgae,3.5
+03/01/88,Yawzi,3,9,Macroalgae,2
+03/01/88,Yawzi,3,10,Macroalgae,2.5
+07/01/88,Yawzi,1,1,Macroalgae,0.5
+07/01/88,Yawzi,1,2,Macroalgae,5
+07/01/88,Yawzi,1,3,Macroalgae,1.5
+07/01/88,Yawzi,1,4,Macroalgae,2.5
+07/01/88,Yawzi,1,5,Macroalgae,5.9
+07/01/88,Yawzi,1,6,Macroalgae,5
+07/01/88,Yawzi,1,7,Macroalgae,7.5
+07/01/88,Yawzi,1,8,Macroalgae,9
+07/01/88,Yawzi,1,9,Macroalgae,1
+07/01/88,Yawzi,1,10,Macroalgae,7
+07/01/88,Yawzi,2,1,Macroalgae,6
+07/01/88,Yawzi,2,2,Macroalgae,3.5
+07/01/88,Yawzi,2,3,Macroalgae,0.5
+07/01/88,Yawzi,2,4,Macroalgae,0
+07/01/88,Yawzi,2,5,Macroalgae,12.5
+07/01/88,Yawzi,2,6,Macroalgae,19.5
+07/01/88,Yawzi,2,7,Macroalgae,4.5
+07/01/88,Yawzi,2,8,Macroalgae,27.5
+07/01/88,Yawzi,2,9,Macroalgae,27
+07/01/88,Yawzi,2,10,Macroalgae,5.5
+07/01/88,Yawzi,3,1,Macroalgae,0
+07/01/88,Yawzi,3,2,Macroalgae,0
+07/01/88,Yawzi,3,3,Macroalgae,12.5
+07/01/88,Yawzi,3,4,Macroalgae,4
+07/01/88,Yawzi,3,5,Macroalgae,7.2
+07/01/88,Yawzi,3,6,Macroalgae,9.5
+07/01/88,Yawzi,3,7,Macroalgae,5.5
+07/01/88,Yawzi,3,8,Macroalgae,0.5
+07/01/88,Yawzi,3,9,Macroalgae,5
+07/01/88,Yawzi,3,10,Macroalgae,4
+04/01/89,Yawzi,1,1,Macroalgae,3.5
+04/01/89,Yawzi,1,2,Macroalgae,5
+04/01/89,Yawzi,1,3,Macroalgae,1.5
+04/01/89,Yawzi,1,4,Macroalgae,2
+04/01/89,Yawzi,1,5,Macroalgae,2
+04/01/89,Yawzi,1,6,Macroalgae,1
+04/01/89,Yawzi,1,7,Macroalgae,12.6
+04/01/89,Yawzi,1,8,Macroalgae,2.5
+04/01/89,Yawzi,1,9,Macroalgae,2.5
+04/01/89,Yawzi,1,10,Macroalgae,1
+04/01/89,Yawzi,2,1,Macroalgae,4
+04/01/89,Yawzi,2,2,Macroalgae,8
+04/01/89,Yawzi,2,3,Macroalgae,0
+04/01/89,Yawzi,2,4,Macroalgae,5
+04/01/89,Yawzi,2,5,Macroalgae,8.5
+04/01/89,Yawzi,2,6,Macroalgae,3.5
+04/01/89,Yawzi,2,7,Macroalgae,10.5
+04/01/89,Yawzi,2,8,Macroalgae,12
+04/01/89,Yawzi,2,9,Macroalgae,8
+04/01/89,Yawzi,2,10,Macroalgae,1
+04/01/89,Yawzi,3,1,Macroalgae,0
+04/01/89,Yawzi,3,2,Macroalgae,1
+04/01/89,Yawzi,3,3,Macroalgae,2.5
+04/01/89,Yawzi,3,4,Macroalgae,2
+04/01/89,Yawzi,3,5,Macroalgae,2.5
+04/01/89,Yawzi,3,6,Macroalgae,1.5
+04/01/89,Yawzi,3,7,Macroalgae,5.5
+04/01/89,Yawzi,3,8,Macroalgae,3
+04/01/89,Yawzi,3,9,Macroalgae,12.5
+04/01/89,Yawzi,3,10,Macroalgae,3
+10/01/89,Yawzi,1,1,Macroalgae,4
+10/01/89,Yawzi,1,2,Macroalgae,17.5
+10/01/89,Yawzi,1,3,Macroalgae,4.5
+10/01/89,Yawzi,1,4,Macroalgae,5.5
+10/01/89,Yawzi,1,5,Macroalgae,3
+10/01/89,Yawzi,1,6,Macroalgae,4
+10/01/89,Yawzi,1,7,Macroalgae,6
+10/01/89,Yawzi,1,8,Macroalgae,13
+10/01/89,Yawzi,2,1,Macroalgae,nd
+10/01/89,Yawzi,2,2,Macroalgae,nd
+10/01/89,Yawzi,2,3,Macroalgae,nd
+10/01/89,Yawzi,2,4,Macroalgae,nd
+10/01/89,Yawzi,2,5,Macroalgae,nd
+10/01/89,Yawzi,2,6,Macroalgae,nd
+10/01/89,Yawzi,2,7,Macroalgae,nd
+10/01/89,Yawzi,2,8,Macroalgae,nd
+10/01/89,Yawzi,2,9,Macroalgae,nd
+10/01/89,Yawzi,2,10,Macroalgae,nd
+10/01/89,Yawzi,3,1,Macroalgae,3
+10/01/89,Yawzi,3,2,Macroalgae,11
+10/01/89,Yawzi,3,3,Macroalgae,17
+10/01/89,Yawzi,3,4,Macroalgae,14
+10/01/89,Yawzi,3,5,Macroalgae,11
+10/01/89,Yawzi,3,6,Macroalgae,53
+10/01/89,Yawzi,3,7,Macroalgae,48
+10/01/89,Yawzi,3,8,Macroalgae,47
+10/01/89,Yawzi,3,9,Macroalgae,67.5
+10/01/89,Yawzi,3,10,Macroalgae,62.5
+09/01/90,Yawzi,1,1,Macroalgae,8.5
+09/01/90,Yawzi,1,2,Macroalgae,14
+09/01/90,Yawzi,1,3,Macroalgae,5
+09/01/90,Yawzi,1,4,Macroalgae,3
+09/01/90,Yawzi,1,5,Macroalgae,6.5
+09/01/90,Yawzi,1,6,Macroalgae,11
+09/01/90,Yawzi,1,7,Macroalgae,10.5
+09/01/90,Yawzi,1,8,Macroalgae,3.5
+09/01/90,Yawzi,1,9,Macroalgae,1.5
+09/01/90,Yawzi,1,10,Macroalgae,10
+09/01/90,Yawzi,2,1,Macroalgae,4
+09/01/90,Yawzi,2,2,Macroalgae,7.5
+09/01/90,Yawzi,2,3,Macroalgae,10.5
+09/01/90,Yawzi,2,4,Macroalgae,21
+09/01/90,Yawzi,2,5,Macroalgae,46
+09/01/90,Yawzi,2,6,Macroalgae,68.5
+09/01/90,Yawzi,2,7,Macroalgae,69.5
+09/01/90,Yawzi,2,8,Macroalgae,55
+09/01/90,Yawzi,2,9,Macroalgae,81
+09/01/90,Yawzi,2,10,Macroalgae,70
+09/01/90,Yawzi,3,1,Macroalgae,5.5
+09/01/90,Yawzi,3,2,Macroalgae,4
+09/01/90,Yawzi,3,3,Macroalgae,15.5
+09/01/90,Yawzi,3,4,Macroalgae,25.5
+09/01/90,Yawzi,3,5,Macroalgae,36
+09/01/90,Yawzi,3,6,Macroalgae,63.5
+09/01/90,Yawzi,3,7,Macroalgae,47
+09/01/90,Yawzi,3,8,Macroalgae,69
+09/01/90,Yawzi,3,10,Macroalgae,78.5
+03/01/91,Yawzi,1,1,Macroalgae,0
+03/01/91,Yawzi,1,2,Macroalgae,4
+03/01/91,Yawzi,1,3,Macroalgae,3.5
+03/01/91,Yawzi,1,4,Macroalgae,1
+03/01/91,Yawzi,1,5,Macroalgae,3
+03/01/91,Yawzi,1,6,Macroalgae,2.5
+03/01/91,Yawzi,1,7,Macroalgae,2.5
+03/01/91,Yawzi,1,8,Macroalgae,2.5
+03/01/91,Yawzi,1,9,Macroalgae,2
+03/01/91,Yawzi,1,10,Macroalgae,7.5
+03/01/91,Yawzi,2,1,Macroalgae,2.5
+03/01/91,Yawzi,2,2,Macroalgae,0
+03/01/91,Yawzi,2,3,Macroalgae,4.5
+03/01/91,Yawzi,2,4,Macroalgae,2
+03/01/91,Yawzi,2,5,Macroalgae,18
+03/01/91,Yawzi,2,6,Macroalgae,22
+03/01/91,Yawzi,2,7,Macroalgae,9.5
+03/01/91,Yawzi,2,8,Macroalgae,0.5
+03/01/91,Yawzi,2,9,Macroalgae,14.5
+03/01/91,Yawzi,2,10,Macroalgae,12
+03/01/91,Yawzi,3,1,Macroalgae,4.5
+03/01/91,Yawzi,3,2,Macroalgae,3.5
+03/01/91,Yawzi,3,3,Macroalgae,3
+03/01/91,Yawzi,3,4,Macroalgae,2.5
+03/01/91,Yawzi,3,5,Macroalgae,2.5
+03/01/91,Yawzi,3,6,Macroalgae,4
+03/01/91,Yawzi,3,7,Macroalgae,15
+03/01/91,Yawzi,3,8,Macroalgae,16
+03/01/91,Yawzi,3,9,Macroalgae,11.5
+03/01/91,Yawzi,3,10,Macroalgae,21.5
+05/01/92,Yawzi,1,1,Macroalgae,0
+05/01/92,Yawzi,1,2,Macroalgae,0.5
+05/01/92,Yawzi,1,3,Macroalgae,1.5
+05/01/92,Yawzi,1,4,Macroalgae,0
+05/01/92,Yawzi,1,5,Macroalgae,0
+05/01/92,Yawzi,1,6,Macroalgae,0
+05/01/92,Yawzi,1,7,Macroalgae,1.5
+05/01/92,Yawzi,1,8,Macroalgae,0
+05/01/92,Yawzi,1,9,Macroalgae,0
+05/01/92,Yawzi,1,10,Macroalgae,0
+05/01/92,Yawzi,2,2,Macroalgae,nd
+05/01/92,Yawzi,2,3,Macroalgae,nd
+05/01/92,Yawzi,2,4,Macroalgae,nd
+05/01/92,Yawzi,2,5,Macroalgae,nd
+05/01/92,Yawzi,2,6,Macroalgae,nd
+05/01/92,Yawzi,2,7,Macroalgae,nd
+05/01/92,Yawzi,2,8,Macroalgae,nd
+05/01/92,Yawzi,2,9,Macroalgae,nd
+05/01/92,Yawzi,2,10,Macroalgae,nd
+05/01/92,Yawzi,3,1,Macroalgae,0
+05/01/92,Yawzi,3,2,Macroalgae,3
+05/01/92,Yawzi,3,3,Macroalgae,0.6
+05/01/92,Yawzi,3,4,Macroalgae,1.2
+05/01/92,Yawzi,3,5,Macroalgae,0
+05/01/92,Yawzi,3,6,Macroalgae,2.3
+05/01/92,Yawzi,3,7,Macroalgae,7.3
+05/01/92,Yawzi,3,8,Macroalgae,12.4
+05/01/92,Yawzi,3,9,Macroalgae,20.2
+05/01/92,Yawzi,3,10,Macroalgae,25.3
+06/01/93,Yawzi,1,1,Macroalgae,7.5
+06/01/93,Yawzi,1,2,Macroalgae,27
+06/01/93,Yawzi,1,3,Macroalgae,4
+06/01/93,Yawzi,1,4,Macroalgae,5.5
+06/01/93,Yawzi,1,5,Macroalgae,0
+06/01/93,Yawzi,1,6,Macroalgae,2
+06/01/93,Yawzi,1,7,Macroalgae,1
+06/01/93,Yawzi,1,8,Macroalgae,6.5
+06/01/93,Yawzi,1,9,Macroalgae,1
+06/01/93,Yawzi,1,10,Macroalgae,4.5
+06/01/93,Yawzi,2,1,Macroalgae,1
+06/01/93,Yawzi,2,2,Macroalgae,10
+06/01/93,Yawzi,2,3,Macroalgae,8.5
+06/01/93,Yawzi,2,4,Macroalgae,14.5
+06/01/93,Yawzi,2,5,Macroalgae,6.5
+06/01/93,Yawzi,2,6,Macroalgae,35
+06/01/93,Yawzi,2,7,Macroalgae,16.5
+06/01/93,Yawzi,2,8,Macroalgae,21
+06/01/93,Yawzi,2,9,Macroalgae,32
+06/01/93,Yawzi,2,10,Macroalgae,1
+06/01/93,Yawzi,3,1,Macroalgae,0
+06/01/93,Yawzi,3,2,Macroalgae,2.5
+06/01/93,Yawzi,3,3,Macroalgae,4
+06/01/93,Yawzi,3,4,Macroalgae,1.5
+06/01/93,Yawzi,3,5,Macroalgae,9
+06/01/93,Yawzi,3,6,Macroalgae,16
+06/01/93,Yawzi,3,7,Macroalgae,9.5
+06/01/93,Yawzi,3,8,Macroalgae,7.2
+06/01/93,Yawzi,3,9,Macroalgae,17.9
+06/01/93,Yawzi,3,10,Macroalgae,16.1
+08/01/94,Yawzi,1,1,Macroalgae,4
+08/01/94,Yawzi,1,2,Macroalgae,16.5
+08/01/94,Yawzi,1,3,Macroalgae,0
+08/01/94,Yawzi,1,4,Macroalgae,1
+08/01/94,Yawzi,1,5,Macroalgae,4
+08/01/94,Yawzi,1,6,Macroalgae,3.5
+08/01/94,Yawzi,1,7,Macroalgae,0
+08/01/94,Yawzi,1,8,Macroalgae,0
+08/01/94,Yawzi,1,9,Macroalgae,2
+08/01/94,Yawzi,1,10,Macroalgae,6
+08/01/94,Yawzi,2,1,Macroalgae,5
+08/01/94,Yawzi,2,2,Macroalgae,6
+08/01/94,Yawzi,2,3,Macroalgae,18
+08/01/94,Yawzi,2,4,Macroalgae,14
+08/01/94,Yawzi,2,5,Macroalgae,17.5
+08/01/94,Yawzi,2,6,Macroalgae,24.5
+08/01/94,Yawzi,2,7,Macroalgae,42
+08/01/94,Yawzi,2,8,Macroalgae,42.5
+08/01/94,Yawzi,2,9,Macroalgae,56
+08/01/94,Yawzi,2,10,Macroalgae,14.5
+08/01/94,Yawzi,3,1,Macroalgae,3.5
+08/01/94,Yawzi,3,2,Macroalgae,2.5
+08/01/94,Yawzi,3,3,Macroalgae,5
+08/01/94,Yawzi,3,4,Macroalgae,24.5
+08/01/94,Yawzi,3,5,Macroalgae,20.5
+08/01/94,Yawzi,3,6,Macroalgae,23
+08/01/94,Yawzi,3,7,Macroalgae,30.5
+08/01/94,Yawzi,3,8,Macroalgae,38
+08/01/94,Yawzi,3,9,Macroalgae,55.5
+08/01/94,Yawzi,3,10,Macroalgae,37
+05/01/95,Yawzi,1,1,Macroalgae,3
+05/01/95,Yawzi,1,2,Macroalgae,6.5
+05/01/95,Yawzi,1,3,Macroalgae,0
+05/01/95,Yawzi,1,4,Macroalgae,0.5
+05/01/95,Yawzi,1,5,Macroalgae,0
+05/01/95,Yawzi,1,6,Macroalgae,0
+05/01/95,Yawzi,1,7,Macroalgae,0
+05/01/95,Yawzi,1,8,Macroalgae,3
+05/01/95,Yawzi,1,9,Macroalgae,7
+05/01/95,Yawzi,1,10,Macroalgae,5
+05/01/95,Yawzi,2,1,Macroalgae,0
+05/01/95,Yawzi,2,2,Macroalgae,2
+05/01/95,Yawzi,2,3,Macroalgae,15.5
+05/01/95,Yawzi,2,4,Macroalgae,14.5
+05/01/95,Yawzi,2,5,Macroalgae,7
+05/01/95,Yawzi,2,6,Macroalgae,31
+05/01/95,Yawzi,2,7,Macroalgae,32
+05/01/95,Yawzi,2,8,Macroalgae,26
+05/01/95,Yawzi,2,9,Macroalgae,22.5
+05/01/95,Yawzi,2,10,Macroalgae,22
+05/01/95,Yawzi,3,1,Macroalgae,2.5
+05/01/95,Yawzi,3,2,Macroalgae,0
+05/01/95,Yawzi,3,3,Macroalgae,3.5
+05/01/95,Yawzi,3,4,Macroalgae,4
+05/01/95,Yawzi,3,5,Macroalgae,19
+05/01/95,Yawzi,3,6,Macroalgae,17.5
+05/01/95,Yawzi,3,7,Macroalgae,19.5
+05/01/95,Yawzi,3,8,Macroalgae,44.5
+05/01/95,Yawzi,3,9,Macroalgae,49
+05/01/95,Yawzi,3,10,Macroalgae,34
+05/01/96,Yawzi,1,1,Macroalgae,1.1
+05/01/96,Yawzi,1,2,Macroalgae,7
+05/01/96,Yawzi,1,3,Macroalgae,2.6
+05/01/96,Yawzi,1,4,Macroalgae,2.1
+05/01/96,Yawzi,1,5,Macroalgae,5.8
+05/01/96,Yawzi,1,6,Macroalgae,3.6
+05/01/96,Yawzi,1,7,Macroalgae,5.8
+05/01/96,Yawzi,1,8,Macroalgae,13.7
+05/01/96,Yawzi,1,9,Macroalgae,6.1
+05/01/96,Yawzi,1,10,Macroalgae,45.9
+05/01/96,Yawzi,2,1,Macroalgae,47.1
+05/01/96,Yawzi,2,2,Macroalgae,63.2
+05/01/96,Yawzi,2,3,Macroalgae,65.1
+05/01/96,Yawzi,2,4,Macroalgae,64
+05/01/96,Yawzi,2,5,Macroalgae,56
+05/01/96,Yawzi,2,6,Macroalgae,47.1
+05/01/96,Yawzi,2,7,Macroalgae,30.8
+05/01/96,Yawzi,2,8,Macroalgae,31.1
+05/01/96,Yawzi,2,9,Macroalgae,25.8
+05/01/96,Yawzi,2,10,Macroalgae,10.5
+05/01/96,Yawzi,3,1,Macroalgae,26.3
+05/01/96,Yawzi,3,2,Macroalgae,10.5
+05/01/96,Yawzi,3,3,Macroalgae,8.9
+05/01/96,Yawzi,3,4,Macroalgae,20.6
+05/01/96,Yawzi,3,5,Macroalgae,29
+05/01/96,Yawzi,3,6,Macroalgae,29
+05/01/96,Yawzi,3,7,Macroalgae,23.5
+05/01/96,Yawzi,3,8,Macroalgae,26.6
+05/01/96,Yawzi,3,9,Macroalgae,16.1
+05/01/96,Yawzi,3,10,Macroalgae,15.1
+05/01/97,Yawzi,1,1,Macroalgae,0
+05/01/97,Yawzi,1,2,Macroalgae,7
+05/01/97,Yawzi,1,3,Macroalgae,12.5
+05/01/97,Yawzi,1,4,Macroalgae,2
+05/01/97,Yawzi,1,5,Macroalgae,0
+05/01/97,Yawzi,1,6,Macroalgae,1.5
+05/01/97,Yawzi,1,7,Macroalgae,5.5
+05/01/97,Yawzi,1,8,Macroalgae,5
+05/01/97,Yawzi,1,9,Macroalgae,9
+05/01/97,Yawzi,1,10,Macroalgae,43
+05/01/97,Yawzi,2,1,Macroalgae,82
+05/01/97,Yawzi,2,2,Macroalgae,78
+05/01/97,Yawzi,2,3,Macroalgae,78.5
+05/01/97,Yawzi,2,4,Macroalgae,96.5
+05/01/97,Yawzi,2,5,Macroalgae,88
+05/01/97,Yawzi,2,6,Macroalgae,89
+05/01/97,Yawzi,2,7,Macroalgae,82
+05/01/97,Yawzi,2,8,Macroalgae,72.5
+05/01/97,Yawzi,2,9,Macroalgae,63.5
+05/01/97,Yawzi,2,10,Macroalgae,71.5
+05/01/97,Yawzi,3,1,Macroalgae,61.5
+05/01/97,Yawzi,3,2,Macroalgae,46.5
+05/01/97,Yawzi,3,3,Macroalgae,41.5
+05/01/97,Yawzi,3,4,Macroalgae,86
+05/01/97,Yawzi,3,5,Macroalgae,83.5
+05/01/97,Yawzi,3,6,Macroalgae,78
+05/01/97,Yawzi,3,7,Macroalgae,75.5
+05/01/97,Yawzi,3,8,Macroalgae,73.5
+05/01/97,Yawzi,3,9,Macroalgae,75
+05/01/97,Yawzi,3,10,Macroalgae,63
+08/01/98,Yawzi,1,1,Macroalgae,2.5
+08/01/98,Yawzi,1,2,Macroalgae,9.5
+08/01/98,Yawzi,1,3,Macroalgae,3
+08/01/98,Yawzi,1,4,Macroalgae,4
+08/01/98,Yawzi,1,5,Macroalgae,2
+08/01/98,Yawzi,1,6,Macroalgae,7
+08/01/98,Yawzi,1,7,Macroalgae,4.5
+08/01/98,Yawzi,1,8,Macroalgae,10
+08/01/98,Yawzi,1,9,Macroalgae,36
+08/01/98,Yawzi,1,10,Macroalgae,37
+08/01/98,Yawzi,2,1,Macroalgae,55.5
+08/01/98,Yawzi,2,2,Macroalgae,48.5
+08/01/98,Yawzi,2,3,Macroalgae,63.5
+08/01/98,Yawzi,2,4,Macroalgae,51
+08/01/98,Yawzi,2,5,Macroalgae,50
+08/01/98,Yawzi,2,6,Macroalgae,23
+08/01/98,Yawzi,2,7,Macroalgae,46
+08/01/98,Yawzi,2,8,Macroalgae,31
+08/01/98,Yawzi,2,9,Macroalgae,32.5
+08/01/98,Yawzi,2,10,Macroalgae,16.5
+08/01/98,Yawzi,3,1,Macroalgae,13.5
+08/01/98,Yawzi,3,2,Macroalgae,30
+08/01/98,Yawzi,3,3,Macroalgae,33.5
+08/01/98,Yawzi,3,4,Macroalgae,37.5
+08/01/98,Yawzi,3,5,Macroalgae,22.5
+08/01/98,Yawzi,3,6,Macroalgae,22.5
+08/01/98,Yawzi,3,7,Macroalgae,13.5
+08/01/98,Yawzi,3,8,Macroalgae,20
+08/01/98,Yawzi,3,9,Macroalgae,26
+08/01/98,Yawzi,3,10,Macroalgae,25
+08/01/99,Yawzi,1,1,Macroalgae,24.9
+08/01/99,Yawzi,1,2,Macroalgae,10.3
+08/01/99,Yawzi,1,3,Macroalgae,5
+08/01/99,Yawzi,1,4,Macroalgae,18.9
+08/01/99,Yawzi,1,5,Macroalgae,12.9
+08/01/99,Yawzi,1,6,Macroalgae,24.3
+08/01/99,Yawzi,1,7,Macroalgae,38.9
+08/01/99,Yawzi,1,8,Macroalgae,22.2
+08/01/99,Yawzi,1,9,Macroalgae,47.9
+08/01/99,Yawzi,1,10,Macroalgae,49.2
+08/01/99,Yawzi,2,1,Macroalgae,56.1
+08/01/99,Yawzi,2,2,Macroalgae,63.7
+08/01/99,Yawzi,2,3,Macroalgae,44
+08/01/99,Yawzi,2,4,Macroalgae,68.1
+08/01/99,Yawzi,2,5,Macroalgae,55.4
+08/01/99,Yawzi,2,6,Macroalgae,39
+08/01/99,Yawzi,2,7,Macroalgae,34.7
+08/01/99,Yawzi,2,8,Macroalgae,49.2
+08/01/99,Yawzi,2,9,Macroalgae,29.4
+08/01/99,Yawzi,2,10,Macroalgae,17.1
+08/01/99,Yawzi,3,1,Macroalgae,42.1
+08/01/99,Yawzi,3,2,Macroalgae,42.2
+08/01/99,Yawzi,3,3,Macroalgae,25.4
+08/01/99,Yawzi,3,4,Macroalgae,52.3
+08/01/99,Yawzi,3,5,Macroalgae,50
+08/01/99,Yawzi,3,6,Macroalgae,57.9
+08/01/99,Yawzi,3,7,Macroalgae,41.4
+08/01/99,Yawzi,3,8,Macroalgae,48
+08/01/99,Yawzi,3,9,Macroalgae,25.3
+08/01/99,Yawzi,3,10,Macroalgae,44.4
+08/01/00,Yawzi,1,1,Macroalgae,0.5
+08/01/00,Yawzi,1,2,Macroalgae,11.6
+08/01/00,Yawzi,1,3,Macroalgae,11.6
+08/01/00,Yawzi,1,4,Macroalgae,6.5
+08/01/00,Yawzi,1,5,Macroalgae,7.9
+08/01/00,Yawzi,1,6,Macroalgae,18
+08/01/00,Yawzi,1,7,Macroalgae,20.5
+08/01/00,Yawzi,1,8,Macroalgae,18.5
+08/01/00,Yawzi,1,9,Macroalgae,20
+08/01/00,Yawzi,1,10,Macroalgae,37.7
+08/01/00,Yawzi,2,1,Macroalgae,56.4
+08/01/00,Yawzi,2,2,Macroalgae,63.8
+08/01/00,Yawzi,2,3,Macroalgae,66.3
+08/01/00,Yawzi,2,4,Macroalgae,73.6
+08/01/00,Yawzi,2,5,Macroalgae,63.3
+08/01/00,Yawzi,2,6,Macroalgae,52.3
+08/01/00,Yawzi,2,7,Macroalgae,72.3
+08/01/00,Yawzi,2,8,Macroalgae,50.5
+08/01/00,Yawzi,2,9,Macroalgae,34.4
+08/01/00,Yawzi,2,10,Macroalgae,25.9
+08/01/00,Yawzi,3,1,Macroalgae,41.1
+08/01/00,Yawzi,3,2,Macroalgae,46
+08/01/00,Yawzi,3,3,Macroalgae,33.7
+08/01/00,Yawzi,3,4,Macroalgae,50
+08/01/00,Yawzi,3,5,Macroalgae,28.1
+08/01/00,Yawzi,3,6,Macroalgae,45.9
+08/01/00,Yawzi,3,7,Macroalgae,52.4
+08/01/00,Yawzi,3,8,Macroalgae,23
+08/01/00,Yawzi,3,9,Macroalgae,30.2
+08/01/00,Yawzi,3,10,Macroalgae,42.4
+08/01/01,Yawzi,1,1,Macroalgae,31.3
+08/01/01,Yawzi,1,2,Macroalgae,15.1
+08/01/01,Yawzi,1,3,Macroalgae,7.1
+08/01/01,Yawzi,1,4,Macroalgae,7.2
+08/01/01,Yawzi,1,5,Macroalgae,3
+08/01/01,Yawzi,1,6,Macroalgae,13.2
+08/01/01,Yawzi,1,7,Macroalgae,19.9
+08/01/01,Yawzi,1,8,Macroalgae,14.6
+08/01/01,Yawzi,1,9,Macroalgae,21.2
+08/01/01,Yawzi,1,10,Macroalgae,24.9
+08/01/01,Yawzi,2,1,Macroalgae,51.8
+08/01/01,Yawzi,2,2,Macroalgae,57.1
+08/01/01,Yawzi,2,3,Macroalgae,49.7
+08/01/01,Yawzi,2,4,Macroalgae,45.4
+08/01/01,Yawzi,2,5,Macroalgae,26.4
+08/01/01,Yawzi,2,6,Macroalgae,15.2
+08/01/01,Yawzi,2,7,Macroalgae,32.2
+08/01/01,Yawzi,2,8,Macroalgae,14.8
+08/01/01,Yawzi,2,9,Macroalgae,7.8
+08/01/01,Yawzi,2,10,Macroalgae,13.6
+08/01/01,Yawzi,3,1,Macroalgae,44.5
+08/01/01,Yawzi,3,2,Macroalgae,45.7
+08/01/01,Yawzi,3,3,Macroalgae,32.8
+08/01/01,Yawzi,3,4,Macroalgae,45
+08/01/01,Yawzi,3,5,Macroalgae,23.6
+08/01/01,Yawzi,3,6,Macroalgae,32
+08/01/01,Yawzi,3,7,Macroalgae,27.2
+08/01/01,Yawzi,3,8,Macroalgae,15.7
+08/01/01,Yawzi,3,9,Macroalgae,7.1
+08/01/01,Yawzi,3,10,Macroalgae,18.3
+08/01/02,Yawzi,1,1,Macroalgae,20.2
+08/01/02,Yawzi,1,2,Macroalgae,21.8
+08/01/02,Yawzi,1,3,Macroalgae,17
+08/01/02,Yawzi,1,4,Macroalgae,21.6
+08/01/02,Yawzi,1,5,Macroalgae,37
+08/01/02,Yawzi,1,6,Macroalgae,29.9
+08/01/02,Yawzi,1,7,Macroalgae,35.2
+08/01/02,Yawzi,1,8,Macroalgae,57.1
+08/01/02,Yawzi,1,9,Macroalgae,50.5
+08/01/02,Yawzi,1,10,Macroalgae,37.6
+08/01/02,Yawzi,2,1,Macroalgae,43.7
+08/01/02,Yawzi,2,2,Macroalgae,58.8
+08/01/02,Yawzi,2,3,Macroalgae,61.4
+08/01/02,Yawzi,2,4,Macroalgae,65.3
+08/01/02,Yawzi,2,5,Macroalgae,43
+08/01/02,Yawzi,2,6,Macroalgae,35
+08/01/02,Yawzi,2,7,Macroalgae,41.1
+08/01/02,Yawzi,2,8,Macroalgae,41.2
+08/01/02,Yawzi,2,9,Macroalgae,26.3
+08/01/02,Yawzi,2,10,Macroalgae,34.2
+08/01/02,Yawzi,3,1,Macroalgae,52.3
+08/01/02,Yawzi,3,2,Macroalgae,49.5
+08/01/02,Yawzi,3,3,Macroalgae,31.8
+08/01/02,Yawzi,3,4,Macroalgae,53.6
+08/01/02,Yawzi,3,5,Macroalgae,40.1
+08/01/02,Yawzi,3,6,Macroalgae,49.5
+08/01/02,Yawzi,3,7,Macroalgae,31.7
+08/01/02,Yawzi,3,8,Macroalgae,38.7
+08/01/02,Yawzi,3,9,Macroalgae,14
+08/01/02,Yawzi,3,10,Macroalgae,43
+08/01/03,Yawzi,1,1,Macroalgae,2
+08/01/03,Yawzi,1,2,Macroalgae,6.1
+08/01/03,Yawzi,1,3,Macroalgae,4
+08/01/03,Yawzi,1,4,Macroalgae,4
+08/01/03,Yawzi,1,5,Macroalgae,4.1
+08/01/03,Yawzi,1,6,Macroalgae,4.6
+08/01/03,Yawzi,1,7,Macroalgae,9.2
+08/01/03,Yawzi,1,8,Macroalgae,29.4
+08/01/03,Yawzi,1,9,Macroalgae,22.1
+08/01/03,Yawzi,1,10,Macroalgae,28.7
+08/01/03,Yawzi,2,1,Macroalgae,58.4
+08/01/03,Yawzi,2,2,Macroalgae,32.3
+08/01/03,Yawzi,2,3,Macroalgae,32
+08/01/03,Yawzi,2,4,Macroalgae,43.1
+08/01/03,Yawzi,2,5,Macroalgae,27.8
+08/01/03,Yawzi,2,6,Macroalgae,23.7
+08/01/03,Yawzi,2,7,Macroalgae,26.3
+08/01/03,Yawzi,2,8,Macroalgae,16.7
+08/01/03,Yawzi,2,9,Macroalgae,18.9
+08/01/03,Yawzi,2,10,Macroalgae,8.1
+08/01/03,Yawzi,3,1,Macroalgae,52.1
+08/01/03,Yawzi,3,2,Macroalgae,33.3
+08/01/03,Yawzi,3,3,Macroalgae,19.4
+08/01/03,Yawzi,3,4,Macroalgae,38.9
+08/01/03,Yawzi,3,5,Macroalgae,31.6
+08/01/03,Yawzi,3,6,Macroalgae,32.5
+08/01/03,Yawzi,3,7,Macroalgae,35.5
+08/01/03,Yawzi,3,8,Macroalgae,29.1
+08/01/03,Yawzi,3,9,Macroalgae,1.5
+08/01/03,Yawzi,3,10,Macroalgae,41
+08/01/04,Yawzi,1,1,Macroalgae,0.6
+08/01/04,Yawzi,1,2,Macroalgae,14.5
+08/01/04,Yawzi,1,3,Macroalgae,0
+08/01/04,Yawzi,1,4,Macroalgae,1.9
+08/01/04,Yawzi,1,5,Macroalgae,22.8
+08/01/04,Yawzi,1,6,Macroalgae,34.4
+08/01/04,Yawzi,1,7,Macroalgae,46.6
+08/01/04,Yawzi,1,8,Macroalgae,43.6
+08/01/04,Yawzi,1,9,Macroalgae,46.7
+08/01/04,Yawzi,1,10,Macroalgae,55.2
+08/01/04,Yawzi,2,1,Macroalgae,42.9
+08/01/04,Yawzi,2,2,Macroalgae,33.9
+08/01/04,Yawzi,2,3,Macroalgae,36.6
+08/01/04,Yawzi,2,4,Macroalgae,40
+08/01/04,Yawzi,2,5,Macroalgae,16.5
+08/01/04,Yawzi,2,6,Macroalgae,10
+08/01/04,Yawzi,2,7,Macroalgae,4.8
+08/01/04,Yawzi,2,8,Macroalgae,11.9
+08/01/04,Yawzi,2,9,Macroalgae,9.6
+08/01/04,Yawzi,2,10,Macroalgae,7.4
+08/01/04,Yawzi,3,1,Macroalgae,34.7
+08/01/04,Yawzi,3,2,Macroalgae,34.1
+08/01/04,Yawzi,3,3,Macroalgae,20.8
+08/01/04,Yawzi,3,4,Macroalgae,8.8
+08/01/04,Yawzi,3,5,Macroalgae,9.4
+08/01/04,Yawzi,3,6,Macroalgae,8.4
+08/01/04,Yawzi,3,7,Macroalgae,5.6
+08/01/04,Yawzi,3,8,Macroalgae,6
+08/01/04,Yawzi,3,9,Macroalgae,1.8
+08/01/04,Yawzi,3,10,Macroalgae,8.1
+08/01/05,Yawzi,1,1,Macroalgae,0
+08/01/05,Yawzi,1,2,Macroalgae,23.3
+08/01/05,Yawzi,1,3,Macroalgae,20
+08/01/05,Yawzi,1,4,Macroalgae,39.3
+08/01/05,Yawzi,1,5,Macroalgae,19.4
+08/01/05,Yawzi,1,6,Macroalgae,1.8
+08/01/05,Yawzi,1,7,Macroalgae,3
+08/01/05,Yawzi,1,8,Macroalgae,32.4
+08/01/05,Yawzi,1,9,Macroalgae,9.8
+08/01/05,Yawzi,1,10,Macroalgae,44.6
+08/01/05,Yawzi,2,1,Macroalgae,41.9
+08/01/05,Yawzi,2,2,Macroalgae,46
+08/01/05,Yawzi,2,3,Macroalgae,51.6
+08/01/05,Yawzi,2,4,Macroalgae,61.3
+08/01/05,Yawzi,2,5,Macroalgae,49.1
+08/01/05,Yawzi,2,6,Macroalgae,18.8
+08/01/05,Yawzi,2,7,Macroalgae,21.7
+08/01/05,Yawzi,2,8,Macroalgae,28.2
+08/01/05,Yawzi,2,9,Macroalgae,19.9
+08/01/05,Yawzi,2,10,Macroalgae,12
+08/01/05,Yawzi,3,1,Macroalgae,28.3
+08/01/05,Yawzi,3,2,Macroalgae,36
+08/01/05,Yawzi,3,3,Macroalgae,31.9
+08/01/05,Yawzi,3,4,Macroalgae,53.8
+08/01/05,Yawzi,3,5,Macroalgae,39.3
+08/01/05,Yawzi,3,6,Macroalgae,43.3
+08/01/05,Yawzi,3,7,Macroalgae,31.8
+08/01/05,Yawzi,3,8,Macroalgae,19.4
+08/01/05,Yawzi,3,9,Macroalgae,7.3
+08/01/05,Yawzi,3,10,Macroalgae,10.4
+08/01/06,Yawzi,1,1,Macroalgae,7.3
+08/01/06,Yawzi,1,2,Macroalgae,24.9
+08/01/06,Yawzi,1,3,Macroalgae,33.5
+08/01/06,Yawzi,1,4,Macroalgae,10.7
+08/01/06,Yawzi,1,5,Macroalgae,17.7
+08/01/06,Yawzi,1,6,Macroalgae,12.7
+08/01/06,Yawzi,1,7,Macroalgae,21.2
+08/01/06,Yawzi,1,8,Macroalgae,55.9
+08/01/06,Yawzi,1,9,Macroalgae,37.2
+08/01/06,Yawzi,1,10,Macroalgae,50.8
+08/01/06,Yawzi,2,1,Macroalgae,61.3
+08/01/06,Yawzi,2,2,Macroalgae,65.1
+08/01/06,Yawzi,2,3,Macroalgae,68
+08/01/06,Yawzi,2,4,Macroalgae,85.7
+08/01/06,Yawzi,2,5,Macroalgae,69.6
+08/01/06,Yawzi,2,6,Macroalgae,54.5
+08/01/06,Yawzi,2,7,Macroalgae,74.2
+08/01/06,Yawzi,2,8,Macroalgae,61.5
+08/01/06,Yawzi,2,9,Macroalgae,44.9
+08/01/06,Yawzi,2,10,Macroalgae,45.3
+08/01/06,Yawzi,3,1,Macroalgae,78.6
+08/01/06,Yawzi,3,2,Macroalgae,56.7
+08/01/06,Yawzi,3,3,Macroalgae,43.9
+08/01/06,Yawzi,3,4,Macroalgae,51.8
+08/01/06,Yawzi,3,5,Macroalgae,63.1
+08/01/06,Yawzi,3,6,Macroalgae,61
+08/01/06,Yawzi,3,7,Macroalgae,40.5
+08/01/06,Yawzi,3,8,Macroalgae,46.6
+08/01/06,Yawzi,3,9,Macroalgae,29
+08/01/06,Yawzi,3,10,Macroalgae,46.4
+08/01/07,Yawzi,1,1,Macroalgae,3.2
+08/01/07,Yawzi,1,2,Macroalgae,10.6
+08/01/07,Yawzi,1,3,Macroalgae,31.7
+08/01/07,Yawzi,1,4,Macroalgae,16.1
+08/01/07,Yawzi,1,5,Macroalgae,19.8
+08/01/07,Yawzi,1,6,Macroalgae,22.4
+08/01/07,Yawzi,1,7,Macroalgae,27.6
+08/01/07,Yawzi,1,8,Macroalgae,36.5
+08/01/07,Yawzi,1,9,Macroalgae,26.5
+08/01/07,Yawzi,1,10,Macroalgae,30.5
+08/01/07,Yawzi,2,1,Macroalgae,39.5
+08/01/07,Yawzi,2,2,Macroalgae,44.2
+08/01/07,Yawzi,2,3,Macroalgae,41.9
+08/01/07,Yawzi,2,4,Macroalgae,49.7
+08/01/07,Yawzi,2,5,Macroalgae,34.9
+08/01/07,Yawzi,2,6,Macroalgae,17
+08/01/07,Yawzi,2,7,Macroalgae,34.5
+08/01/07,Yawzi,2,8,Macroalgae,33.5
+08/01/07,Yawzi,2,9,Macroalgae,10.8
+08/01/07,Yawzi,2,10,Macroalgae,29.9
+08/01/07,Yawzi,3,1,Macroalgae,23.5
+08/01/07,Yawzi,3,2,Macroalgae,31.3
+08/01/07,Yawzi,3,3,Macroalgae,28.1
+08/01/07,Yawzi,3,4,Macroalgae,31
+08/01/07,Yawzi,3,5,Macroalgae,19
+08/01/07,Yawzi,3,6,Macroalgae,18.6
+08/01/07,Yawzi,3,7,Macroalgae,15.8
+08/01/07,Yawzi,3,8,Macroalgae,22.6
+08/01/07,Yawzi,3,9,Macroalgae,24.2
+08/01/07,Yawzi,3,10,Macroalgae,19.1
+08/01/08,Yawzi,1,1,Macroalgae,0
+08/01/08,Yawzi,1,2,Macroalgae,6.3
+08/01/08,Yawzi,1,3,Macroalgae,15.8
+08/01/08,Yawzi,1,4,Macroalgae,30.7
+08/01/08,Yawzi,1,5,Macroalgae,24.1
+08/01/08,Yawzi,1,6,Macroalgae,23
+08/01/08,Yawzi,1,7,Macroalgae,32.7
+08/01/08,Yawzi,1,8,Macroalgae,20.7
+08/01/08,Yawzi,1,9,Macroalgae,33.1
+08/01/08,Yawzi,1,10,Macroalgae,32.3
+08/01/08,Yawzi,2,1,Macroalgae,64.4
+08/01/08,Yawzi,2,2,Macroalgae,56.8
+08/01/08,Yawzi,2,3,Macroalgae,41.9
+08/01/08,Yawzi,2,4,Macroalgae,40.2
+08/01/08,Yawzi,2,5,Macroalgae,34.6
+08/01/08,Yawzi,2,6,Macroalgae,41
+08/01/08,Yawzi,2,7,Macroalgae,19.7
+08/01/08,Yawzi,2,8,Macroalgae,21.3
+08/01/08,Yawzi,2,9,Macroalgae,19.2
+08/01/08,Yawzi,2,10,Macroalgae,29.4
+08/01/08,Yawzi,3,1,Macroalgae,30.8
+08/01/08,Yawzi,3,2,Macroalgae,29
+08/01/08,Yawzi,3,3,Macroalgae,24.6
+08/01/08,Yawzi,3,4,Macroalgae,27.9
+08/01/08,Yawzi,3,5,Macroalgae,33.3
+08/01/08,Yawzi,3,6,Macroalgae,32.4
+08/01/08,Yawzi,3,7,Macroalgae,13
+08/01/08,Yawzi,3,8,Macroalgae,17
+08/01/08,Yawzi,3,9,Macroalgae,10
+08/01/08,Yawzi,3,10,Macroalgae,7.6
+08/01/09,Yawzi,1,1,Macroalgae,2.1
+08/01/09,Yawzi,1,2,Macroalgae,31.4
+08/01/09,Yawzi,1,3,Macroalgae,14.5
+08/01/09,Yawzi,1,4,Macroalgae,26.9
+08/01/09,Yawzi,1,5,Macroalgae,17.1
+08/01/09,Yawzi,1,6,Macroalgae,40.9
+08/01/09,Yawzi,1,7,Macroalgae,27.4
+08/01/09,Yawzi,1,8,Macroalgae,49.2
+08/01/09,Yawzi,1,9,Macroalgae,56.2
+08/01/09,Yawzi,1,10,Macroalgae,44.7
+08/01/09,Yawzi,2,1,Macroalgae,74.1
+08/01/09,Yawzi,2,2,Macroalgae,77
+08/01/09,Yawzi,2,3,Macroalgae,50.8
+08/01/09,Yawzi,2,4,Macroalgae,54.2
+08/01/09,Yawzi,2,5,Macroalgae,47.1
+08/01/09,Yawzi,2,6,Macroalgae,28.3
+08/01/09,Yawzi,2,7,Macroalgae,48.7
+08/01/09,Yawzi,2,8,Macroalgae,38.1
+08/01/09,Yawzi,2,9,Macroalgae,37.2
+08/01/09,Yawzi,2,10,Macroalgae,33.3
+08/01/09,Yawzi,3,1,Macroalgae,58.6
+08/01/09,Yawzi,3,2,Macroalgae,39.4
+08/01/09,Yawzi,3,3,Macroalgae,51.4
+08/01/09,Yawzi,3,4,Macroalgae,36.1
+08/01/09,Yawzi,3,5,Macroalgae,45.8
+08/01/09,Yawzi,3,6,Macroalgae,34.9
+08/01/09,Yawzi,3,7,Macroalgae,32.6
+08/01/09,Yawzi,3,8,Macroalgae,35.1
+08/01/09,Yawzi,3,9,Macroalgae,32.3
+08/01/09,Yawzi,3,10,Macroalgae,46.4
+08/01/10,Yawzi,1,1,Macroalgae,20.9
+08/01/10,Yawzi,1,2,Macroalgae,49.7
+08/01/10,Yawzi,1,3,Macroalgae,37.6
+08/01/10,Yawzi,1,4,Macroalgae,37.6
+08/01/10,Yawzi,1,5,Macroalgae,22.2
+08/01/10,Yawzi,1,6,Macroalgae,26.3
+08/01/10,Yawzi,1,7,Macroalgae,34
+08/01/10,Yawzi,1,8,Macroalgae,45.8
+08/01/10,Yawzi,1,9,Macroalgae,37
+08/01/10,Yawzi,1,10,Macroalgae,52.7
+08/01/10,Yawzi,2,1,Macroalgae,45.8
+08/01/10,Yawzi,2,2,Macroalgae,52.4
+08/01/10,Yawzi,2,3,Macroalgae,64.8
+08/01/10,Yawzi,2,4,Macroalgae,60.6
+08/01/10,Yawzi,2,5,Macroalgae,67.2
+08/01/10,Yawzi,2,6,Macroalgae,60.3
+08/01/10,Yawzi,2,7,Macroalgae,50.5
+08/01/10,Yawzi,2,8,Macroalgae,54.3
+08/01/10,Yawzi,2,9,Macroalgae,40.6
+08/01/10,Yawzi,2,10,Macroalgae,32.5
+08/01/10,Yawzi,3,1,Macroalgae,40.9
+08/01/10,Yawzi,3,2,Macroalgae,74.2
+08/01/10,Yawzi,3,3,Macroalgae,56
+08/01/10,Yawzi,3,4,Macroalgae,45
+08/01/10,Yawzi,3,5,Macroalgae,59.8
+08/01/10,Yawzi,3,6,Macroalgae,52.6
+08/01/10,Yawzi,3,7,Macroalgae,38.2
+08/01/10,Yawzi,3,8,Macroalgae,57.1
+08/01/10,Yawzi,3,9,Macroalgae,44.7
+08/01/10,Yawzi,3,10,Macroalgae,38.3
+08/01/11,Yawzi,1,1,Macroalgae,15.6
+08/01/11,Yawzi,1,2,Macroalgae,28.6
+08/01/11,Yawzi,1,3,Macroalgae,43.3
+08/01/11,Yawzi,1,4,Macroalgae,29.1
+08/01/11,Yawzi,1,5,Macroalgae,46.9
+08/01/11,Yawzi,1,6,Macroalgae,36.9
+08/01/11,Yawzi,1,7,Macroalgae,36
+08/01/11,Yawzi,1,8,Macroalgae,33.3
+08/01/11,Yawzi,1,9,Macroalgae,31.5
+08/01/11,Yawzi,1,10,Macroalgae,38.2
+08/01/11,Yawzi,2,1,Macroalgae,50.8
+08/01/11,Yawzi,2,2,Macroalgae,71
+08/01/11,Yawzi,2,3,Macroalgae,50.8
+08/01/11,Yawzi,2,4,Macroalgae,44.2
+08/01/11,Yawzi,2,5,Macroalgae,52
+08/01/11,Yawzi,2,6,Macroalgae,24.9
+08/01/11,Yawzi,2,7,Macroalgae,43
+08/01/11,Yawzi,2,8,Macroalgae,32.5
+08/01/11,Yawzi,2,9,Macroalgae,39.5
+08/01/11,Yawzi,2,10,Macroalgae,39.7
+08/01/11,Yawzi,3,1,Macroalgae,48.5
+08/01/11,Yawzi,3,2,Macroalgae,36.5
+08/01/11,Yawzi,3,3,Macroalgae,36.5
+08/01/11,Yawzi,3,4,Macroalgae,64
+08/01/11,Yawzi,3,5,Macroalgae,39.5
+08/01/11,Yawzi,3,6,Macroalgae,13.6
+08/01/11,Yawzi,3,7,Macroalgae,22
+08/01/11,Yawzi,3,8,Macroalgae,30.5
+08/01/11,Yawzi,3,9,Macroalgae,16
+08/01/11,Yawzi,3,10,Macroalgae,38.7
+08/01/12,Yawzi,1,1,Macroalgae,31.7
+08/01/12,Yawzi,1,2,Macroalgae,53.5
+08/01/12,Yawzi,1,3,Macroalgae,49.2
+08/01/12,Yawzi,1,4,Macroalgae,49.5
+08/01/12,Yawzi,1,5,Macroalgae,51.8
+08/01/12,Yawzi,1,6,Macroalgae,61.5
+08/01/12,Yawzi,1,7,Macroalgae,46.5
+08/01/12,Yawzi,1,8,Macroalgae,45.2
+08/01/12,Yawzi,1,9,Macroalgae,51
+08/01/12,Yawzi,1,10,Macroalgae,42.5
+08/01/12,Yawzi,2,1,Macroalgae,59.3
+08/01/12,Yawzi,2,2,Macroalgae,54.5
+08/01/12,Yawzi,2,3,Macroalgae,56.5
+08/01/12,Yawzi,2,4,Macroalgae,53.8
+08/01/12,Yawzi,2,5,Macroalgae,20.5
+08/01/12,Yawzi,2,6,Macroalgae,31.5
+08/01/12,Yawzi,2,7,Macroalgae,52.5
+08/01/12,Yawzi,2,8,Macroalgae,29.1
+08/01/12,Yawzi,2,9,Macroalgae,16.1
+08/01/12,Yawzi,2,10,Macroalgae,20.5
+08/01/12,Yawzi,3,1,Macroalgae,66
+08/01/12,Yawzi,3,2,Macroalgae,52
+08/01/12,Yawzi,3,3,Macroalgae,37
+08/01/12,Yawzi,3,4,Macroalgae,57.7
+08/01/12,Yawzi,3,5,Macroalgae,43.5
+08/01/12,Yawzi,3,6,Macroalgae,23
+08/01/12,Yawzi,3,7,Macroalgae,33.7
+08/01/12,Yawzi,3,8,Macroalgae,37.7
+08/01/12,Yawzi,3,9,Macroalgae,32
+08/01/12,Yawzi,3,10,Macroalgae,26
+08/01/13,Yawzi,1,1,Macroalgae,35
+08/01/13,Yawzi,1,2,Macroalgae,66.8
+08/01/13,Yawzi,1,3,Macroalgae,46.5
+08/01/13,Yawzi,1,4,Macroalgae,34.4
+08/01/13,Yawzi,1,5,Macroalgae,34.6
+08/01/13,Yawzi,1,6,Macroalgae,30.2
+08/01/13,Yawzi,1,7,Macroalgae,55.1
+08/01/13,Yawzi,1,8,Macroalgae,41.1
+08/01/13,Yawzi,1,9,Macroalgae,39.1
+08/01/13,Yawzi,1,10,Macroalgae,12.5
+08/01/13,Yawzi,2,1,Macroalgae,26
+08/01/13,Yawzi,2,2,Macroalgae,36.5
+08/01/13,Yawzi,2,3,Macroalgae,18.1
+08/01/13,Yawzi,2,4,Macroalgae,34.7
+08/01/13,Yawzi,2,5,Macroalgae,33.7
+08/01/13,Yawzi,2,6,Macroalgae,21.7
+08/01/13,Yawzi,2,7,Macroalgae,38
+08/01/13,Yawzi,2,8,Macroalgae,35.5
+08/01/13,Yawzi,2,9,Macroalgae,38.5
+08/01/13,Yawzi,2,10,Macroalgae,27.5
+08/01/13,Yawzi,3,1,Macroalgae,48.7
+08/01/13,Yawzi,3,2,Macroalgae,33.3
+08/01/13,Yawzi,3,3,Macroalgae,31.7
+08/01/13,Yawzi,3,4,Macroalgae,24.5
+08/01/13,Yawzi,3,5,Macroalgae,32
+08/01/13,Yawzi,3,6,Macroalgae,10.5
+08/01/13,Yawzi,3,7,Macroalgae,39
+08/01/13,Yawzi,3,8,Macroalgae,29.5
+08/01/13,Yawzi,3,9,Macroalgae,13
+08/01/13,Yawzi,3,10,Macroalgae,18.6
+08/01/14,Yawzi,1,1,Macroalgae,24
+08/01/14,Yawzi,1,2,Macroalgae,46.7
+08/01/14,Yawzi,1,3,Macroalgae,34.5
+08/01/14,Yawzi,1,4,Macroalgae,46
+08/01/14,Yawzi,1,5,Macroalgae,42
+08/01/14,Yawzi,1,6,Macroalgae,45.5
+08/01/14,Yawzi,1,7,Macroalgae,40.5
+08/01/14,Yawzi,1,8,Macroalgae,53.5
+08/01/14,Yawzi,1,9,Macroalgae,40
+08/01/14,Yawzi,1,10,Macroalgae,33
+08/01/14,Yawzi,2,1,Macroalgae,57.5
+08/01/14,Yawzi,2,2,Macroalgae,60.5
+08/01/14,Yawzi,2,3,Macroalgae,47.7
+08/01/14,Yawzi,2,4,Macroalgae,52.5
+08/01/14,Yawzi,2,5,Macroalgae,33
+08/01/14,Yawzi,2,6,Macroalgae,9.5
+08/01/14,Yawzi,2,7,Macroalgae,24
+08/01/14,Yawzi,2,8,Macroalgae,15
+08/01/14,Yawzi,2,9,Macroalgae,5
+08/01/14,Yawzi,2,10,Macroalgae,16.9
+08/01/14,Yawzi,3,1,Macroalgae,40.5
+08/01/14,Yawzi,3,2,Macroalgae,45.7
+08/01/14,Yawzi,3,3,Macroalgae,27.5
+08/01/14,Yawzi,3,4,Macroalgae,11
+08/01/14,Yawzi,3,5,Macroalgae,26.5
+08/01/14,Yawzi,3,6,Macroalgae,9
+08/01/14,Yawzi,3,7,Macroalgae,21
+08/01/14,Yawzi,3,8,Macroalgae,23.1
+08/01/14,Yawzi,3,9,Macroalgae,9
+08/01/14,Yawzi,3,10,Macroalgae,22.5
+08/01/15,Yawzi,1,1,Macroalgae,35
+08/01/15,Yawzi,1,2,Macroalgae,64
+08/01/15,Yawzi,1,3,Macroalgae,44.7
+08/01/15,Yawzi,1,4,Macroalgae,50
+08/01/15,Yawzi,1,5,Macroalgae,64
+08/01/15,Yawzi,1,6,Macroalgae,72
+08/01/15,Yawzi,1,7,Macroalgae,63
+08/01/15,Yawzi,1,8,Macroalgae,57
+08/01/15,Yawzi,1,9,Macroalgae,56.5
+08/01/15,Yawzi,1,10,Macroalgae,64.5
+08/01/15,Yawzi,2,1,Macroalgae,73.5
+08/01/15,Yawzi,2,2,Macroalgae,73.5
+08/01/15,Yawzi,2,3,Macroalgae,68.5
+08/01/15,Yawzi,2,4,Macroalgae,58.5
+08/01/15,Yawzi,2,5,Macroalgae,55
+08/01/15,Yawzi,2,6,Macroalgae,27.5
+08/01/15,Yawzi,2,7,Macroalgae,45
+08/01/15,Yawzi,2,8,Macroalgae,37.5
+08/01/15,Yawzi,2,9,Macroalgae,21
+08/01/15,Yawzi,2,10,Macroalgae,26.3
+08/01/15,Yawzi,3,1,Macroalgae,42
+08/01/15,Yawzi,3,2,Macroalgae,54.5
+08/01/15,Yawzi,3,3,Macroalgae,50.5
+08/01/15,Yawzi,3,4,Macroalgae,27
+08/01/15,Yawzi,3,5,Macroalgae,40
+08/01/15,Yawzi,3,6,Macroalgae,16.5
+08/01/15,Yawzi,3,7,Macroalgae,23
+08/01/15,Yawzi,3,8,Macroalgae,28
+08/01/15,Yawzi,3,9,Macroalgae,22
+08/01/15,Yawzi,3,10,Macroalgae,29.5
+12/01/87,Yawzi,1,1,CTB,21.5
+12/01/87,Yawzi,1,2,CTB,56.5
+12/01/87,Yawzi,1,3,CTB,3
+12/01/87,Yawzi,1,4,CTB,25
+12/01/87,Yawzi,1,5,CTB,36.4
+12/01/87,Yawzi,1,6,CTB,44.8
+12/01/87,Yawzi,1,7,CTB,28.5
+12/01/87,Yawzi,1,8,CTB,12.5
+12/01/87,Yawzi,1,9,CTB,27
+12/01/87,Yawzi,1,10,CTB,55
+12/01/87,Yawzi,2,1,CTB,26
+12/01/87,Yawzi,2,2,CTB,74
+12/01/87,Yawzi,2,3,CTB,30
+12/01/87,Yawzi,2,4,CTB,19
+12/01/87,Yawzi,2,6,CTB,19
+12/01/87,Yawzi,2,7,CTB,44.5
+12/01/87,Yawzi,2,8,CTB,36.5
+12/01/87,Yawzi,2,9,CTB,44
+12/01/87,Yawzi,2,10,CTB,25.5
+12/01/87,Yawzi,3,1,CTB,2.5
+12/01/87,Yawzi,3,2,CTB,14.5
+12/01/87,Yawzi,3,3,CTB,28
+12/01/87,Yawzi,3,4,CTB,74
+12/01/87,Yawzi,3,5,CTB,37.8
+12/01/87,Yawzi,3,6,CTB,57
+12/01/87,Yawzi,3,7,CTB,34.5
+12/01/87,Yawzi,3,8,CTB,82
+12/01/87,Yawzi,3,9,CTB,42
+12/01/87,Yawzi,3,10,CTB,25
+03/01/88,Yawzi,1,1,CTB,25
+03/01/88,Yawzi,1,2,CTB,37.5
+03/01/88,Yawzi,1,3,CTB,11.2
+03/01/88,Yawzi,1,4,CTB,9.5
+03/01/88,Yawzi,1,5,CTB,18.5
+03/01/88,Yawzi,1,6,CTB,14.5
+03/01/88,Yawzi,1,7,CTB,19.6
+03/01/88,Yawzi,1,8,CTB,15.5
+03/01/88,Yawzi,1,9,CTB,7
+03/01/88,Yawzi,1,10,CTB,26.5
+03/01/88,Yawzi,2,1,CTB,11
+03/01/88,Yawzi,2,2,CTB,21.5
+03/01/88,Yawzi,2,3,CTB,13
+03/01/88,Yawzi,2,4,CTB,18
+03/01/88,Yawzi,2,5,CTB,49
+03/01/88,Yawzi,2,6,CTB,37.5
+03/01/88,Yawzi,2,7,CTB,40.5
+03/01/88,Yawzi,2,8,CTB,69
+03/01/88,Yawzi,2,9,CTB,46.5
+03/01/88,Yawzi,2,10,CTB,14.5
+03/01/88,Yawzi,3,1,CTB,6.5
+03/01/88,Yawzi,3,2,CTB,12.5
+03/01/88,Yawzi,3,3,CTB,27.5
+03/01/88,Yawzi,3,4,CTB,47
+03/01/88,Yawzi,3,5,CTB,39.5
+03/01/88,Yawzi,3,6,CTB,50.5
+03/01/88,Yawzi,3,7,CTB,33
+03/01/88,Yawzi,3,8,CTB,46
+03/01/88,Yawzi,3,9,CTB,36
+03/01/88,Yawzi,3,10,CTB,18.5
+07/01/88,Yawzi,1,1,CTB,29
+07/01/88,Yawzi,1,2,CTB,33
+07/01/88,Yawzi,1,3,CTB,4
+07/01/88,Yawzi,1,4,CTB,12
+07/01/88,Yawzi,1,5,CTB,7.2
+07/01/88,Yawzi,1,6,CTB,6.5
+07/01/88,Yawzi,1,7,CTB,24
+07/01/88,Yawzi,1,8,CTB,15
+07/01/88,Yawzi,1,9,CTB,13.5
+07/01/88,Yawzi,1,10,CTB,21.5
+07/01/88,Yawzi,2,1,CTB,5
+07/01/88,Yawzi,2,2,CTB,5.5
+07/01/88,Yawzi,2,3,CTB,7
+07/01/88,Yawzi,2,4,CTB,13
+07/01/88,Yawzi,2,5,CTB,26.5
+07/01/88,Yawzi,2,6,CTB,14
+07/01/88,Yawzi,2,7,CTB,44
+07/01/88,Yawzi,2,8,CTB,43.5
+07/01/88,Yawzi,2,9,CTB,34
+07/01/88,Yawzi,2,10,CTB,13.5
+07/01/88,Yawzi,3,1,CTB,7.5
+07/01/88,Yawzi,3,2,CTB,15.5
+07/01/88,Yawzi,3,3,CTB,20
+07/01/88,Yawzi,3,4,CTB,56
+07/01/88,Yawzi,3,5,CTB,37.7
+07/01/88,Yawzi,3,6,CTB,52
+07/01/88,Yawzi,3,7,CTB,35
+07/01/88,Yawzi,3,8,CTB,74
+07/01/88,Yawzi,3,9,CTB,44.5
+07/01/88,Yawzi,3,10,CTB,31
+04/01/89,Yawzi,1,1,CTB,23.5
+04/01/89,Yawzi,1,2,CTB,32
+04/01/89,Yawzi,1,3,CTB,10.5
+04/01/89,Yawzi,1,4,CTB,12
+04/01/89,Yawzi,1,5,CTB,30.5
+04/01/89,Yawzi,1,6,CTB,14
+04/01/89,Yawzi,1,7,CTB,15.7
+04/01/89,Yawzi,1,8,CTB,11.5
+04/01/89,Yawzi,1,9,CTB,9
+04/01/89,Yawzi,1,10,CTB,23
+04/01/89,Yawzi,2,1,CTB,5.5
+04/01/89,Yawzi,2,2,CTB,12.5
+04/01/89,Yawzi,2,3,CTB,13.5
+04/01/89,Yawzi,2,4,CTB,1.5
+04/01/89,Yawzi,2,5,CTB,10.5
+04/01/89,Yawzi,2,6,CTB,39
+04/01/89,Yawzi,2,7,CTB,30.5
+04/01/89,Yawzi,2,8,CTB,40.5
+04/01/89,Yawzi,2,9,CTB,20.5
+04/01/89,Yawzi,2,10,CTB,21
+04/01/89,Yawzi,3,1,CTB,2.5
+04/01/89,Yawzi,3,2,CTB,15
+04/01/89,Yawzi,3,3,CTB,20.5
+04/01/89,Yawzi,3,4,CTB,36.5
+04/01/89,Yawzi,3,5,CTB,30.7
+04/01/89,Yawzi,3,6,CTB,45.5
+04/01/89,Yawzi,3,7,CTB,15
+04/01/89,Yawzi,3,8,CTB,31.5
+04/01/89,Yawzi,3,9,CTB,5
+04/01/89,Yawzi,3,10,CTB,26
+10/01/89,Yawzi,1,1,CTB,14.5
+10/01/89,Yawzi,1,2,CTB,20.5
+10/01/89,Yawzi,1,3,CTB,6
+10/01/89,Yawzi,1,4,CTB,7.5
+10/01/89,Yawzi,1,5,CTB,15
+10/01/89,Yawzi,1,6,CTB,27.5
+10/01/89,Yawzi,1,7,CTB,20.5
+10/01/89,Yawzi,1,8,CTB,10.5
+10/01/89,Yawzi,2,1,CTB,nd
+10/01/89,Yawzi,2,2,CTB,nd
+10/01/89,Yawzi,2,3,CTB,nd
+10/01/89,Yawzi,2,4,CTB,nd
+10/01/89,Yawzi,2,5,CTB,nd
+10/01/89,Yawzi,2,6,CTB,nd
+10/01/89,Yawzi,2,7,CTB,nd
+10/01/89,Yawzi,2,8,CTB,nd
+10/01/89,Yawzi,2,9,CTB,nd
+10/01/89,Yawzi,2,10,CTB,nd
+10/01/89,Yawzi,3,1,CTB,27
+10/01/89,Yawzi,3,2,CTB,6
+10/01/89,Yawzi,3,3,CTB,15.5
+10/01/89,Yawzi,3,4,CTB,39
+10/01/89,Yawzi,3,5,CTB,56.5
+10/01/89,Yawzi,3,6,CTB,15
+10/01/89,Yawzi,3,7,CTB,29
+10/01/89,Yawzi,3,8,CTB,26.5
+10/01/89,Yawzi,3,9,CTB,3
+10/01/89,Yawzi,3,10,CTB,19.5
+09/01/90,Yawzi,1,1,CTB,7.5
+09/01/90,Yawzi,1,2,CTB,23.5
+09/01/90,Yawzi,1,3,CTB,3.5
+09/01/90,Yawzi,1,4,CTB,16.5
+09/01/90,Yawzi,1,5,CTB,7
+09/01/90,Yawzi,1,6,CTB,16
+09/01/90,Yawzi,1,7,CTB,13.5
+09/01/90,Yawzi,1,8,CTB,25.5
+09/01/90,Yawzi,1,9,CTB,10.5
+09/01/90,Yawzi,1,10,CTB,32.5
+09/01/90,Yawzi,2,1,CTB,8.5
+09/01/90,Yawzi,2,2,CTB,37.5
+09/01/90,Yawzi,2,3,CTB,21.5
+09/01/90,Yawzi,2,4,CTB,48.5
+09/01/90,Yawzi,2,5,CTB,22
+09/01/90,Yawzi,2,6,CTB,15
+09/01/90,Yawzi,2,7,CTB,15.5
+09/01/90,Yawzi,2,8,CTB,20.5
+09/01/90,Yawzi,2,9,CTB,7
+09/01/90,Yawzi,2,10,CTB,10.5
+09/01/90,Yawzi,3,1,CTB,17.5
+09/01/90,Yawzi,3,2,CTB,17
+09/01/90,Yawzi,3,3,CTB,8.5
+09/01/90,Yawzi,3,4,CTB,45.5
+09/01/90,Yawzi,3,5,CTB,35
+09/01/90,Yawzi,3,6,CTB,23
+09/01/90,Yawzi,3,7,CTB,34.5
+09/01/90,Yawzi,3,8,CTB,18
+09/01/90,Yawzi,3,10,CTB,12
+03/01/91,Yawzi,1,1,CTB,8.5
+03/01/91,Yawzi,1,2,CTB,37
+03/01/91,Yawzi,1,3,CTB,17
+03/01/91,Yawzi,1,4,CTB,17
+03/01/91,Yawzi,1,5,CTB,20
+03/01/91,Yawzi,1,6,CTB,42
+03/01/91,Yawzi,1,7,CTB,18.5
+03/01/91,Yawzi,1,8,CTB,19
+03/01/91,Yawzi,1,9,CTB,35.5
+03/01/91,Yawzi,1,10,CTB,45.5
+03/01/91,Yawzi,2,1,CTB,17
+03/01/91,Yawzi,2,2,CTB,50
+03/01/91,Yawzi,2,3,CTB,39
+03/01/91,Yawzi,2,4,CTB,64
+03/01/91,Yawzi,2,5,CTB,43.5
+03/01/91,Yawzi,2,6,CTB,44.5
+03/01/91,Yawzi,2,7,CTB,54.5
+03/01/91,Yawzi,2,8,CTB,54
+03/01/91,Yawzi,2,9,CTB,55.5
+03/01/91,Yawzi,2,10,CTB,57
+03/01/91,Yawzi,3,1,CTB,14
+03/01/91,Yawzi,3,2,CTB,15
+03/01/91,Yawzi,3,3,CTB,22
+03/01/91,Yawzi,3,4,CTB,64
+03/01/91,Yawzi,3,5,CTB,66
+03/01/91,Yawzi,3,6,CTB,72.5
+03/01/91,Yawzi,3,7,CTB,53
+03/01/91,Yawzi,3,8,CTB,50
+03/01/91,Yawzi,3,9,CTB,71
+03/01/91,Yawzi,3,10,CTB,49
+05/01/92,Yawzi,1,1,CTB,18.9
+05/01/92,Yawzi,1,2,CTB,45.9
+05/01/92,Yawzi,1,3,CTB,15.6
+05/01/92,Yawzi,1,4,CTB,7.7
+05/01/92,Yawzi,1,5,CTB,24.4
+05/01/92,Yawzi,1,6,CTB,35.9
+05/01/92,Yawzi,1,7,CTB,31.4
+05/01/92,Yawzi,1,8,CTB,25.2
+05/01/92,Yawzi,1,9,CTB,24.4
+05/01/92,Yawzi,1,10,CTB,76.3
+05/01/92,Yawzi,2,2,CTB,nd
+05/01/92,Yawzi,2,3,CTB,nd
+05/01/92,Yawzi,2,4,CTB,nd
+05/01/92,Yawzi,2,5,CTB,nd
+05/01/92,Yawzi,2,6,CTB,nd
+05/01/92,Yawzi,2,7,CTB,nd
+05/01/92,Yawzi,2,8,CTB,nd
+05/01/92,Yawzi,2,9,CTB,nd
+05/01/92,Yawzi,2,10,CTB,nd
+05/01/92,Yawzi,3,1,CTB,23.5
+05/01/92,Yawzi,3,2,CTB,22.7
+05/01/92,Yawzi,3,3,CTB,30.2
+05/01/92,Yawzi,3,4,CTB,84.5
+05/01/92,Yawzi,3,5,CTB,87.7
+05/01/92,Yawzi,3,6,CTB,83.2
+05/01/92,Yawzi,3,7,CTB,72.8
+05/01/92,Yawzi,3,8,CTB,72.7
+05/01/92,Yawzi,3,9,CTB,68.5
+05/01/92,Yawzi,3,10,CTB,62.8
+06/01/93,Yawzi,1,1,CTB,14
+06/01/93,Yawzi,1,2,CTB,19.5
+06/01/93,Yawzi,1,3,CTB,5.5
+06/01/93,Yawzi,1,4,CTB,10.5
+06/01/93,Yawzi,1,5,CTB,17.5
+06/01/93,Yawzi,1,6,CTB,25.5
+06/01/93,Yawzi,1,7,CTB,31
+06/01/93,Yawzi,1,8,CTB,26.5
+06/01/93,Yawzi,1,9,CTB,20
+06/01/93,Yawzi,1,10,CTB,44.5
+06/01/93,Yawzi,2,1,CTB,13
+06/01/93,Yawzi,2,2,CTB,27.5
+06/01/93,Yawzi,2,3,CTB,47.5
+06/01/93,Yawzi,2,4,CTB,57.5
+06/01/93,Yawzi,2,5,CTB,60
+06/01/93,Yawzi,2,6,CTB,45
+06/01/93,Yawzi,2,7,CTB,46
+06/01/93,Yawzi,2,8,CTB,47
+06/01/93,Yawzi,2,9,CTB,46.5
+06/01/93,Yawzi,2,10,CTB,61.5
+06/01/93,Yawzi,3,1,CTB,10.5
+06/01/93,Yawzi,3,2,CTB,17.5
+06/01/93,Yawzi,3,3,CTB,15
+06/01/93,Yawzi,3,4,CTB,63.5
+06/01/93,Yawzi,3,5,CTB,69.5
+06/01/93,Yawzi,3,6,CTB,65
+06/01/93,Yawzi,3,7,CTB,73
+06/01/93,Yawzi,3,8,CTB,83.7
+06/01/93,Yawzi,3,9,CTB,79.1
+06/01/93,Yawzi,3,10,CTB,79.5
+08/01/94,Yawzi,1,1,CTB,17.5
+08/01/94,Yawzi,1,2,CTB,9.5
+08/01/94,Yawzi,1,3,CTB,6
+08/01/94,Yawzi,1,4,CTB,7
+08/01/94,Yawzi,1,5,CTB,14.5
+08/01/94,Yawzi,1,6,CTB,29.5
+08/01/94,Yawzi,1,7,CTB,19.7
+08/01/94,Yawzi,1,8,CTB,12.5
+08/01/94,Yawzi,1,9,CTB,13
+08/01/94,Yawzi,1,10,CTB,43.5
+08/01/94,Yawzi,2,1,CTB,3.5
+08/01/94,Yawzi,2,2,CTB,34
+08/01/94,Yawzi,2,3,CTB,25
+08/01/94,Yawzi,2,4,CTB,45.5
+08/01/94,Yawzi,2,5,CTB,43.5
+08/01/94,Yawzi,2,6,CTB,37
+08/01/94,Yawzi,2,7,CTB,17.5
+08/01/94,Yawzi,2,8,CTB,20
+08/01/94,Yawzi,2,9,CTB,8.5
+08/01/94,Yawzi,2,10,CTB,42
+08/01/94,Yawzi,3,1,CTB,20
+08/01/94,Yawzi,3,2,CTB,10
+08/01/94,Yawzi,3,3,CTB,17.5
+08/01/94,Yawzi,3,4,CTB,34
+08/01/94,Yawzi,3,5,CTB,55.5
+08/01/94,Yawzi,3,6,CTB,52
+08/01/94,Yawzi,3,7,CTB,42
+08/01/94,Yawzi,3,8,CTB,40
+08/01/94,Yawzi,3,9,CTB,17.5
+08/01/94,Yawzi,3,10,CTB,25
+05/01/95,Yawzi,1,1,CTB,34
+05/01/95,Yawzi,1,2,CTB,31
+05/01/95,Yawzi,1,3,CTB,2.5
+05/01/95,Yawzi,1,4,CTB,8.5
+05/01/95,Yawzi,1,5,CTB,13
+05/01/95,Yawzi,1,6,CTB,26.5
+05/01/95,Yawzi,1,7,CTB,27
+05/01/95,Yawzi,1,8,CTB,13.5
+05/01/95,Yawzi,1,9,CTB,14
+05/01/95,Yawzi,1,10,CTB,41.5
+05/01/95,Yawzi,2,1,CTB,12.5
+05/01/95,Yawzi,2,2,CTB,38
+05/01/95,Yawzi,2,3,CTB,20
+05/01/95,Yawzi,2,4,CTB,55.5
+05/01/95,Yawzi,2,5,CTB,54.5
+05/01/95,Yawzi,2,6,CTB,36.5
+05/01/95,Yawzi,2,7,CTB,46
+05/01/95,Yawzi,2,8,CTB,38.5
+05/01/95,Yawzi,2,9,CTB,55.5
+05/01/95,Yawzi,2,10,CTB,46.5
+05/01/95,Yawzi,3,1,CTB,12.5
+05/01/95,Yawzi,3,2,CTB,20.5
+05/01/95,Yawzi,3,3,CTB,12.5
+05/01/95,Yawzi,3,4,CTB,59.5
+05/01/95,Yawzi,3,5,CTB,64
+05/01/95,Yawzi,3,6,CTB,59.5
+05/01/95,Yawzi,3,7,CTB,56.5
+05/01/95,Yawzi,3,8,CTB,35
+05/01/95,Yawzi,3,9,CTB,33
+05/01/95,Yawzi,3,10,CTB,42.5
+05/01/96,Yawzi,1,1,CTB,9.7
+05/01/96,Yawzi,1,2,CTB,32.2
+05/01/96,Yawzi,1,3,CTB,2.6
+05/01/96,Yawzi,1,4,CTB,20.2
+05/01/96,Yawzi,1,5,CTB,10.5
+05/01/96,Yawzi,1,6,CTB,27.5
+05/01/96,Yawzi,1,7,CTB,36
+05/01/96,Yawzi,1,8,CTB,35
+05/01/96,Yawzi,1,9,CTB,24
+05/01/96,Yawzi,1,10,CTB,11.6
+05/01/96,Yawzi,2,1,CTB,16.9
+05/01/96,Yawzi,2,2,CTB,15.5
+05/01/96,Yawzi,2,3,CTB,15.1
+05/01/96,Yawzi,2,4,CTB,13.4
+05/01/96,Yawzi,2,5,CTB,23.9
+05/01/96,Yawzi,2,6,CTB,31.2
+05/01/96,Yawzi,2,7,CTB,52.8
+05/01/96,Yawzi,2,8,CTB,55.4
+05/01/96,Yawzi,2,9,CTB,57.3
+05/01/96,Yawzi,2,10,CTB,37.7
+05/01/96,Yawzi,3,1,CTB,26.3
+05/01/96,Yawzi,3,2,CTB,27.8
+05/01/96,Yawzi,3,3,CTB,36.5
+05/01/96,Yawzi,3,4,CTB,59.3
+05/01/96,Yawzi,3,5,CTB,52.6
+05/01/96,Yawzi,3,6,CTB,60.7
+05/01/96,Yawzi,3,7,CTB,54
+05/01/96,Yawzi,3,8,CTB,54.2
+05/01/96,Yawzi,3,9,CTB,48.7
+05/01/96,Yawzi,3,10,CTB,54.8
+05/01/97,Yawzi,1,1,CTB,22.5
+05/01/97,Yawzi,1,2,CTB,58.5
+05/01/97,Yawzi,1,3,CTB,17
+05/01/97,Yawzi,1,4,CTB,30.5
+05/01/97,Yawzi,1,5,CTB,30.5
+05/01/97,Yawzi,1,6,CTB,34
+05/01/97,Yawzi,1,7,CTB,62.5
+05/01/97,Yawzi,1,8,CTB,55
+05/01/97,Yawzi,1,9,CTB,12
+05/01/97,Yawzi,1,10,CTB,14.5
+05/01/97,Yawzi,2,1,CTB,10
+05/01/97,Yawzi,2,2,CTB,18.5
+05/01/97,Yawzi,2,3,CTB,11
+05/01/97,Yawzi,2,4,CTB,1
+05/01/97,Yawzi,2,5,CTB,10
+05/01/97,Yawzi,2,6,CTB,9.5
+05/01/97,Yawzi,2,7,CTB,10.5
+05/01/97,Yawzi,2,8,CTB,20
+05/01/97,Yawzi,2,9,CTB,27
+05/01/97,Yawzi,2,10,CTB,9
+05/01/97,Yawzi,3,1,CTB,14
+05/01/97,Yawzi,3,2,CTB,8
+05/01/97,Yawzi,3,3,CTB,16
+05/01/97,Yawzi,3,4,CTB,13.5
+05/01/97,Yawzi,3,5,CTB,15.5
+05/01/97,Yawzi,3,6,CTB,19.5
+05/01/97,Yawzi,3,7,CTB,19.5
+05/01/97,Yawzi,3,8,CTB,24
+05/01/97,Yawzi,3,9,CTB,24.5
+05/01/97,Yawzi,3,10,CTB,27
+08/01/98,Yawzi,1,1,CTB,10
+08/01/98,Yawzi,1,2,CTB,25
+08/01/98,Yawzi,1,3,CTB,4
+08/01/98,Yawzi,1,4,CTB,10.5
+08/01/98,Yawzi,1,5,CTB,4
+08/01/98,Yawzi,1,6,CTB,38
+08/01/98,Yawzi,1,7,CTB,35
+08/01/98,Yawzi,1,8,CTB,31.5
+08/01/98,Yawzi,1,9,CTB,11
+08/01/98,Yawzi,1,10,CTB,22.5
+08/01/98,Yawzi,2,1,CTB,18.5
+08/01/98,Yawzi,2,2,CTB,29.5
+08/01/98,Yawzi,2,3,CTB,19
+08/01/98,Yawzi,2,4,CTB,29.5
+08/01/98,Yawzi,2,5,CTB,19
+08/01/98,Yawzi,2,6,CTB,37.5
+08/01/98,Yawzi,2,7,CTB,22
+08/01/98,Yawzi,2,8,CTB,35
+08/01/98,Yawzi,2,9,CTB,19
+08/01/98,Yawzi,2,10,CTB,47.5
+08/01/98,Yawzi,3,1,CTB,30
+08/01/98,Yawzi,3,2,CTB,11
+08/01/98,Yawzi,3,3,CTB,17.5
+08/01/98,Yawzi,3,4,CTB,45
+08/01/98,Yawzi,3,5,CTB,47.5
+08/01/98,Yawzi,3,6,CTB,44.5
+08/01/98,Yawzi,3,7,CTB,48.5
+08/01/98,Yawzi,3,8,CTB,44.5
+08/01/98,Yawzi,3,9,CTB,22
+08/01/98,Yawzi,3,10,CTB,39
+08/01/99,Yawzi,1,1,CTB,11
+08/01/99,Yawzi,1,2,CTB,11.3
+08/01/99,Yawzi,1,3,CTB,23.8
+08/01/99,Yawzi,1,4,CTB,33.5
+08/01/99,Yawzi,1,5,CTB,32.6
+08/01/99,Yawzi,1,6,CTB,20.1
+08/01/99,Yawzi,1,7,CTB,27.2
+08/01/99,Yawzi,1,8,CTB,27
+08/01/99,Yawzi,1,9,CTB,21.3
+08/01/99,Yawzi,1,10,CTB,18
+08/01/99,Yawzi,2,1,CTB,13.3
+08/01/99,Yawzi,2,2,CTB,13.4
+08/01/99,Yawzi,2,3,CTB,36
+08/01/99,Yawzi,2,4,CTB,30.3
+08/01/99,Yawzi,2,5,CTB,27.2
+08/01/99,Yawzi,2,6,CTB,21.5
+08/01/99,Yawzi,2,7,CTB,28
+08/01/99,Yawzi,2,8,CTB,24.1
+08/01/99,Yawzi,2,9,CTB,27.9
+08/01/99,Yawzi,2,10,CTB,55.6
+08/01/99,Yawzi,3,1,CTB,34.4
+08/01/99,Yawzi,3,2,CTB,19.6
+08/01/99,Yawzi,3,3,CTB,18.1
+08/01/99,Yawzi,3,4,CTB,11.7
+08/01/99,Yawzi,3,5,CTB,15.5
+08/01/99,Yawzi,3,6,CTB,7.2
+08/01/99,Yawzi,3,7,CTB,34.6
+08/01/99,Yawzi,3,8,CTB,25.3
+08/01/99,Yawzi,3,9,CTB,20.6
+08/01/99,Yawzi,3,10,CTB,8.2
+08/01/00,Yawzi,1,1,CTB,10.9
+08/01/00,Yawzi,1,2,CTB,15.9
+08/01/00,Yawzi,1,3,CTB,8.3
+08/01/00,Yawzi,1,4,CTB,14.5
+08/01/00,Yawzi,1,5,CTB,37.6
+08/01/00,Yawzi,1,6,CTB,20.5
+08/01/00,Yawzi,1,7,CTB,24.5
+08/01/00,Yawzi,1,8,CTB,47
+08/01/00,Yawzi,1,9,CTB,37.3
+08/01/00,Yawzi,1,10,CTB,18.6
+08/01/00,Yawzi,2,1,CTB,12.3
+08/01/00,Yawzi,2,2,CTB,14.6
+08/01/00,Yawzi,2,3,CTB,10.1
+08/01/00,Yawzi,2,4,CTB,14.2
+08/01/00,Yawzi,2,5,CTB,9.5
+08/01/00,Yawzi,2,6,CTB,8
+08/01/00,Yawzi,2,7,CTB,11.9
+08/01/00,Yawzi,2,8,CTB,21.1
+08/01/00,Yawzi,2,9,CTB,13.3
+08/01/00,Yawzi,2,10,CTB,11.6
+08/01/00,Yawzi,3,1,CTB,17.3
+08/01/00,Yawzi,3,2,CTB,13
+08/01/00,Yawzi,3,3,CTB,30.4
+08/01/00,Yawzi,3,4,CTB,7
+08/01/00,Yawzi,3,5,CTB,35.7
+08/01/00,Yawzi,3,6,CTB,21
+08/01/00,Yawzi,3,7,CTB,18.4
+08/01/00,Yawzi,3,8,CTB,27.5
+08/01/00,Yawzi,3,9,CTB,24.7
+08/01/00,Yawzi,3,10,CTB,11.6
+08/01/01,Yawzi,1,1,CTB,31.3
+08/01/01,Yawzi,1,2,CTB,24
+08/01/01,Yawzi,1,3,CTB,15.2
+08/01/01,Yawzi,1,4,CTB,15.5
+08/01/01,Yawzi,1,5,CTB,40.4
+08/01/01,Yawzi,1,6,CTB,45.2
+08/01/01,Yawzi,1,7,CTB,19.9
+08/01/01,Yawzi,1,8,CTB,42.9
+08/01/01,Yawzi,1,9,CTB,26.8
+08/01/01,Yawzi,1,10,CTB,20.2
+08/01/01,Yawzi,2,1,CTB,17.1
+08/01/01,Yawzi,2,2,CTB,27
+08/01/01,Yawzi,2,3,CTB,37.7
+08/01/01,Yawzi,2,4,CTB,46.4
+08/01/01,Yawzi,2,5,CTB,54.8
+08/01/01,Yawzi,2,6,CTB,64.5
+08/01/01,Yawzi,2,7,CTB,43.7
+08/01/01,Yawzi,2,8,CTB,70.4
+08/01/01,Yawzi,2,9,CTB,85.4
+08/01/01,Yawzi,2,10,CTB,61.3
+08/01/01,Yawzi,3,1,CTB,35.5
+08/01/01,Yawzi,3,2,CTB,19.8
+08/01/01,Yawzi,3,3,CTB,27.2
+08/01/01,Yawzi,3,4,CTB,47
+08/01/01,Yawzi,3,5,CTB,65.3
+08/01/01,Yawzi,3,6,CTB,51.3
+08/01/01,Yawzi,3,7,CTB,54.4
+08/01/01,Yawzi,3,8,CTB,78.2
+08/01/01,Yawzi,3,9,CTB,83.3
+08/01/01,Yawzi,3,10,CTB,46.7
+08/01/02,Yawzi,1,1,CTB,7.8
+08/01/02,Yawzi,1,2,CTB,48.7
+08/01/02,Yawzi,1,3,CTB,14.9
+08/01/02,Yawzi,1,4,CTB,35.1
+08/01/02,Yawzi,1,5,CTB,36.5
+08/01/02,Yawzi,1,6,CTB,48.2
+08/01/02,Yawzi,1,7,CTB,47.7
+08/01/02,Yawzi,1,8,CTB,30.6
+08/01/02,Yawzi,1,9,CTB,24
+08/01/02,Yawzi,1,10,CTB,37.6
+08/01/02,Yawzi,2,1,CTB,52.6
+08/01/02,Yawzi,2,2,CTB,36.1
+08/01/02,Yawzi,2,3,CTB,34.5
+08/01/02,Yawzi,2,4,CTB,29
+08/01/02,Yawzi,2,5,CTB,40.8
+08/01/02,Yawzi,2,6,CTB,29.4
+08/01/02,Yawzi,2,7,CTB,30
+08/01/02,Yawzi,2,8,CTB,37.1
+08/01/02,Yawzi,2,9,CTB,29.8
+08/01/02,Yawzi,2,10,CTB,21.9
+08/01/02,Yawzi,3,1,CTB,36.3
+08/01/02,Yawzi,3,2,CTB,32.7
+08/01/02,Yawzi,3,3,CTB,31.8
+08/01/02,Yawzi,3,4,CTB,32.1
+08/01/02,Yawzi,3,5,CTB,51
+08/01/02,Yawzi,3,6,CTB,36.6
+08/01/02,Yawzi,3,7,CTB,48.1
+08/01/02,Yawzi,3,8,CTB,39.2
+08/01/02,Yawzi,3,9,CTB,24.9
+08/01/02,Yawzi,3,10,CTB,25.4
+08/01/03,Yawzi,1,1,CTB,12.1
+08/01/03,Yawzi,1,2,CTB,29.9
+08/01/03,Yawzi,1,3,CTB,16.6
+08/01/03,Yawzi,1,4,CTB,22.5
+08/01/03,Yawzi,1,5,CTB,45.6
+08/01/03,Yawzi,1,6,CTB,65
+08/01/03,Yawzi,1,7,CTB,49.2
+08/01/03,Yawzi,1,8,CTB,33
+08/01/03,Yawzi,1,9,CTB,33.8
+08/01/03,Yawzi,1,10,CTB,23.1
+08/01/03,Yawzi,2,1,CTB,1.5
+08/01/03,Yawzi,2,2,CTB,29.3
+08/01/03,Yawzi,2,3,CTB,40
+08/01/03,Yawzi,2,4,CTB,23.4
+08/01/03,Yawzi,2,5,CTB,26.8
+08/01/03,Yawzi,2,6,CTB,28.3
+08/01/03,Yawzi,2,7,CTB,41.8
+08/01/03,Yawzi,2,8,CTB,34.4
+08/01/03,Yawzi,2,9,CTB,33.7
+08/01/03,Yawzi,2,10,CTB,20
+08/01/03,Yawzi,3,1,CTB,9.8
+08/01/03,Yawzi,3,2,CTB,20.5
+08/01/03,Yawzi,3,3,CTB,33.5
+08/01/03,Yawzi,3,4,CTB,18.4
+08/01/03,Yawzi,3,5,CTB,37.8
+08/01/03,Yawzi,3,6,CTB,15.7
+08/01/03,Yawzi,3,7,CTB,29.9
+08/01/03,Yawzi,3,8,CTB,16.1
+08/01/03,Yawzi,3,9,CTB,22.4
+08/01/03,Yawzi,3,10,CTB,27.7
+08/01/04,Yawzi,1,1,CTB,20.2
+08/01/04,Yawzi,1,2,CTB,12
+08/01/04,Yawzi,1,3,CTB,12.8
+08/01/04,Yawzi,1,4,CTB,28.8
+08/01/04,Yawzi,1,5,CTB,55.1
+08/01/04,Yawzi,1,6,CTB,48.5
+08/01/04,Yawzi,1,7,CTB,37.4
+08/01/04,Yawzi,1,8,CTB,23.3
+08/01/04,Yawzi,1,9,CTB,40.6
+08/01/04,Yawzi,1,10,CTB,21.5
+08/01/04,Yawzi,2,1,CTB,0
+08/01/04,Yawzi,2,2,CTB,2.3
+08/01/04,Yawzi,2,3,CTB,8.7
+08/01/04,Yawzi,2,4,CTB,9.4
+08/01/04,Yawzi,2,5,CTB,1.2
+08/01/04,Yawzi,2,6,CTB,2.5
+08/01/04,Yawzi,2,7,CTB,12.7
+08/01/04,Yawzi,2,8,CTB,3.8
+08/01/04,Yawzi,2,9,CTB,3.2
+08/01/04,Yawzi,2,10,CTB,3.7
+08/01/04,Yawzi,3,1,CTB,10.6
+08/01/04,Yawzi,3,2,CTB,7.9
+08/01/04,Yawzi,3,3,CTB,11.9
+08/01/04,Yawzi,3,4,CTB,3.5
+08/01/04,Yawzi,3,5,CTB,6.4
+08/01/04,Yawzi,3,6,CTB,9.6
+08/01/04,Yawzi,3,7,CTB,10.7
+08/01/04,Yawzi,3,8,CTB,15.1
+08/01/04,Yawzi,3,9,CTB,1.8
+08/01/04,Yawzi,3,10,CTB,5.8
+08/01/05,Yawzi,1,1,CTB,53.1
+08/01/05,Yawzi,1,2,CTB,53.5
+08/01/05,Yawzi,1,3,CTB,35.2
+08/01/05,Yawzi,1,4,CTB,37.7
+08/01/05,Yawzi,1,5,CTB,51.5
+08/01/05,Yawzi,1,6,CTB,83.9
+08/01/05,Yawzi,1,7,CTB,46.2
+08/01/05,Yawzi,1,8,CTB,41.9
+08/01/05,Yawzi,1,9,CTB,34.7
+08/01/05,Yawzi,1,10,CTB,36.7
+08/01/05,Yawzi,2,1,CTB,32.6
+08/01/05,Yawzi,2,2,CTB,34.5
+08/01/05,Yawzi,2,3,CTB,35.3
+08/01/05,Yawzi,2,4,CTB,23.2
+08/01/05,Yawzi,2,5,CTB,16.6
+08/01/05,Yawzi,2,6,CTB,29.5
+08/01/05,Yawzi,2,7,CTB,33.1
+08/01/05,Yawzi,2,8,CTB,22.9
+08/01/05,Yawzi,2,9,CTB,26.7
+08/01/05,Yawzi,2,10,CTB,30.1
+08/01/05,Yawzi,3,1,CTB,55.6
+08/01/05,Yawzi,3,2,CTB,46.5
+08/01/05,Yawzi,3,3,CTB,41.9
+08/01/05,Yawzi,3,4,CTB,33.9
+08/01/05,Yawzi,3,5,CTB,55.1
+08/01/05,Yawzi,3,6,CTB,34.4
+08/01/05,Yawzi,3,7,CTB,30.7
+08/01/05,Yawzi,3,8,CTB,50
+08/01/05,Yawzi,3,9,CTB,2.8
+08/01/05,Yawzi,3,10,CTB,69.2
+08/01/06,Yawzi,1,1,CTB,39.5
+08/01/06,Yawzi,1,2,CTB,42.6
+08/01/06,Yawzi,1,3,CTB,41.8
+08/01/06,Yawzi,1,4,CTB,62.4
+08/01/06,Yawzi,1,5,CTB,56.5
+08/01/06,Yawzi,1,6,CTB,80.3
+08/01/06,Yawzi,1,7,CTB,59.7
+08/01/06,Yawzi,1,8,CTB,20.7
+08/01/06,Yawzi,1,9,CTB,21.4
+08/01/06,Yawzi,1,10,CTB,17.9
+08/01/06,Yawzi,2,1,CTB,34.7
+08/01/06,Yawzi,2,2,CTB,29.7
+08/01/06,Yawzi,2,3,CTB,29.9
+08/01/06,Yawzi,2,4,CTB,13.3
+08/01/06,Yawzi,2,5,CTB,16
+08/01/06,Yawzi,2,6,CTB,15.7
+08/01/06,Yawzi,2,7,CTB,13.4
+08/01/06,Yawzi,2,8,CTB,10.5
+08/01/06,Yawzi,2,9,CTB,19.4
+08/01/06,Yawzi,2,10,CTB,13.2
+08/01/06,Yawzi,3,1,CTB,16.6
+08/01/06,Yawzi,3,2,CTB,14.6
+08/01/06,Yawzi,3,3,CTB,28.9
+08/01/06,Yawzi,3,4,CTB,33.2
+08/01/06,Yawzi,3,5,CTB,37.4
+08/01/06,Yawzi,3,6,CTB,30.3
+08/01/06,Yawzi,3,7,CTB,34.7
+08/01/06,Yawzi,3,8,CTB,22.6
+08/01/06,Yawzi,3,9,CTB,11.9
+08/01/06,Yawzi,3,10,CTB,29.3
+08/01/07,Yawzi,1,1,CTB,54.2
+08/01/07,Yawzi,1,2,CTB,75.5
+08/01/07,Yawzi,1,3,CTB,47
+08/01/07,Yawzi,1,4,CTB,61.7
+08/01/07,Yawzi,1,5,CTB,59.9
+08/01/07,Yawzi,1,6,CTB,74.3
+08/01/07,Yawzi,1,7,CTB,65.2
+08/01/07,Yawzi,1,8,CTB,50.3
+08/01/07,Yawzi,1,9,CTB,0
+08/01/07,Yawzi,1,10,CTB,57.4
+08/01/07,Yawzi,2,1,CTB,54.4
+08/01/07,Yawzi,2,2,CTB,53.3
+08/01/07,Yawzi,2,3,CTB,53.2
+08/01/07,Yawzi,2,4,CTB,45.6
+08/01/07,Yawzi,2,5,CTB,51.6
+08/01/07,Yawzi,2,6,CTB,43.5
+08/01/07,Yawzi,2,7,CTB,58.9
+08/01/07,Yawzi,2,8,CTB,1
+08/01/07,Yawzi,2,9,CTB,47.9
+08/01/07,Yawzi,2,10,CTB,64.4
+08/01/07,Yawzi,3,1,CTB,60.4
+08/01/07,Yawzi,3,2,CTB,60.1
+08/01/07,Yawzi,3,3,CTB,70.4
+08/01/07,Yawzi,3,4,CTB,56.1
+08/01/07,Yawzi,3,5,CTB,64.6
+08/01/07,Yawzi,3,6,CTB,50.8
+08/01/07,Yawzi,3,7,CTB,52
+08/01/07,Yawzi,3,8,CTB,70.9
+08/01/07,Yawzi,3,9,CTB,70.1
+08/01/07,Yawzi,3,10,CTB,78.4
+08/01/08,Yawzi,1,1,CTB,49.7
+08/01/08,Yawzi,1,2,CTB,69.3
+08/01/08,Yawzi,1,3,CTB,48.9
+08/01/08,Yawzi,1,4,CTB,49
+08/01/08,Yawzi,1,5,CTB,55
+08/01/08,Yawzi,1,6,CTB,69.6
+08/01/08,Yawzi,1,7,CTB,56.1
+08/01/08,Yawzi,1,8,CTB,62.1
+08/01/08,Yawzi,1,9,CTB,48.8
+08/01/08,Yawzi,1,10,CTB,56.3
+08/01/08,Yawzi,2,1,CTB,31.1
+08/01/08,Yawzi,2,2,CTB,40.9
+08/01/08,Yawzi,2,3,CTB,53.5
+08/01/08,Yawzi,2,4,CTB,54.2
+08/01/08,Yawzi,2,5,CTB,49.7
+08/01/08,Yawzi,2,6,CTB,42.8
+08/01/08,Yawzi,2,7,CTB,68.5
+08/01/08,Yawzi,2,8,CTB,39.9
+08/01/08,Yawzi,2,9,CTB,33.3
+08/01/08,Yawzi,2,10,CTB,31.1
+08/01/08,Yawzi,3,1,CTB,64.9
+08/01/08,Yawzi,3,2,CTB,52.3
+08/01/08,Yawzi,3,3,CTB,50.3
+08/01/08,Yawzi,3,4,CTB,60.3
+08/01/08,Yawzi,3,5,CTB,66.1
+08/01/08,Yawzi,3,6,CTB,60.7
+08/01/08,Yawzi,3,7,CTB,72.3
+08/01/08,Yawzi,3,8,CTB,35.8
+08/01/08,Yawzi,3,9,CTB,42.8
+08/01/08,Yawzi,3,10,CTB,67.3
+08/01/09,Yawzi,1,1,CTB,54.3
+08/01/09,Yawzi,1,2,CTB,58.5
+08/01/09,Yawzi,1,3,CTB,55.4
+08/01/09,Yawzi,1,4,CTB,37.1
+08/01/09,Yawzi,1,5,CTB,74.3
+08/01/09,Yawzi,1,6,CTB,51.6
+08/01/09,Yawzi,1,7,CTB,54.7
+08/01/09,Yawzi,1,8,CTB,28.8
+08/01/09,Yawzi,1,9,CTB,29.9
+08/01/09,Yawzi,1,10,CTB,41.1
+08/01/09,Yawzi,2,1,CTB,24.3
+08/01/09,Yawzi,2,2,CTB,19.4
+08/01/09,Yawzi,2,3,CTB,39.2
+08/01/09,Yawzi,2,4,CTB,27.9
+08/01/09,Yawzi,2,5,CTB,20.3
+08/01/09,Yawzi,2,6,CTB,30.9
+08/01/09,Yawzi,2,7,CTB,26.2
+08/01/09,Yawzi,2,8,CTB,32.8
+08/01/09,Yawzi,2,9,CTB,26
+08/01/09,Yawzi,2,10,CTB,33.3
+08/01/09,Yawzi,3,1,CTB,27.7
+08/01/09,Yawzi,3,2,CTB,34
+08/01/09,Yawzi,3,3,CTB,25.4
+08/01/09,Yawzi,3,4,CTB,41.4
+08/01/09,Yawzi,3,5,CTB,42.7
+08/01/09,Yawzi,3,6,CTB,17.2
+08/01/09,Yawzi,3,7,CTB,33.7
+08/01/09,Yawzi,3,8,CTB,24.7
+08/01/09,Yawzi,3,9,CTB,45.3
+08/01/09,Yawzi,3,10,CTB,32.8
+08/01/10,Yawzi,1,1,CTB,16.3
+08/01/10,Yawzi,1,2,CTB,41
+08/01/10,Yawzi,1,3,CTB,43.9
+08/01/10,Yawzi,1,4,CTB,38.2
+08/01/10,Yawzi,1,5,CTB,60.3
+08/01/10,Yawzi,1,6,CTB,64.4
+08/01/10,Yawzi,1,7,CTB,47.9
+08/01/10,Yawzi,1,8,CTB,31.6
+08/01/10,Yawzi,1,9,CTB,45
+08/01/10,Yawzi,1,10,CTB,34
+08/01/10,Yawzi,2,1,CTB,37.5
+08/01/10,Yawzi,2,2,CTB,35.8
+08/01/10,Yawzi,2,3,CTB,28.5
+08/01/10,Yawzi,2,4,CTB,10.6
+08/01/10,Yawzi,2,5,CTB,16.9
+08/01/10,Yawzi,2,6,CTB,7.4
+08/01/10,Yawzi,2,7,CTB,0
+08/01/10,Yawzi,2,8,CTB,3.7
+08/01/10,Yawzi,2,9,CTB,24.5
+08/01/10,Yawzi,2,10,CTB,12.7
+08/01/10,Yawzi,3,1,CTB,21
+08/01/10,Yawzi,3,2,CTB,16
+08/01/10,Yawzi,3,3,CTB,24.9
+08/01/10,Yawzi,3,4,CTB,33.9
+08/01/10,Yawzi,3,5,CTB,14.9
+08/01/10,Yawzi,3,6,CTB,23.5
+08/01/10,Yawzi,3,7,CTB,21.5
+08/01/10,Yawzi,3,8,CTB,17.2
+08/01/10,Yawzi,3,9,CTB,1.1
+08/01/10,Yawzi,3,10,CTB,31.1
+08/01/11,Yawzi,1,1,CTB,35.7
+08/01/11,Yawzi,1,2,CTB,61.8
+08/01/11,Yawzi,1,3,CTB,40.7
+08/01/11,Yawzi,1,4,CTB,42.7
+08/01/11,Yawzi,1,5,CTB,40.2
+08/01/11,Yawzi,1,6,CTB,55.6
+08/01/11,Yawzi,1,7,CTB,49.5
+08/01/11,Yawzi,1,8,CTB,52
+08/01/11,Yawzi,1,9,CTB,49.5
+08/01/11,Yawzi,1,10,CTB,56.8
+08/01/11,Yawzi,2,1,CTB,36.2
+08/01/11,Yawzi,2,2,CTB,24
+08/01/11,Yawzi,2,3,CTB,45.2
+08/01/11,Yawzi,2,4,CTB,46.7
+08/01/11,Yawzi,2,5,CTB,25.5
+08/01/11,Yawzi,2,6,CTB,25.9
+08/01/11,Yawzi,2,7,CTB,44.5
+08/01/11,Yawzi,2,8,CTB,39
+08/01/11,Yawzi,2,9,CTB,38
+08/01/11,Yawzi,2,10,CTB,39.2
+08/01/11,Yawzi,3,1,CTB,42
+08/01/11,Yawzi,3,2,CTB,42.5
+08/01/11,Yawzi,3,3,CTB,41
+08/01/11,Yawzi,3,4,CTB,24
+08/01/11,Yawzi,3,5,CTB,45.5
+08/01/11,Yawzi,3,6,CTB,70.7
+08/01/11,Yawzi,3,7,CTB,59
+08/01/11,Yawzi,3,8,CTB,46
+08/01/11,Yawzi,3,9,CTB,53
+08/01/11,Yawzi,3,10,CTB,54.8
+08/01/12,Yawzi,1,1,CTB,22.6
+08/01/12,Yawzi,1,2,CTB,43
+08/01/12,Yawzi,1,3,CTB,26.1
+08/01/12,Yawzi,1,4,CTB,27.8
+08/01/12,Yawzi,1,5,CTB,28.1
+08/01/12,Yawzi,1,6,CTB,34
+08/01/12,Yawzi,1,7,CTB,22
+08/01/12,Yawzi,1,8,CTB,28.1
+08/01/12,Yawzi,1,9,CTB,33
+08/01/12,Yawzi,1,10,CTB,44
+08/01/12,Yawzi,2,1,CTB,32.2
+08/01/12,Yawzi,2,2,CTB,39.4
+08/01/12,Yawzi,2,3,CTB,37
+08/01/12,Yawzi,2,4,CTB,36
+08/01/12,Yawzi,2,5,CTB,62.5
+08/01/12,Yawzi,2,6,CTB,64
+08/01/12,Yawzi,2,7,CTB,34.8
+08/01/12,Yawzi,2,8,CTB,56.1
+08/01/12,Yawzi,2,9,CTB,72.4
+08/01/12,Yawzi,2,10,CTB,67.2
+08/01/12,Yawzi,3,1,CTB,22.5
+08/01/12,Yawzi,3,2,CTB,34
+08/01/12,Yawzi,3,3,CTB,40.5
+08/01/12,Yawzi,3,4,CTB,37.8
+08/01/12,Yawzi,3,5,CTB,50.5
+08/01/12,Yawzi,3,6,CTB,76.5
+08/01/12,Yawzi,3,7,CTB,60.3
+08/01/12,Yawzi,3,8,CTB,57.8
+08/01/12,Yawzi,3,9,CTB,51
+08/01/12,Yawzi,3,10,CTB,68.5
+08/01/13,Yawzi,1,1,CTB,29.5
+08/01/13,Yawzi,1,2,CTB,30.2
+08/01/13,Yawzi,1,3,CTB,35.4
+08/01/13,Yawzi,1,4,CTB,38.6
+08/01/13,Yawzi,1,5,CTB,59.6
+08/01/13,Yawzi,1,6,CTB,62.4
+08/01/13,Yawzi,1,7,CTB,27.8
+08/01/13,Yawzi,1,8,CTB,45.7
+08/01/13,Yawzi,1,9,CTB,47.2
+08/01/13,Yawzi,1,10,CTB,75
+08/01/13,Yawzi,2,1,CTB,69.5
+08/01/13,Yawzi,2,2,CTB,60.5
+08/01/13,Yawzi,2,3,CTB,77.9
+08/01/13,Yawzi,2,4,CTB,53.8
+08/01/13,Yawzi,2,5,CTB,53.3
+08/01/13,Yawzi,2,6,CTB,57.6
+08/01/13,Yawzi,2,7,CTB,50.5
+08/01/13,Yawzi,2,8,CTB,44.5
+08/01/13,Yawzi,2,9,CTB,41.5
+08/01/13,Yawzi,2,10,CTB,50
+08/01/13,Yawzi,3,1,CTB,42.7
+08/01/13,Yawzi,3,2,CTB,55.6
+08/01/13,Yawzi,3,3,CTB,55.8
+08/01/13,Yawzi,3,4,CTB,69.5
+08/01/13,Yawzi,3,5,CTB,61.5
+08/01/13,Yawzi,3,6,CTB,82.5
+08/01/13,Yawzi,3,7,CTB,41.5
+08/01/13,Yawzi,3,8,CTB,49
+08/01/13,Yawzi,3,9,CTB,47.5
+08/01/13,Yawzi,3,10,CTB,74.4
+08/01/14,Yawzi,1,1,CTB,19.5
+08/01/14,Yawzi,1,2,CTB,36.5
+08/01/14,Yawzi,1,3,CTB,45.5
+08/01/14,Yawzi,1,4,CTB,30.5
+08/01/14,Yawzi,1,5,CTB,47
+08/01/14,Yawzi,1,6,CTB,47
+08/01/14,Yawzi,1,7,CTB,38.5
+08/01/14,Yawzi,1,8,CTB,25.5
+08/01/14,Yawzi,1,9,CTB,39.5
+08/01/14,Yawzi,1,10,CTB,55
+08/01/14,Yawzi,2,1,CTB,33.5
+08/01/14,Yawzi,2,2,CTB,28
+08/01/14,Yawzi,2,3,CTB,45.7
+08/01/14,Yawzi,2,4,CTB,33.5
+08/01/14,Yawzi,2,5,CTB,41
+08/01/14,Yawzi,2,6,CTB,46
+08/01/14,Yawzi,2,7,CTB,54.5
+08/01/14,Yawzi,2,8,CTB,52.5
+08/01/14,Yawzi,2,9,CTB,38.2
+08/01/14,Yawzi,2,10,CTB,40
+08/01/14,Yawzi,3,1,CTB,43
+08/01/14,Yawzi,3,2,CTB,42.7
+08/01/14,Yawzi,3,3,CTB,55
+08/01/14,Yawzi,3,4,CTB,84
+08/01/14,Yawzi,3,5,CTB,60.5
+08/01/14,Yawzi,3,6,CTB,76.5
+08/01/14,Yawzi,3,7,CTB,50.5
+08/01/14,Yawzi,3,8,CTB,35.7
+08/01/14,Yawzi,3,9,CTB,60
+08/01/14,Yawzi,3,10,CTB,51.5
+08/01/15,Yawzi,1,1,CTB,15
+08/01/15,Yawzi,1,2,CTB,23.5
+08/01/15,Yawzi,1,3,CTB,36
+08/01/15,Yawzi,1,4,CTB,26.5
+08/01/15,Yawzi,1,5,CTB,22.5
+08/01/15,Yawzi,1,6,CTB,22.5
+08/01/15,Yawzi,1,7,CTB,18.5
+08/01/15,Yawzi,1,8,CTB,18.5
+08/01/15,Yawzi,1,9,CTB,23.5
+08/01/15,Yawzi,1,10,CTB,20
+08/01/15,Yawzi,2,1,CTB,22
+08/01/15,Yawzi,2,2,CTB,22.5
+08/01/15,Yawzi,2,3,CTB,22
+08/01/15,Yawzi,2,4,CTB,27
+08/01/15,Yawzi,2,5,CTB,30.5
+08/01/15,Yawzi,2,6,CTB,46
+08/01/15,Yawzi,2,7,CTB,36.5
+08/01/15,Yawzi,2,8,CTB,44
+08/01/15,Yawzi,2,9,CTB,36
+08/01/15,Yawzi,2,10,CTB,39.7
+08/01/15,Yawzi,3,1,CTB,38
+08/01/15,Yawzi,3,2,CTB,36.5
+08/01/15,Yawzi,3,3,CTB,32
+08/01/15,Yawzi,3,4,CTB,64
+08/01/15,Yawzi,3,5,CTB,51
+08/01/15,Yawzi,3,6,CTB,69.5
+08/01/15,Yawzi,3,7,CTB,42.5
+08/01/15,Yawzi,3,8,CTB,53
+08/01/15,Yawzi,3,9,CTB,56.5
+08/01/15,Yawzi,3,10,CTB,53
+12/01/87,Tektite,1,1,All coral,16.5
+12/01/87,Tektite,1,2,All coral,10
+12/01/87,Tektite,1,3,All coral,13.5
+12/01/87,Tektite,1,4,All coral,15.5
+12/01/87,Tektite,1,5,All coral,19
+12/01/87,Tektite,1,6,All coral,13.5
+12/01/87,Tektite,1,7,All coral,23.5
+12/01/87,Tektite,1,8,All coral,38
+12/01/87,Tektite,1,9,All coral,31.5
+12/01/87,Tektite,1,10,All coral,36
+12/01/87,Tektite,2,1,All coral,46.5
+12/01/87,Tektite,2,2,All coral,36.5
+12/01/87,Tektite,2,3,All coral,9.5
+12/01/87,Tektite,2,4,All coral,30
+12/01/87,Tektite,2,5,All coral,47.5
+12/01/87,Tektite,2,6,All coral,42.5
+12/01/87,Tektite,2,7,All coral,51.5
+12/01/87,Tektite,2,8,All coral,53
+12/01/87,Tektite,2,9,All coral,39
+12/01/87,Tektite,2,10,All coral,33.5
+12/01/87,Tektite,3,1,All coral,27
+12/01/87,Tektite,3,2,All coral,43.5
+12/01/87,Tektite,3,3,All coral,58.6
+12/01/87,Tektite,3,4,All coral,30.5
+12/01/87,Tektite,3,5,All coral,25.5
+12/01/87,Tektite,3,6,All coral,18
+12/01/87,Tektite,3,7,All coral,44
+12/01/87,Tektite,3,8,All coral,50.5
+12/01/87,Tektite,3,9,All coral,33.5
+12/01/87,Tektite,3,10,All coral,29
+03/01/88,Tektite,1,1,All coral,19.5
+03/01/88,Tektite,1,2,All coral,11
+03/01/88,Tektite,1,3,All coral,13.5
+03/01/88,Tektite,1,4,All coral,13.5
+03/01/88,Tektite,1,5,All coral,13.5
+03/01/88,Tektite,1,6,All coral,14
+03/01/88,Tektite,1,7,All coral,23.8
+03/01/88,Tektite,1,8,All coral,39
+03/01/88,Tektite,1,9,All coral,26.5
+03/01/88,Tektite,2,1,All coral,16
+03/01/88,Tektite,2,2,All coral,22
+03/01/88,Tektite,2,3,All coral,22.5
+03/01/88,Tektite,2,4,All coral,38
+03/01/88,Tektite,2,5,All coral,50.5
+03/01/88,Tektite,2,6,All coral,45.5
+03/01/88,Tektite,2,7,All coral,47
+03/01/88,Tektite,2,8,All coral,54
+03/01/88,Tektite,2,9,All coral,48
+03/01/88,Tektite,2,10,All coral,45
+03/01/88,Tektite,3,1,All coral,33.5
+03/01/88,Tektite,3,2,All coral,48.5
+03/01/88,Tektite,3,3,All coral,56.5
+03/01/88,Tektite,3,4,All coral,42.5
+03/01/88,Tektite,3,5,All coral,20
+03/01/88,Tektite,3,6,All coral,20
+03/01/88,Tektite,3,7,All coral,37
+03/01/88,Tektite,3,8,All coral,50.5
+03/01/88,Tektite,3,9,All coral,49
+03/01/88,Tektite,3,10,All coral,31
+07/01/88,Tektite,1,1,All coral,25.5
+07/01/88,Tektite,1,2,All coral,8.5
+07/01/88,Tektite,1,3,All coral,13.8
+07/01/88,Tektite,1,4,All coral,21
+07/01/88,Tektite,1,5,All coral,17.5
+07/01/88,Tektite,1,6,All coral,8
+07/01/88,Tektite,1,7,All coral,23
+07/01/88,Tektite,1,8,All coral,42
+07/01/88,Tektite,1,9,All coral,39.5
+07/01/88,Tektite,1,10,All coral,27
+07/01/88,Tektite,2,1,All coral,20.5
+07/01/88,Tektite,2,2,All coral,29.5
+07/01/88,Tektite,2,3,All coral,17.5
+07/01/88,Tektite,2,4,All coral,29.5
+07/01/88,Tektite,2,5,All coral,44
+07/01/88,Tektite,2,6,All coral,48.5
+07/01/88,Tektite,2,7,All coral,34
+07/01/88,Tektite,2,8,All coral,55.5
+07/01/88,Tektite,2,9,All coral,46
+07/01/88,Tektite,2,10,All coral,41.5
+07/01/88,Tektite,3,1,All coral,33.5
+07/01/88,Tektite,3,2,All coral,49
+07/01/88,Tektite,3,3,All coral,52
+07/01/88,Tektite,3,4,All coral,35
+07/01/88,Tektite,3,5,All coral,24
+07/01/88,Tektite,3,6,All coral,30.5
+07/01/88,Tektite,3,7,All coral,45
+07/01/88,Tektite,3,8,All coral,50
+07/01/88,Tektite,3,9,All coral,46.5
+07/01/88,Tektite,3,10,All coral,39
+12/01/88,Tektite,2,1,All coral,19
+12/01/88,Tektite,2,2,All coral,24.5
+12/01/88,Tektite,2,3,All coral,17.5
+12/01/88,Tektite,2,4,All coral,39.5
+12/01/88,Tektite,2,5,All coral,48
+12/01/88,Tektite,2,6,All coral,38.5
+12/01/88,Tektite,2,7,All coral,53.5
+12/01/88,Tektite,2,8,All coral,51
+12/01/88,Tektite,2,9,All coral,43.5
+12/01/88,Tektite,2,10,All coral,41
+12/01/88,Tektite,3,1,All coral,38
+12/01/88,Tektite,3,2,All coral,44
+12/01/88,Tektite,3,3,All coral,41.5
+12/01/88,Tektite,3,4,All coral,29
+12/01/88,Tektite,3,5,All coral,23.5
+12/01/88,Tektite,3,6,All coral,24.5
+12/01/88,Tektite,3,7,All coral,36.5
+12/01/88,Tektite,3,8,All coral,44.5
+12/01/88,Tektite,3,9,All coral,45.5
+12/01/88,Tektite,3,10,All coral,31.5
+04/01/89,Tektite,1,1,All coral,31
+04/01/89,Tektite,1,2,All coral,9.5
+04/01/89,Tektite,1,3,All coral,9
+04/01/89,Tektite,1,4,All coral,9
+04/01/89,Tektite,1,5,All coral,13
+04/01/89,Tektite,1,6,All coral,13
+04/01/89,Tektite,1,7,All coral,41
+04/01/89,Tektite,1,8,All coral,37
+04/01/89,Tektite,1,9,All coral,26.5
+04/01/89,Tektite,1,10,All coral,35.5
+04/01/89,Tektite,2,1,All coral,22.5
+04/01/89,Tektite,2,2,All coral,38.5
+04/01/89,Tektite,2,3,All coral,17.5
+04/01/89,Tektite,2,4,All coral,46
+04/01/89,Tektite,2,5,All coral,46.5
+04/01/89,Tektite,2,6,All coral,38.5
+04/01/89,Tektite,2,7,All coral,60.5
+04/01/89,Tektite,2,8,All coral,53
+04/01/89,Tektite,2,9,All coral,63
+04/01/89,Tektite,2,10,All coral,42.5
+04/01/89,Tektite,3,1,All coral,38.5
+04/01/89,Tektite,3,2,All coral,50
+04/01/89,Tektite,3,3,All coral,51
+04/01/89,Tektite,3,4,All coral,34
+04/01/89,Tektite,3,5,All coral,26
+04/01/89,Tektite,3,6,All coral,43
+04/01/89,Tektite,3,7,All coral,55
+04/01/89,Tektite,3,8,All coral,43
+04/01/89,Tektite,3,9,All coral,47
+04/01/89,Tektite,3,10,All coral,45
+10/01/89,Tektite,1,1,All coral,24.5
+10/01/89,Tektite,1,2,All coral,14.5
+10/01/89,Tektite,1,3,All coral,18.5
+10/01/89,Tektite,1,4,All coral,15.5
+10/01/89,Tektite,1,5,All coral,35
+10/01/89,Tektite,1,6,All coral,39
+10/01/89,Tektite,1,7,All coral,39.5
+10/01/89,Tektite,1,8,All coral,37.5
+10/01/89,Tektite,1,9,All coral,34
+10/01/89,Tektite,1,10,All coral,42.5
+10/01/89,Tektite,2,1,All coral,26
+10/01/89,Tektite,2,2,All coral,28
+10/01/89,Tektite,2,3,All coral,16.5
+10/01/89,Tektite,2,4,All coral,44
+10/01/89,Tektite,2,5,All coral,54
+10/01/89,Tektite,2,6,All coral,47
+10/01/89,Tektite,2,7,All coral,67.5
+10/01/89,Tektite,2,8,All coral,61.5
+10/01/89,Tektite,2,9,All coral,55.5
+10/01/89,Tektite,2,10,All coral,43.5
+10/01/89,Tektite,3,1,All coral,34.5
+10/01/89,Tektite,3,2,All coral,59
+10/01/89,Tektite,3,3,All coral,38.5
+10/01/89,Tektite,3,4,All coral,20.5
+10/01/89,Tektite,3,5,All coral,26
+10/01/89,Tektite,3,6,All coral,22.5
+10/01/89,Tektite,3,7,All coral,55
+10/01/89,Tektite,3,8,All coral,57
+10/01/89,Tektite,3,9,All coral,46.5
+10/01/89,Tektite,3,10,All coral,35.5
+09/01/90,Tektite,1,1,All coral,31
+09/01/90,Tektite,1,2,All coral,11
+09/01/90,Tektite,1,3,All coral,19.5
+09/01/90,Tektite,1,4,All coral,12.8
+09/01/90,Tektite,1,5,All coral,28
+09/01/90,Tektite,1,6,All coral,48
+09/01/90,Tektite,1,7,All coral,38.5
+09/01/90,Tektite,1,8,All coral,44.5
+09/01/90,Tektite,1,9,All coral,30
+09/01/90,Tektite,1,10,All coral,40.5
+09/01/90,Tektite,2,1,All coral,20.5
+09/01/90,Tektite,2,2,All coral,24.5
+09/01/90,Tektite,2,3,All coral,21
+09/01/90,Tektite,2,4,All coral,49.5
+09/01/90,Tektite,2,5,All coral,57
+09/01/90,Tektite,2,6,All coral,48.5
+09/01/90,Tektite,2,7,All coral,69.5
+09/01/90,Tektite,2,8,All coral,62
+09/01/90,Tektite,2,9,All coral,51.5
+09/01/90,Tektite,2,10,All coral,52
+09/01/90,Tektite,3,1,All coral,25
+09/01/90,Tektite,3,2,All coral,53
+09/01/90,Tektite,3,3,All coral,50
+09/01/90,Tektite,3,4,All coral,30.5
+09/01/90,Tektite,3,5,All coral,29
+09/01/90,Tektite,3,6,All coral,32
+09/01/90,Tektite,3,7,All coral,51
+09/01/90,Tektite,3,8,All coral,46
+09/01/90,Tektite,3,9,All coral,48
+09/01/90,Tektite,3,10,All coral,41.5
+03/01/91,Tektite,1,1,All coral,21.5
+03/01/91,Tektite,1,2,All coral,16.5
+03/01/91,Tektite,1,3,All coral,27.6
+03/01/91,Tektite,1,4,All coral,21.9
+03/01/91,Tektite,1,5,All coral,38.5
+03/01/91,Tektite,1,6,All coral,40
+03/01/91,Tektite,1,7,All coral,40.5
+03/01/91,Tektite,1,8,All coral,36.5
+03/01/91,Tektite,1,9,All coral,18.5
+03/01/91,Tektite,1,10,All coral,41.1
+03/01/91,Tektite,2,1,All coral,16.5
+03/01/91,Tektite,2,2,All coral,25
+03/01/91,Tektite,2,3,All coral,17
+03/01/91,Tektite,2,4,All coral,46.5
+03/01/91,Tektite,2,5,All coral,56
+03/01/91,Tektite,2,6,All coral,50
+03/01/91,Tektite,2,7,All coral,70.8
+03/01/91,Tektite,2,8,All coral,52.6
+03/01/91,Tektite,2,9,All coral,61.5
+03/01/91,Tektite,2,10,All coral,51
+03/01/91,Tektite,3,1,All coral,32
+03/01/91,Tektite,3,2,All coral,52.6
+03/01/91,Tektite,3,3,All coral,56
+03/01/91,Tektite,3,4,All coral,38.1
+03/01/91,Tektite,3,5,All coral,28.5
+03/01/91,Tektite,3,6,All coral,29.5
+03/01/91,Tektite,3,7,All coral,50.3
+03/01/91,Tektite,3,8,All coral,47.7
+03/01/91,Tektite,3,9,All coral,41.2
+03/01/91,Tektite,3,10,All coral,45.7
+05/01/92,Tektite,2,1,All coral,20.5
+05/01/92,Tektite,2,2,All coral,25.5
+05/01/92,Tektite,2,3,All coral,26
+05/01/92,Tektite,2,4,All coral,38
+05/01/92,Tektite,2,5,All coral,57
+05/01/92,Tektite,2,6,All coral,42.5
+05/01/92,Tektite,2,7,All coral,55.5
+05/01/92,Tektite,2,8,All coral,52
+05/01/92,Tektite,2,9,All coral,48
+05/01/92,Tektite,2,10,All coral,41
+05/01/92,Tektite,3,1,All coral,30
+05/01/92,Tektite,3,2,All coral,53
+05/01/92,Tektite,3,3,All coral,24.5
+05/01/92,Tektite,3,4,All coral,21.5
+05/01/92,Tektite,3,5,All coral,28.5
+05/01/92,Tektite,3,7,All coral,25.5
+05/01/92,Tektite,3,8,All coral,53.5
+05/01/92,Tektite,3,9,All coral,33
+06/01/93,Tektite,1,1,All coral,16.3
+06/01/93,Tektite,1,2,All coral,4
+06/01/93,Tektite,1,3,All coral,22.7
+06/01/93,Tektite,1,4,All coral,12.1
+06/01/93,Tektite,1,5,All coral,45
+06/01/93,Tektite,1,6,All coral,69.4
+06/01/93,Tektite,1,7,All coral,53.7
+06/01/93,Tektite,1,8,All coral,56.7
+06/01/93,Tektite,1,9,All coral,28.4
+06/01/93,Tektite,1,10,All coral,50.3
+06/01/93,Tektite,2,1,All coral,13.3
+06/01/93,Tektite,2,2,All coral,22.6
+06/01/93,Tektite,2,3,All coral,22.2
+06/01/93,Tektite,2,4,All coral,36.2
+06/01/93,Tektite,2,5,All coral,73.7
+06/01/93,Tektite,2,6,All coral,75.1
+06/01/93,Tektite,2,7,All coral,73.6
+06/01/93,Tektite,2,8,All coral,58.3
+06/01/93,Tektite,2,9,All coral,47.4
+06/01/93,Tektite,2,10,All coral,44.9
+06/01/93,Tektite,3,1,All coral,21.2
+06/01/93,Tektite,3,2,All coral,32.4
+06/01/93,Tektite,3,3,All coral,56.1
+06/01/93,Tektite,3,4,All coral,30
+06/01/93,Tektite,3,5,All coral,26.2
+06/01/93,Tektite,3,6,All coral,28
+06/01/93,Tektite,3,7,All coral,29
+06/01/93,Tektite,3,8,All coral,50.7
+06/01/93,Tektite,3,9,All coral,37.6
+06/01/93,Tektite,3,10,All coral,37.1
+08/01/94,Tektite,1,1,All coral,22.6
+08/01/94,Tektite,1,2,All coral,4.2
+08/01/94,Tektite,1,3,All coral,8.4
+08/01/94,Tektite,1,4,All coral,12.6
+08/01/94,Tektite,1,5,All coral,50.5
+08/01/94,Tektite,1,6,All coral,34.5
+08/01/94,Tektite,1,7,All coral,34.5
+08/01/94,Tektite,1,8,All coral,42.5
+08/01/94,Tektite,1,9,All coral,44
+08/01/94,Tektite,1,10,All coral,52.5
+08/01/94,Tektite,2,1,All coral,23.5
+08/01/94,Tektite,2,2,All coral,17
+08/01/94,Tektite,2,3,All coral,23
+08/01/94,Tektite,2,4,All coral,41
+08/01/94,Tektite,2,5,All coral,71.1
+08/01/94,Tektite,2,6,All coral,60.5
+08/01/94,Tektite,2,7,All coral,64
+08/01/94,Tektite,2,8,All coral,64
+08/01/94,Tektite,2,9,All coral,56
+08/01/94,Tektite,2,10,All coral,44.5
+08/01/94,Tektite,3,1,All coral,36
+08/01/94,Tektite,3,2,All coral,60.5
+08/01/94,Tektite,3,3,All coral,42
+08/01/94,Tektite,3,4,All coral,20
+08/01/94,Tektite,3,5,All coral,34
+08/01/94,Tektite,3,6,All coral,39
+08/01/94,Tektite,3,7,All coral,46.5
+08/01/94,Tektite,3,8,All coral,57.5
+08/01/94,Tektite,3,9,All coral,47
+08/01/94,Tektite,3,10,All coral,41.5
+05/01/95,Tektite,1,1,All coral,29
+05/01/95,Tektite,1,2,All coral,14
+05/01/95,Tektite,1,3,All coral,26
+05/01/95,Tektite,1,4,All coral,16.5
+05/01/95,Tektite,1,5,All coral,45
+05/01/95,Tektite,1,6,All coral,39
+05/01/95,Tektite,1,7,All coral,42
+05/01/95,Tektite,1,8,All coral,31
+05/01/95,Tektite,1,9,All coral,29
+05/01/95,Tektite,1,10,All coral,49.5
+05/01/95,Tektite,2,1,All coral,26
+05/01/95,Tektite,2,2,All coral,24
+05/01/95,Tektite,2,3,All coral,37
+05/01/95,Tektite,2,4,All coral,41.5
+05/01/95,Tektite,2,5,All coral,56
+05/01/95,Tektite,2,6,All coral,45
+05/01/95,Tektite,2,7,All coral,66.5
+05/01/95,Tektite,2,8,All coral,57.5
+05/01/95,Tektite,2,9,All coral,47.5
+05/01/95,Tektite,2,10,All coral,49.5
+05/01/95,Tektite,3,1,All coral,30
+05/01/95,Tektite,3,2,All coral,48
+05/01/95,Tektite,3,3,All coral,34.5
+05/01/95,Tektite,3,4,All coral,38
+05/01/95,Tektite,3,5,All coral,34
+05/01/95,Tektite,3,6,All coral,47.5
+05/01/95,Tektite,3,7,All coral,43.5
+05/01/95,Tektite,3,8,All coral,41
+05/01/95,Tektite,3,9,All coral,39.5
+05/01/95,Tektite,3,10,All coral,38
+05/01/96,Tektite,1,1,All coral,38.5
+05/01/96,Tektite,1,2,All coral,9.7
+05/01/96,Tektite,1,3,All coral,16.9
+05/01/96,Tektite,1,4,All coral,10.9
+05/01/96,Tektite,1,5,All coral,42.2
+05/01/96,Tektite,1,6,All coral,46.4
+05/01/96,Tektite,1,7,All coral,39
+05/01/96,Tektite,1,8,All coral,36.7
+05/01/96,Tektite,1,9,All coral,26
+05/01/96,Tektite,1,10,All coral,59.6
+05/01/96,Tektite,1,11,All coral,18.5
+05/01/96,Tektite,2,1,All coral,12.8
+05/01/96,Tektite,2,2,All coral,20.8
+05/01/96,Tektite,2,3,All coral,33.7
+05/01/96,Tektite,2,4,All coral,34.2
+05/01/96,Tektite,2,5,All coral,73.7
+05/01/96,Tektite,2,6,All coral,59.8
+05/01/96,Tektite,2,7,All coral,76.3
+05/01/96,Tektite,2,8,All coral,52.4
+05/01/96,Tektite,2,9,All coral,45.9
+05/01/96,Tektite,2,10,All coral,44.6
+05/01/96,Tektite,3,1,All coral,21.6
+05/01/96,Tektite,3,2,All coral,41.7
+05/01/96,Tektite,3,3,All coral,46.4
+05/01/96,Tektite,3,4,All coral,22.6
+05/01/96,Tektite,3,5,All coral,26.1
+05/01/96,Tektite,3,6,All coral,42.2
+05/01/96,Tektite,3,7,All coral,61.2
+05/01/96,Tektite,3,8,All coral,46.7
+05/01/96,Tektite,3,9,All coral,48.9
+05/01/96,Tektite,3,10,All coral,50.5
+08/01/97,Tektite,1,1,All coral,32.5
+08/01/97,Tektite,1,2,All coral,11.5
+08/01/97,Tektite,1,3,All coral,17.5
+08/01/97,Tektite,1,4,All coral,16
+08/01/97,Tektite,1,5,All coral,34.5
+08/01/97,Tektite,1,6,All coral,37
+08/01/97,Tektite,1,7,All coral,38
+08/01/97,Tektite,1,8,All coral,47
+08/01/97,Tektite,1,9,All coral,38
+08/01/97,Tektite,1,10,All coral,53.5
+08/01/97,Tektite,2,1,All coral,19.5
+08/01/97,Tektite,2,2,All coral,34.5
+08/01/97,Tektite,2,3,All coral,27
+08/01/97,Tektite,2,4,All coral,47
+08/01/97,Tektite,2,5,All coral,60.5
+08/01/97,Tektite,2,6,All coral,51.5
+08/01/97,Tektite,2,7,All coral,64.5
+08/01/97,Tektite,2,8,All coral,59.5
+08/01/97,Tektite,2,9,All coral,52
+08/01/97,Tektite,2,10,All coral,55
+08/01/97,Tektite,3,1,All coral,30
+08/01/97,Tektite,3,2,All coral,53.5
+08/01/97,Tektite,3,3,All coral,45.5
+08/01/97,Tektite,3,4,All coral,28
+08/01/97,Tektite,3,5,All coral,39
+08/01/97,Tektite,3,6,All coral,45.5
+08/01/97,Tektite,3,7,All coral,62.5
+08/01/97,Tektite,3,8,All coral,44
+08/01/97,Tektite,3,9,All coral,55
+08/01/97,Tektite,3,10,All coral,50.5
+08/01/98,Tektite,1,1,All coral,33.7
+08/01/98,Tektite,1,2,All coral,15.6
+08/01/98,Tektite,1,3,All coral,19.9
+08/01/98,Tektite,1,4,All coral,16.3
+08/01/98,Tektite,1,5,All coral,34.9
+08/01/98,Tektite,1,6,All coral,41.4
+08/01/98,Tektite,1,7,All coral,36.7
+08/01/98,Tektite,1,8,All coral,51.9
+08/01/98,Tektite,1,9,All coral,39.2
+08/01/98,Tektite,1,10,All coral,57.2
+08/01/98,Tektite,2,1,All coral,25.1
+08/01/98,Tektite,2,2,All coral,37.4
+08/01/98,Tektite,2,3,All coral,42.7
+08/01/98,Tektite,2,4,All coral,37.4
+08/01/98,Tektite,2,5,All coral,66.9
+08/01/98,Tektite,2,6,All coral,53.4
+08/01/98,Tektite,2,7,All coral,55.1
+08/01/98,Tektite,2,8,All coral,67.2
+08/01/98,Tektite,2,9,All coral,62.7
+08/01/98,Tektite,2,10,All coral,66.9
+08/01/98,Tektite,3,1,All coral,31.1
+08/01/98,Tektite,3,2,All coral,60
+08/01/98,Tektite,3,3,All coral,45.9
+08/01/98,Tektite,3,4,All coral,26.6
+08/01/98,Tektite,3,5,All coral,49.1
+08/01/98,Tektite,3,6,All coral,50.3
+08/01/98,Tektite,3,7,All coral,49.2
+08/01/98,Tektite,3,8,All coral,39.3
+08/01/98,Tektite,3,9,All coral,42
+08/01/98,Tektite,3,10,All coral,46.2
+08/01/99,Tektite,1,1,All coral,27.9
+08/01/99,Tektite,1,2,All coral,15.6
+08/01/99,Tektite,1,3,All coral,17
+08/01/99,Tektite,1,4,All coral,11.1
+08/01/99,Tektite,1,5,All coral,53.9
+08/01/99,Tektite,1,6,All coral,33.2
+08/01/99,Tektite,1,7,All coral,48.7
+08/01/99,Tektite,1,8,All coral,36.1
+08/01/99,Tektite,1,9,All coral,47.7
+08/01/99,Tektite,1,10,All coral,40.7
+08/01/99,Tektite,2,1,All coral,34.9
+08/01/99,Tektite,2,2,All coral,34.5
+08/01/99,Tektite,2,3,All coral,19.9
+08/01/99,Tektite,2,4,All coral,43.9
+08/01/99,Tektite,2,5,All coral,57.8
+08/01/99,Tektite,2,6,All coral,50.8
+08/01/99,Tektite,2,7,All coral,55.1
+08/01/99,Tektite,2,8,All coral,63.5
+08/01/99,Tektite,2,9,All coral,76.9
+08/01/99,Tektite,2,10,All coral,60.5
+08/01/99,Tektite,3,1,All coral,34.1
+08/01/99,Tektite,3,2,All coral,67
+08/01/99,Tektite,3,3,All coral,43.9
+08/01/99,Tektite,3,4,All coral,33.5
+08/01/99,Tektite,3,5,All coral,44.1
+08/01/99,Tektite,3,6,All coral,51
+08/01/99,Tektite,3,7,All coral,56.1
+08/01/99,Tektite,3,8,All coral,51.5
+08/01/99,Tektite,3,9,All coral,44.5
+08/01/99,Tektite,3,10,All coral,49
+08/01/00,Tektite,1,1,All coral,22.1
+08/01/00,Tektite,1,2,All coral,10
+08/01/00,Tektite,1,3,All coral,15.1
+08/01/00,Tektite,1,4,All coral,12.5
+08/01/00,Tektite,1,5,All coral,60.5
+08/01/00,Tektite,1,6,All coral,39.5
+08/01/00,Tektite,1,7,All coral,53.5
+08/01/00,Tektite,1,8,All coral,44.7
+08/01/00,Tektite,1,9,All coral,47.2
+08/01/00,Tektite,1,10,All coral,42
+08/01/00,Tektite,2,1,All coral,27
+08/01/00,Tektite,2,2,All coral,22.7
+08/01/00,Tektite,2,3,All coral,22
+08/01/00,Tektite,2,4,All coral,38
+08/01/00,Tektite,2,5,All coral,72.5
+08/01/00,Tektite,2,6,All coral,47.5
+08/01/00,Tektite,2,7,All coral,57.5
+08/01/00,Tektite,2,8,All coral,49
+08/01/00,Tektite,2,9,All coral,64
+08/01/00,Tektite,2,10,All coral,51
+08/01/00,Tektite,3,1,All coral,29
+08/01/00,Tektite,3,2,All coral,77.5
+08/01/00,Tektite,3,3,All coral,56.3
+08/01/00,Tektite,3,4,All coral,37
+08/01/00,Tektite,3,5,All coral,47.5
+08/01/00,Tektite,3,6,All coral,48.5
+08/01/00,Tektite,3,7,All coral,59
+08/01/00,Tektite,3,8,All coral,49
+08/01/00,Tektite,3,9,All coral,52
+08/01/00,Tektite,3,10,All coral,38.6
+08/01/01,Tektite,1,1,All coral,36.1
+08/01/01,Tektite,1,2,All coral,14.4
+08/01/01,Tektite,1,3,All coral,17.9
+08/01/01,Tektite,1,4,All coral,22
+08/01/01,Tektite,1,5,All coral,47.8
+08/01/01,Tektite,1,6,All coral,38.4
+08/01/01,Tektite,1,7,All coral,52.5
+08/01/01,Tektite,1,8,All coral,41.8
+08/01/01,Tektite,1,9,All coral,50.8
+08/01/01,Tektite,1,10,All coral,39.4
+08/01/01,Tektite,2,1,All coral,24.2
+08/01/01,Tektite,2,2,All coral,28.6
+08/01/01,Tektite,2,3,All coral,28.4
+08/01/01,Tektite,2,4,All coral,35.2
+08/01/01,Tektite,2,5,All coral,74.1
+08/01/01,Tektite,2,6,All coral,56.9
+08/01/01,Tektite,2,7,All coral,50.8
+08/01/01,Tektite,2,8,All coral,48.7
+08/01/01,Tektite,2,9,All coral,55.3
+08/01/01,Tektite,2,10,All coral,64.5
+08/01/01,Tektite,3,1,All coral,22.7
+08/01/01,Tektite,3,2,All coral,70.3
+08/01/01,Tektite,3,3,All coral,57.8
+08/01/01,Tektite,3,4,All coral,34.7
+08/01/01,Tektite,3,5,All coral,42.3
+08/01/01,Tektite,3,6,All coral,47.5
+08/01/01,Tektite,3,7,All coral,59
+08/01/01,Tektite,3,8,All coral,41.7
+08/01/01,Tektite,3,9,All coral,61.6
+08/01/01,Tektite,3,10,All coral,48.1
+08/01/02,Tektite,1,1,All coral,38.7
+08/01/02,Tektite,1,2,All coral,22.7
+08/01/02,Tektite,1,3,All coral,24.5
+08/01/02,Tektite,1,4,All coral,23
+08/01/02,Tektite,1,5,All coral,63
+08/01/02,Tektite,1,6,All coral,56
+08/01/02,Tektite,1,7,All coral,62.8
+08/01/02,Tektite,1,8,All coral,62.4
+08/01/02,Tektite,1,9,All coral,53.8
+08/01/02,Tektite,1,10,All coral,46.4
+08/01/02,Tektite,2,1,All coral,26.5
+08/01/02,Tektite,2,2,All coral,26.9
+08/01/02,Tektite,2,3,All coral,34.9
+08/01/02,Tektite,2,4,All coral,33.3
+08/01/02,Tektite,2,5,All coral,76.3
+08/01/02,Tektite,2,6,All coral,74.6
+08/01/02,Tektite,2,7,All coral,59.7
+08/01/02,Tektite,2,8,All coral,54.7
+08/01/02,Tektite,2,9,All coral,54
+08/01/02,Tektite,2,10,All coral,56.2
+08/01/02,Tektite,3,1,All coral,40.5
+08/01/02,Tektite,3,2,All coral,74.6
+08/01/02,Tektite,3,3,All coral,62.1
+08/01/02,Tektite,3,4,All coral,32.7
+08/01/02,Tektite,3,5,All coral,48.2
+08/01/02,Tektite,3,6,All coral,50
+08/01/02,Tektite,3,7,All coral,45.4
+08/01/02,Tektite,3,8,All coral,43.4
+08/01/02,Tektite,3,9,All coral,65.6
+08/01/02,Tektite,3,10,All coral,50
+08/01/03,Tektite,1,1,All coral,38.9
+08/01/03,Tektite,1,2,All coral,21.4
+08/01/03,Tektite,1,3,All coral,27.1
+08/01/03,Tektite,1,4,All coral,27.6
+08/01/03,Tektite,1,5,All coral,53.8
+08/01/03,Tektite,1,6,All coral,43.4
+08/01/03,Tektite,1,7,All coral,61.5
+08/01/03,Tektite,1,8,All coral,55.1
+08/01/03,Tektite,1,9,All coral,49.2
+08/01/03,Tektite,1,10,All coral,29.8
+08/01/03,Tektite,2,1,All coral,17.7
+08/01/03,Tektite,2,2,All coral,17.2
+08/01/03,Tektite,2,3,All coral,29.1
+08/01/03,Tektite,2,4,All coral,48.7
+08/01/03,Tektite,2,5,All coral,67.5
+08/01/03,Tektite,2,6,All coral,64.4
+08/01/03,Tektite,2,7,All coral,66.7
+08/01/03,Tektite,2,8,All coral,61.6
+08/01/03,Tektite,2,9,All coral,52.5
+08/01/03,Tektite,2,10,All coral,53
+08/01/03,Tektite,3,1,All coral,36.9
+08/01/03,Tektite,3,2,All coral,66.2
+08/01/03,Tektite,3,3,All coral,56.9
+08/01/03,Tektite,3,4,All coral,42.6
+08/01/03,Tektite,3,5,All coral,47.2
+08/01/03,Tektite,3,6,All coral,56.3
+08/01/03,Tektite,3,7,All coral,63.5
+08/01/03,Tektite,3,8,All coral,47.7
+08/01/03,Tektite,3,9,All coral,53
+08/01/03,Tektite,3,10,All coral,56
+08/01/04,Tektite,1,1,All coral,38.6
+08/01/04,Tektite,1,2,All coral,25.6
+08/01/04,Tektite,1,3,All coral,21.9
+08/01/04,Tektite,1,4,All coral,20.9
+08/01/04,Tektite,1,5,All coral,42.3
+08/01/04,Tektite,1,6,All coral,42.3
+08/01/04,Tektite,1,7,All coral,42.4
+08/01/04,Tektite,1,8,All coral,45.5
+08/01/04,Tektite,1,9,All coral,52.4
+08/01/04,Tektite,1,10,All coral,50.3
+08/01/04,Tektite,2,1,All coral,8.5
+08/01/04,Tektite,2,2,All coral,19.6
+08/01/04,Tektite,2,3,All coral,19.5
+08/01/04,Tektite,2,4,All coral,24.1
+08/01/04,Tektite,2,5,All coral,41.1
+08/01/04,Tektite,2,6,All coral,75.6
+08/01/04,Tektite,2,7,All coral,46.8
+08/01/04,Tektite,2,8,All coral,48.6
+08/01/04,Tektite,2,9,All coral,51.5
+08/01/04,Tektite,2,10,All coral,53.6
+08/01/04,Tektite,3,1,All coral,33.1
+08/01/04,Tektite,3,2,All coral,58.3
+08/01/04,Tektite,3,3,All coral,36.8
+08/01/04,Tektite,3,4,All coral,25.9
+08/01/04,Tektite,3,5,All coral,47.9
+08/01/04,Tektite,3,6,All coral,51.9
+08/01/04,Tektite,3,7,All coral,64.9
+08/01/04,Tektite,3,8,All coral,42
+08/01/04,Tektite,3,9,All coral,48.2
+08/01/04,Tektite,3,10,All coral,42.6
+08/01/05,Tektite,1,1,All coral,38.7
+08/01/05,Tektite,1,2,All coral,23.7
+08/01/05,Tektite,1,3,All coral,33.3
+08/01/05,Tektite,1,4,All coral,21.9
+08/01/05,Tektite,1,5,All coral,53.3
+08/01/05,Tektite,1,6,All coral,32.6
+08/01/05,Tektite,1,7,All coral,50
+08/01/05,Tektite,1,8,All coral,39.5
+08/01/05,Tektite,1,9,All coral,49.1
+08/01/05,Tektite,1,10,All coral,34.3
+08/01/05,Tektite,2,1,All coral,3.6
+08/01/05,Tektite,2,2,All coral,19.8
+08/01/05,Tektite,2,3,All coral,25
+08/01/05,Tektite,2,4,All coral,38.8
+08/01/05,Tektite,2,5,All coral,64.1
+08/01/05,Tektite,2,6,All coral,55.3
+08/01/05,Tektite,2,7,All coral,54.7
+08/01/05,Tektite,2,8,All coral,56.3
+08/01/05,Tektite,2,9,All coral,53.8
+08/01/05,Tektite,2,10,All coral,63.7
+08/01/05,Tektite,3,1,All coral,32.2
+08/01/05,Tektite,3,2,All coral,57.6
+08/01/05,Tektite,3,3,All coral,46
+08/01/05,Tektite,3,4,All coral,31.6
+08/01/05,Tektite,3,5,All coral,48.2
+08/01/05,Tektite,3,6,All coral,41.9
+08/01/05,Tektite,3,7,All coral,57.3
+08/01/05,Tektite,3,8,All coral,42.6
+08/01/05,Tektite,3,9,All coral,46.3
+08/01/05,Tektite,3,10,All coral,43.9
+08/01/06,Tektite,1,1,All coral,22.4
+08/01/06,Tektite,1,2,All coral,10.4
+08/01/06,Tektite,1,3,All coral,29.1
+08/01/06,Tektite,1,4,All coral,16.2
+08/01/06,Tektite,1,5,All coral,38.4
+08/01/06,Tektite,1,6,All coral,22.6
+08/01/06,Tektite,1,7,All coral,24
+08/01/06,Tektite,1,8,All coral,27.6
+08/01/06,Tektite,1,9,All coral,33.3
+08/01/06,Tektite,1,10,All coral,48.4
+08/01/06,Tektite,2,1,All coral,25.5
+08/01/06,Tektite,2,2,All coral,29.5
+08/01/06,Tektite,2,3,All coral,22.3
+08/01/06,Tektite,2,4,All coral,28.1
+08/01/06,Tektite,2,5,All coral,57.4
+08/01/06,Tektite,2,6,All coral,49
+08/01/06,Tektite,2,7,All coral,56.3
+08/01/06,Tektite,2,8,All coral,33
+08/01/06,Tektite,2,9,All coral,22.2
+08/01/06,Tektite,2,10,All coral,43.8
+08/01/06,Tektite,3,1,All coral,15.4
+08/01/06,Tektite,3,2,All coral,37.2
+08/01/06,Tektite,3,3,All coral,55.6
+08/01/06,Tektite,3,4,All coral,42
+08/01/06,Tektite,3,5,All coral,35.9
+08/01/06,Tektite,3,6,All coral,43
+08/01/06,Tektite,3,7,All coral,48.9
+08/01/06,Tektite,3,8,All coral,51
+08/01/06,Tektite,3,9,All coral,28.9
+08/01/06,Tektite,3,10,All coral,39.3
+08/01/07,Tektite,1,1,All coral,13.8
+08/01/07,Tektite,1,2,All coral,14.9
+08/01/07,Tektite,1,3,All coral,19.3
+08/01/07,Tektite,1,4,All coral,9.8
+08/01/07,Tektite,1,5,All coral,26.6
+08/01/07,Tektite,1,6,All coral,17.8
+08/01/07,Tektite,1,7,All coral,13
+08/01/07,Tektite,1,8,All coral,10.8
+08/01/07,Tektite,1,9,All coral,36.2
+08/01/07,Tektite,1,10,All coral,14.7
+08/01/07,Tektite,2,1,All coral,20
+08/01/07,Tektite,2,2,All coral,12.2
+08/01/07,Tektite,2,3,All coral,10.4
+08/01/07,Tektite,2,4,All coral,33.7
+08/01/07,Tektite,2,5,All coral,33.3
+08/01/07,Tektite,2,6,All coral,34.8
+08/01/07,Tektite,2,7,All coral,26.3
+08/01/07,Tektite,2,8,All coral,19.5
+08/01/07,Tektite,2,9,All coral,22.7
+08/01/07,Tektite,2,10,All coral,41
+08/01/07,Tektite,3,1,All coral,24.5
+08/01/07,Tektite,3,2,All coral,23.3
+08/01/07,Tektite,3,3,All coral,33.9
+08/01/07,Tektite,3,4,All coral,29.5
+08/01/07,Tektite,3,5,All coral,36.1
+08/01/07,Tektite,3,6,All coral,20.8
+08/01/07,Tektite,3,7,All coral,46.4
+08/01/07,Tektite,3,8,All coral,32.1
+08/01/07,Tektite,3,9,All coral,24.5
+08/01/07,Tektite,3,10,All coral,27.5
+08/01/08,Tektite,1,1,All coral,21.9
+08/01/08,Tektite,1,2,All coral,22.6
+08/01/08,Tektite,1,3,All coral,22.1
+08/01/08,Tektite,1,4,All coral,18.5
+08/01/08,Tektite,1,5,All coral,45.6
+08/01/08,Tektite,1,6,All coral,25
+08/01/08,Tektite,1,7,All coral,16.9
+08/01/08,Tektite,1,8,All coral,15.8
+08/01/08,Tektite,1,9,All coral,42.4
+08/01/08,Tektite,1,10,All coral,33.3
+08/01/08,Tektite,2,1,All coral,29.2
+08/01/08,Tektite,2,2,All coral,20.8
+08/01/08,Tektite,2,3,All coral,15.5
+08/01/08,Tektite,2,4,All coral,40.6
+08/01/08,Tektite,2,5,All coral,57.3
+08/01/08,Tektite,2,6,All coral,45.7
+08/01/08,Tektite,2,7,All coral,51.4
+08/01/08,Tektite,2,8,All coral,34.3
+08/01/08,Tektite,2,9,All coral,30.8
+08/01/08,Tektite,2,10,All coral,46.8
+08/01/08,Tektite,3,1,All coral,17.3
+08/01/08,Tektite,3,2,All coral,33.5
+08/01/08,Tektite,3,3,All coral,51.4
+08/01/08,Tektite,3,4,All coral,39.5
+08/01/08,Tektite,3,5,All coral,42
+08/01/08,Tektite,3,6,All coral,31
+08/01/08,Tektite,3,7,All coral,67.8
+08/01/08,Tektite,3,8,All coral,51.1
+08/01/08,Tektite,3,9,All coral,35
+08/01/08,Tektite,3,10,All coral,41.8
+08/01/09,Tektite,1,1,All coral,26.4
+08/01/09,Tektite,1,2,All coral,14.3
+08/01/09,Tektite,1,3,All coral,22.7
+08/01/09,Tektite,1,4,All coral,10.7
+08/01/09,Tektite,1,5,All coral,39.9
+08/01/09,Tektite,1,6,All coral,24.2
+08/01/09,Tektite,1,7,All coral,13.1
+08/01/09,Tektite,1,8,All coral,9.2
+08/01/09,Tektite,1,9,All coral,41.3
+08/01/09,Tektite,1,10,All coral,19.1
+08/01/09,Tektite,2,1,All coral,21.1
+08/01/09,Tektite,2,2,All coral,25.8
+08/01/09,Tektite,2,3,All coral,20
+08/01/09,Tektite,2,4,All coral,28.5
+08/01/09,Tektite,2,5,All coral,35.9
+08/01/09,Tektite,2,6,All coral,49.5
+08/01/09,Tektite,2,7,All coral,45.4
+08/01/09,Tektite,2,8,All coral,28.3
+08/01/09,Tektite,2,9,All coral,23.4
+08/01/09,Tektite,2,10,All coral,48.2
+08/01/09,Tektite,3,1,All coral,24
+08/01/09,Tektite,3,2,All coral,30.6
+08/01/09,Tektite,3,3,All coral,49.7
+08/01/09,Tektite,3,4,All coral,43.7
+08/01/09,Tektite,3,5,All coral,42.3
+08/01/09,Tektite,3,6,All coral,22.1
+08/01/09,Tektite,3,7,All coral,46.7
+08/01/09,Tektite,3,8,All coral,30.8
+08/01/09,Tektite,3,9,All coral,37.1
+08/01/09,Tektite,3,10,All coral,48
+08/01/10,Tektite,1,1,All coral,28.4
+08/01/10,Tektite,1,2,All coral,10.9
+08/01/10,Tektite,1,3,All coral,27.1
+08/01/10,Tektite,1,4,All coral,15.6
+08/01/10,Tektite,1,5,All coral,23.2
+08/01/10,Tektite,1,6,All coral,26.8
+08/01/10,Tektite,1,7,All coral,31.7
+08/01/10,Tektite,1,8,All coral,11.1
+08/01/10,Tektite,1,9,All coral,23.2
+08/01/10,Tektite,1,10,All coral,27
+08/01/10,Tektite,2,1,All coral,16.5
+08/01/10,Tektite,2,2,All coral,24
+08/01/10,Tektite,2,3,All coral,18.8
+08/01/10,Tektite,2,4,All coral,28.6
+08/01/10,Tektite,2,5,All coral,45.1
+08/01/10,Tektite,2,6,All coral,34.4
+08/01/10,Tektite,2,7,All coral,46.9
+08/01/10,Tektite,2,8,All coral,24.5
+08/01/10,Tektite,2,9,All coral,20.9
+08/01/10,Tektite,2,10,All coral,31.8
+08/01/10,Tektite,3,1,All coral,18.3
+08/01/10,Tektite,3,2,All coral,34
+08/01/10,Tektite,3,3,All coral,41.2
+08/01/10,Tektite,3,4,All coral,33.7
+08/01/10,Tektite,3,5,All coral,37.8
+08/01/10,Tektite,3,6,All coral,34.2
+08/01/10,Tektite,3,7,All coral,37.6
+08/01/10,Tektite,3,8,All coral,28.4
+08/01/10,Tektite,3,9,All coral,26.5
+08/01/10,Tektite,3,10,All coral,32.8
+08/01/11,Tektite,1,1,All coral,19.7
+08/01/11,Tektite,1,2,All coral,19.7
+08/01/11,Tektite,1,3,All coral,25.6
+08/01/11,Tektite,1,4,All coral,17.1
+08/01/11,Tektite,1,5,All coral,27.4
+08/01/11,Tektite,1,6,All coral,17
+08/01/11,Tektite,1,7,All coral,20.2
+08/01/11,Tektite,1,8,All coral,12
+08/01/11,Tektite,1,9,All coral,27.6
+08/01/11,Tektite,1,10,All coral,18.1
+08/01/11,Tektite,2,1,All coral,19.5
+08/01/11,Tektite,2,2,All coral,24.6
+08/01/11,Tektite,2,3,All coral,14.1
+08/01/11,Tektite,2,4,All coral,25.1
+08/01/11,Tektite,2,5,All coral,40.9
+08/01/11,Tektite,2,6,All coral,44.5
+08/01/11,Tektite,2,7,All coral,45
+08/01/11,Tektite,2,8,All coral,23.5
+08/01/11,Tektite,2,9,All coral,26
+08/01/11,Tektite,2,10,All coral,47.7
+08/01/11,Tektite,3,1,All coral,18.1
+08/01/11,Tektite,3,2,All coral,32
+08/01/11,Tektite,3,3,All coral,38.4
+08/01/11,Tektite,3,4,All coral,19.5
+08/01/11,Tektite,3,5,All coral,43.4
+08/01/11,Tektite,3,6,All coral,32.2
+08/01/11,Tektite,3,7,All coral,50.8
+08/01/11,Tektite,3,8,All coral,36.5
+08/01/11,Tektite,3,9,All coral,28.6
+08/01/11,Tektite,3,10,All coral,41.6
+08/01/12,Tektite,1,1,All coral,25.3
+08/01/12,Tektite,1,2,All coral,21.6
+08/01/12,Tektite,1,3,All coral,27.1
+08/01/12,Tektite,1,4,All coral,9.5
+08/01/12,Tektite,1,5,All coral,34.5
+08/01/12,Tektite,1,6,All coral,20.5
+08/01/12,Tektite,1,7,All coral,21.2
+08/01/12,Tektite,1,8,All coral,17.1
+08/01/12,Tektite,1,9,All coral,38.1
+08/01/12,Tektite,1,10,All coral,26.6
+08/01/12,Tektite,2,1,All coral,28.6
+08/01/12,Tektite,2,2,All coral,31
+08/01/12,Tektite,2,3,All coral,14.6
+08/01/12,Tektite,2,4,All coral,37.2
+08/01/12,Tektite,2,5,All coral,52
+08/01/12,Tektite,2,6,All coral,53.5
+08/01/12,Tektite,2,7,All coral,49
+08/01/12,Tektite,2,8,All coral,33.5
+08/01/12,Tektite,2,9,All coral,28.6
+08/01/12,Tektite,2,10,All coral,48.2
+08/01/12,Tektite,3,1,All coral,26.8
+08/01/12,Tektite,3,2,All coral,34.8
+08/01/12,Tektite,3,3,All coral,48.2
+08/01/12,Tektite,3,4,All coral,36.7
+08/01/12,Tektite,3,5,All coral,46.5
+08/01/12,Tektite,3,6,All coral,33.2
+08/01/12,Tektite,3,7,All coral,46
+08/01/12,Tektite,3,8,All coral,39.6
+08/01/12,Tektite,3,9,All coral,36.5
+08/01/12,Tektite,3,10,All coral,47.5
+08/01/13,Tektite,1,1,All coral,25
+08/01/13,Tektite,1,2,All coral,19
+08/01/13,Tektite,1,3,All coral,24.5
+08/01/13,Tektite,1,4,All coral,15.5
+08/01/13,Tektite,1,5,All coral,29.1
+08/01/13,Tektite,1,6,All coral,22.1
+08/01/13,Tektite,1,7,All coral,21
+08/01/13,Tektite,1,8,All coral,16.1
+08/01/13,Tektite,1,9,All coral,31
+08/01/13,Tektite,1,10,All coral,29.4
+08/01/13,Tektite,2,1,All coral,29.3
+08/01/13,Tektite,2,2,All coral,18
+08/01/13,Tektite,2,3,All coral,9
+08/01/13,Tektite,2,4,All coral,25.9
+08/01/13,Tektite,2,5,All coral,43.7
+08/01/13,Tektite,2,6,All coral,50.5
+08/01/13,Tektite,2,7,All coral,39.8
+08/01/13,Tektite,2,8,All coral,24.1
+08/01/13,Tektite,2,9,All coral,25.5
+08/01/13,Tektite,2,10,All coral,34.7
+08/01/13,Tektite,3,1,All coral,24.6
+08/01/13,Tektite,3,2,All coral,28.4
+08/01/13,Tektite,3,3,All coral,25.9
+08/01/13,Tektite,3,4,All coral,27.3
+08/01/13,Tektite,3,5,All coral,48.7
+08/01/13,Tektite,3,6,All coral,31.3
+08/01/13,Tektite,3,7,All coral,37.2
+08/01/13,Tektite,3,8,All coral,36
+08/01/13,Tektite,3,9,All coral,20.8
+08/01/13,Tektite,3,10,All coral,35.8
+08/01/14,Tektite,1,1,All coral,21.5
+08/01/14,Tektite,1,2,All coral,24.1
+08/01/14,Tektite,1,3,All coral,19
+08/01/14,Tektite,1,4,All coral,19.7
+08/01/14,Tektite,1,5,All coral,20
+08/01/14,Tektite,1,6,All coral,19
+08/01/14,Tektite,1,7,All coral,28.6
+08/01/14,Tektite,1,8,All coral,17
+08/01/14,Tektite,1,9,All coral,37.5
+08/01/14,Tektite,1,10,All coral,25
+08/01/14,Tektite,2,1,All coral,21.5
+08/01/14,Tektite,2,2,All coral,23
+08/01/14,Tektite,2,3,All coral,12.6
+08/01/14,Tektite,2,4,All coral,19.2
+08/01/14,Tektite,2,5,All coral,42.5
+08/01/14,Tektite,2,6,All coral,47
+08/01/14,Tektite,2,7,All coral,34.2
+08/01/14,Tektite,2,8,All coral,22.3
+08/01/14,Tektite,2,9,All coral,21.2
+08/01/14,Tektite,2,10,All coral,28.1
+08/01/14,Tektite,3,1,All coral,28
+08/01/14,Tektite,3,2,All coral,28.1
+08/01/14,Tektite,3,3,All coral,29.8
+08/01/14,Tektite,3,4,All coral,28.8
+08/01/14,Tektite,3,5,All coral,46.5
+08/01/14,Tektite,3,6,All coral,34.1
+08/01/14,Tektite,3,7,All coral,40
+08/01/14,Tektite,3,8,All coral,33.7
+08/01/14,Tektite,3,9,All coral,23.2
+08/01/14,Tektite,3,10,All coral,33
+08/01/15,Tektite,1,1,All coral,23.5
+08/01/15,Tektite,1,2,All coral,18
+08/01/15,Tektite,1,3,All coral,19.5
+08/01/15,Tektite,1,4,All coral,16.5
+08/01/15,Tektite,1,5,All coral,30
+08/01/15,Tektite,1,6,All coral,18
+08/01/15,Tektite,1,7,All coral,18.1
+08/01/15,Tektite,1,8,All coral,16
+08/01/15,Tektite,1,9,All coral,33
+08/01/15,Tektite,1,10,All coral,27.5
+08/01/15,Tektite,2,1,All coral,25.5
+08/01/15,Tektite,2,2,All coral,20
+08/01/15,Tektite,2,3,All coral,16
+08/01/15,Tektite,2,4,All coral,30
+08/01/15,Tektite,2,5,All coral,41.2
+08/01/15,Tektite,2,6,All coral,50.5
+08/01/15,Tektite,2,7,All coral,40
+08/01/15,Tektite,2,8,All coral,24.5
+08/01/15,Tektite,2,9,All coral,22
+08/01/15,Tektite,2,10,All coral,30.7
+08/01/15,Tektite,3,1,All coral,25
+08/01/15,Tektite,3,2,All coral,31
+08/01/15,Tektite,3,3,All coral,35.5
+08/01/15,Tektite,3,4,All coral,30
+08/01/15,Tektite,3,5,All coral,40
+08/01/15,Tektite,3,6,All coral,39
+08/01/15,Tektite,3,7,All coral,40
+08/01/15,Tektite,3,8,All coral,29
+08/01/15,Tektite,3,9,All coral,27.6
+08/01/15,Tektite,3,10,All coral,33.7
+12/01/87,Tektite,1,1,Macroalgae,3.5
+12/01/87,Tektite,1,2,Macroalgae,6
+12/01/87,Tektite,1,3,Macroalgae,3.5
+12/01/87,Tektite,1,4,Macroalgae,6.5
+12/01/87,Tektite,1,5,Macroalgae,4
+12/01/87,Tektite,1,6,Macroalgae,14.5
+12/01/87,Tektite,1,7,Macroalgae,12
+12/01/87,Tektite,1,8,Macroalgae,4
+12/01/87,Tektite,1,9,Macroalgae,7.5
+12/01/87,Tektite,1,10,Macroalgae,4.5
+12/01/87,Tektite,2,1,Macroalgae,9.5
+12/01/87,Tektite,2,2,Macroalgae,13
+12/01/87,Tektite,2,3,Macroalgae,7.5
+12/01/87,Tektite,2,4,Macroalgae,1
+12/01/87,Tektite,2,5,Macroalgae,5.5
+12/01/87,Tektite,2,6,Macroalgae,4.5
+12/01/87,Tektite,2,7,Macroalgae,3.5
+12/01/87,Tektite,2,8,Macroalgae,1.5
+12/01/87,Tektite,2,9,Macroalgae,2
+12/01/87,Tektite,2,10,Macroalgae,6.5
+12/01/87,Tektite,3,1,Macroalgae,13
+12/01/87,Tektite,3,2,Macroalgae,1
+12/01/87,Tektite,3,3,Macroalgae,4.7
+12/01/87,Tektite,3,4,Macroalgae,6.5
+12/01/87,Tektite,3,5,Macroalgae,8
+12/01/87,Tektite,3,6,Macroalgae,5.5
+12/01/87,Tektite,3,7,Macroalgae,2
+12/01/87,Tektite,3,8,Macroalgae,3.5
+12/01/87,Tektite,3,9,Macroalgae,3
+12/01/87,Tektite,3,10,Macroalgae,8.5
+03/01/88,Tektite,1,1,Macroalgae,0.5
+03/01/88,Tektite,1,2,Macroalgae,0
+03/01/88,Tektite,1,3,Macroalgae,14.5
+03/01/88,Tektite,1,4,Macroalgae,6
+03/01/88,Tektite,1,5,Macroalgae,5.5
+03/01/88,Tektite,1,6,Macroalgae,19
+03/01/88,Tektite,1,7,Macroalgae,6.8
+03/01/88,Tektite,1,8,Macroalgae,0
+03/01/88,Tektite,1,9,Macroalgae,4.5
+03/01/88,Tektite,2,1,Macroalgae,13
+03/01/88,Tektite,2,2,Macroalgae,12
+03/01/88,Tektite,2,3,Macroalgae,15
+03/01/88,Tektite,2,4,Macroalgae,2.5
+03/01/88,Tektite,2,5,Macroalgae,3.5
+03/01/88,Tektite,2,6,Macroalgae,5
+03/01/88,Tektite,2,7,Macroalgae,1.5
+03/01/88,Tektite,2,8,Macroalgae,2
+03/01/88,Tektite,2,9,Macroalgae,2.5
+03/01/88,Tektite,2,10,Macroalgae,8.5
+03/01/88,Tektite,3,1,Macroalgae,5
+03/01/88,Tektite,3,2,Macroalgae,2.5
+03/01/88,Tektite,3,3,Macroalgae,3.5
+03/01/88,Tektite,3,4,Macroalgae,4
+03/01/88,Tektite,3,5,Macroalgae,10.5
+03/01/88,Tektite,3,6,Macroalgae,8
+03/01/88,Tektite,3,7,Macroalgae,5
+03/01/88,Tektite,3,8,Macroalgae,6.5
+03/01/88,Tektite,3,9,Macroalgae,2
+03/01/88,Tektite,3,10,Macroalgae,7.5
+07/01/88,Tektite,1,1,Macroalgae,17.5
+07/01/88,Tektite,1,2,Macroalgae,31.5
+07/01/88,Tektite,1,3,Macroalgae,10.1
+07/01/88,Tektite,1,4,Macroalgae,26.5
+07/01/88,Tektite,1,5,Macroalgae,14.5
+07/01/88,Tektite,1,6,Macroalgae,30
+07/01/88,Tektite,1,7,Macroalgae,5.5
+07/01/88,Tektite,1,8,Macroalgae,3
+07/01/88,Tektite,1,9,Macroalgae,7.5
+07/01/88,Tektite,1,10,Macroalgae,20
+07/01/88,Tektite,2,1,Macroalgae,26
+07/01/88,Tektite,2,2,Macroalgae,24.5
+07/01/88,Tektite,2,3,Macroalgae,11
+07/01/88,Tektite,2,4,Macroalgae,3.5
+07/01/88,Tektite,2,5,Macroalgae,0.5
+07/01/88,Tektite,2,6,Macroalgae,3
+07/01/88,Tektite,2,7,Macroalgae,6
+07/01/88,Tektite,2,8,Macroalgae,2
+07/01/88,Tektite,2,9,Macroalgae,5.5
+07/01/88,Tektite,2,10,Macroalgae,7.5
+07/01/88,Tektite,3,1,Macroalgae,16.5
+07/01/88,Tektite,3,2,Macroalgae,12
+07/01/88,Tektite,3,3,Macroalgae,8.5
+07/01/88,Tektite,3,4,Macroalgae,10
+07/01/88,Tektite,3,5,Macroalgae,9
+07/01/88,Tektite,3,6,Macroalgae,14
+07/01/88,Tektite,3,7,Macroalgae,8.5
+07/01/88,Tektite,3,8,Macroalgae,3.5
+07/01/88,Tektite,3,9,Macroalgae,11
+07/01/88,Tektite,3,10,Macroalgae,14
+12/01/88,Tektite,2,1,Macroalgae,37
+12/01/88,Tektite,2,2,Macroalgae,16
+12/01/88,Tektite,2,3,Macroalgae,35
+12/01/88,Tektite,2,4,Macroalgae,7.5
+12/01/88,Tektite,2,5,Macroalgae,5
+12/01/88,Tektite,2,6,Macroalgae,9
+12/01/88,Tektite,2,7,Macroalgae,7
+12/01/88,Tektite,2,8,Macroalgae,6.5
+12/01/88,Tektite,2,9,Macroalgae,1.5
+12/01/88,Tektite,2,10,Macroalgae,6
+12/01/88,Tektite,3,1,Macroalgae,11.5
+12/01/88,Tektite,3,2,Macroalgae,4.5
+12/01/88,Tektite,3,3,Macroalgae,9.1
+12/01/88,Tektite,3,4,Macroalgae,9
+12/01/88,Tektite,3,5,Macroalgae,12.5
+12/01/88,Tektite,3,6,Macroalgae,3.5
+12/01/88,Tektite,3,7,Macroalgae,9.5
+12/01/88,Tektite,3,8,Macroalgae,6
+12/01/88,Tektite,3,9,Macroalgae,6.5
+12/01/88,Tektite,3,10,Macroalgae,3
+04/01/89,Tektite,1,1,Macroalgae,9
+04/01/89,Tektite,1,2,Macroalgae,21
+04/01/89,Tektite,1,3,Macroalgae,15
+04/01/89,Tektite,1,4,Macroalgae,31
+04/01/89,Tektite,1,5,Macroalgae,16
+04/01/89,Tektite,1,6,Macroalgae,18.5
+04/01/89,Tektite,1,7,Macroalgae,9.5
+04/01/89,Tektite,1,8,Macroalgae,8
+04/01/89,Tektite,1,9,Macroalgae,8
+04/01/89,Tektite,1,10,Macroalgae,21
+04/01/89,Tektite,2,1,Macroalgae,26.5
+04/01/89,Tektite,2,2,Macroalgae,6
+04/01/89,Tektite,2,3,Macroalgae,19
+04/01/89,Tektite,2,4,Macroalgae,6
+04/01/89,Tektite,2,5,Macroalgae,2
+04/01/89,Tektite,2,6,Macroalgae,4.5
+04/01/89,Tektite,2,7,Macroalgae,0.5
+04/01/89,Tektite,2,8,Macroalgae,0
+04/01/89,Tektite,2,9,Macroalgae,0
+04/01/89,Tektite,2,10,Macroalgae,4
+04/01/89,Tektite,3,1,Macroalgae,0
+04/01/89,Tektite,3,2,Macroalgae,2
+04/01/89,Tektite,3,3,Macroalgae,3
+04/01/89,Tektite,3,4,Macroalgae,2.5
+04/01/89,Tektite,3,5,Macroalgae,2
+04/01/89,Tektite,3,6,Macroalgae,1
+04/01/89,Tektite,3,7,Macroalgae,8.5
+04/01/89,Tektite,3,8,Macroalgae,1.5
+04/01/89,Tektite,3,9,Macroalgae,1.5
+04/01/89,Tektite,3,10,Macroalgae,5.5
+10/01/89,Tektite,1,1,Macroalgae,6.5
+10/01/89,Tektite,1,2,Macroalgae,5
+10/01/89,Tektite,1,3,Macroalgae,0
+10/01/89,Tektite,1,4,Macroalgae,7
+10/01/89,Tektite,1,5,Macroalgae,13
+10/01/89,Tektite,1,6,Macroalgae,2.5
+10/01/89,Tektite,1,7,Macroalgae,0
+10/01/89,Tektite,1,8,Macroalgae,8.5
+10/01/89,Tektite,1,9,Macroalgae,6
+10/01/89,Tektite,1,10,Macroalgae,11
+10/01/89,Tektite,2,1,Macroalgae,12.5
+10/01/89,Tektite,2,2,Macroalgae,9.5
+10/01/89,Tektite,2,3,Macroalgae,7.5
+10/01/89,Tektite,2,4,Macroalgae,3
+10/01/89,Tektite,2,5,Macroalgae,3.5
+10/01/89,Tektite,2,6,Macroalgae,0
+10/01/89,Tektite,2,7,Macroalgae,0.5
+10/01/89,Tektite,2,8,Macroalgae,2
+10/01/89,Tektite,2,9,Macroalgae,3
+10/01/89,Tektite,2,10,Macroalgae,1.5
+10/01/89,Tektite,3,1,Macroalgae,6.5
+10/01/89,Tektite,3,2,Macroalgae,3.5
+10/01/89,Tektite,3,3,Macroalgae,1.5
+10/01/89,Tektite,3,4,Macroalgae,1
+10/01/89,Tektite,3,5,Macroalgae,2
+10/01/89,Tektite,3,6,Macroalgae,16.5
+10/01/89,Tektite,3,7,Macroalgae,8.5
+10/01/89,Tektite,3,8,Macroalgae,3.5
+10/01/89,Tektite,3,9,Macroalgae,8
+10/01/89,Tektite,3,10,Macroalgae,6.5
+09/01/90,Tektite,1,1,Macroalgae,28
+09/01/90,Tektite,1,2,Macroalgae,42
+09/01/90,Tektite,1,3,Macroalgae,26
+09/01/90,Tektite,1,4,Macroalgae,40.5
+09/01/90,Tektite,1,5,Macroalgae,23
+09/01/90,Tektite,1,6,Macroalgae,12
+09/01/90,Tektite,1,7,Macroalgae,8
+09/01/90,Tektite,1,8,Macroalgae,13
+09/01/90,Tektite,1,9,Macroalgae,13.5
+09/01/90,Tektite,1,10,Macroalgae,15
+09/01/90,Tektite,2,1,Macroalgae,19
+09/01/90,Tektite,2,2,Macroalgae,6.5
+09/01/90,Tektite,2,3,Macroalgae,22.5
+09/01/90,Tektite,2,4,Macroalgae,1.5
+09/01/90,Tektite,2,5,Macroalgae,0.5
+09/01/90,Tektite,2,6,Macroalgae,1
+09/01/90,Tektite,2,7,Macroalgae,0
+09/01/90,Tektite,2,8,Macroalgae,1
+09/01/90,Tektite,2,9,Macroalgae,2
+09/01/90,Tektite,2,10,Macroalgae,2
+09/01/90,Tektite,3,1,Macroalgae,22
+09/01/90,Tektite,3,2,Macroalgae,1
+09/01/90,Tektite,3,3,Macroalgae,4.5
+09/01/90,Tektite,3,4,Macroalgae,5
+09/01/90,Tektite,3,5,Macroalgae,1
+09/01/90,Tektite,3,6,Macroalgae,8.5
+09/01/90,Tektite,3,7,Macroalgae,16
+09/01/90,Tektite,3,8,Macroalgae,10
+09/01/90,Tektite,3,9,Macroalgae,5
+09/01/90,Tektite,3,10,Macroalgae,11.5
+03/01/91,Tektite,1,1,Macroalgae,2.5
+03/01/91,Tektite,1,2,Macroalgae,25
+03/01/91,Tektite,1,3,Macroalgae,7.5
+03/01/91,Tektite,1,4,Macroalgae,32
+03/01/91,Tektite,1,5,Macroalgae,6.5
+03/01/91,Tektite,1,6,Macroalgae,2
+03/01/91,Tektite,1,7,Macroalgae,3
+03/01/91,Tektite,1,8,Macroalgae,2.5
+03/01/91,Tektite,1,9,Macroalgae,1.5
+03/01/91,Tektite,1,10,Macroalgae,6
+03/01/91,Tektite,2,1,Macroalgae,26
+03/01/91,Tektite,2,2,Macroalgae,10
+03/01/91,Tektite,2,3,Macroalgae,7
+03/01/91,Tektite,2,4,Macroalgae,0
+03/01/91,Tektite,2,5,Macroalgae,1
+03/01/91,Tektite,2,6,Macroalgae,0
+03/01/91,Tektite,2,7,Macroalgae,0
+03/01/91,Tektite,2,8,Macroalgae,0
+03/01/91,Tektite,2,9,Macroalgae,2.5
+03/01/91,Tektite,2,10,Macroalgae,0
+03/01/91,Tektite,3,1,Macroalgae,9
+03/01/91,Tektite,3,2,Macroalgae,0
+03/01/91,Tektite,3,3,Macroalgae,0
+03/01/91,Tektite,3,4,Macroalgae,2.5
+03/01/91,Tektite,3,5,Macroalgae,1
+03/01/91,Tektite,3,6,Macroalgae,3
+03/01/91,Tektite,3,7,Macroalgae,2
+03/01/91,Tektite,3,8,Macroalgae,0
+03/01/91,Tektite,3,9,Macroalgae,1.5
+03/01/91,Tektite,3,10,Macroalgae,5.5
+05/01/92,Tektite,2,1,Macroalgae,1
+05/01/92,Tektite,2,2,Macroalgae,2
+05/01/92,Tektite,2,3,Macroalgae,0
+05/01/92,Tektite,2,4,Macroalgae,0
+05/01/92,Tektite,2,5,Macroalgae,1.5
+05/01/92,Tektite,2,6,Macroalgae,2.5
+05/01/92,Tektite,2,7,Macroalgae,0
+05/01/92,Tektite,2,8,Macroalgae,0
+05/01/92,Tektite,2,9,Macroalgae,0
+05/01/92,Tektite,2,10,Macroalgae,2.5
+05/01/92,Tektite,3,1,Macroalgae,14
+05/01/92,Tektite,3,2,Macroalgae,2.5
+05/01/92,Tektite,3,3,Macroalgae,3.5
+05/01/92,Tektite,3,4,Macroalgae,4
+05/01/92,Tektite,3,5,Macroalgae,2.5
+05/01/92,Tektite,3,7,Macroalgae,5
+05/01/92,Tektite,3,8,Macroalgae,7
+05/01/92,Tektite,3,9,Macroalgae,6.5
+06/01/93,Tektite,1,1,Macroalgae,6.2
+06/01/93,Tektite,1,2,Macroalgae,5
+06/01/93,Tektite,1,3,Macroalgae,6.1
+06/01/93,Tektite,1,4,Macroalgae,7.9
+06/01/93,Tektite,1,5,Macroalgae,1.3
+06/01/93,Tektite,1,6,Macroalgae,3.5
+06/01/93,Tektite,1,7,Macroalgae,1.4
+06/01/93,Tektite,1,8,Macroalgae,0
+06/01/93,Tektite,1,9,Macroalgae,0
+06/01/93,Tektite,1,10,Macroalgae,0.6
+06/01/93,Tektite,2,1,Macroalgae,3.9
+06/01/93,Tektite,2,2,Macroalgae,7.3
+06/01/93,Tektite,2,3,Macroalgae,8.2
+06/01/93,Tektite,2,4,Macroalgae,4.8
+06/01/93,Tektite,2,5,Macroalgae,1.3
+06/01/93,Tektite,2,6,Macroalgae,4.5
+06/01/93,Tektite,2,7,Macroalgae,1.3
+06/01/93,Tektite,2,8,Macroalgae,6.4
+06/01/93,Tektite,2,9,Macroalgae,2.5
+06/01/93,Tektite,2,10,Macroalgae,3.9
+06/01/93,Tektite,3,1,Macroalgae,7.2
+06/01/93,Tektite,3,2,Macroalgae,4.2
+06/01/93,Tektite,3,3,Macroalgae,1.3
+06/01/93,Tektite,3,4,Macroalgae,9.5
+06/01/93,Tektite,3,5,Macroalgae,8.5
+06/01/93,Tektite,3,6,Macroalgae,10
+06/01/93,Tektite,3,7,Macroalgae,19
+06/01/93,Tektite,3,8,Macroalgae,4.9
+06/01/93,Tektite,3,9,Macroalgae,3
+06/01/93,Tektite,3,10,Macroalgae,4.5
+08/01/94,Tektite,1,1,Macroalgae,3.7
+08/01/94,Tektite,1,2,Macroalgae,36.5
+08/01/94,Tektite,1,3,Macroalgae,30.4
+08/01/94,Tektite,1,4,Macroalgae,16.8
+08/01/94,Tektite,1,5,Macroalgae,3.7
+08/01/94,Tektite,1,6,Macroalgae,2
+08/01/94,Tektite,1,7,Macroalgae,3.2
+08/01/94,Tektite,1,8,Macroalgae,4.7
+08/01/94,Tektite,1,9,Macroalgae,5.5
+08/01/94,Tektite,1,10,Macroalgae,2
+08/01/94,Tektite,2,1,Macroalgae,32
+08/01/94,Tektite,2,2,Macroalgae,16.5
+08/01/94,Tektite,2,3,Macroalgae,6.5
+08/01/94,Tektite,2,4,Macroalgae,16
+08/01/94,Tektite,2,5,Macroalgae,5.8
+08/01/94,Tektite,2,6,Macroalgae,3.5
+08/01/94,Tektite,2,7,Macroalgae,3
+08/01/94,Tektite,2,8,Macroalgae,2
+08/01/94,Tektite,2,9,Macroalgae,4.5
+08/01/94,Tektite,2,10,Macroalgae,9
+08/01/94,Tektite,3,1,Macroalgae,6.5
+08/01/94,Tektite,3,2,Macroalgae,5.5
+08/01/94,Tektite,3,3,Macroalgae,7.5
+08/01/94,Tektite,3,4,Macroalgae,16
+08/01/94,Tektite,3,5,Macroalgae,9.5
+08/01/94,Tektite,3,6,Macroalgae,17
+08/01/94,Tektite,3,7,Macroalgae,17.5
+08/01/94,Tektite,3,8,Macroalgae,6
+08/01/94,Tektite,3,9,Macroalgae,7
+08/01/94,Tektite,3,10,Macroalgae,1
+05/01/95,Tektite,1,1,Macroalgae,13
+05/01/95,Tektite,1,2,Macroalgae,30
+05/01/95,Tektite,1,3,Macroalgae,14.5
+05/01/95,Tektite,1,4,Macroalgae,20
+05/01/95,Tektite,1,5,Macroalgae,5
+05/01/95,Tektite,1,6,Macroalgae,7
+05/01/95,Tektite,1,7,Macroalgae,3
+05/01/95,Tektite,1,8,Macroalgae,4.5
+05/01/95,Tektite,1,9,Macroalgae,5.5
+05/01/95,Tektite,1,10,Macroalgae,5
+05/01/95,Tektite,2,1,Macroalgae,16.5
+05/01/95,Tektite,2,2,Macroalgae,13
+05/01/95,Tektite,2,3,Macroalgae,4
+05/01/95,Tektite,2,4,Macroalgae,9.5
+05/01/95,Tektite,2,5,Macroalgae,0.5
+05/01/95,Tektite,2,6,Macroalgae,1.5
+05/01/95,Tektite,2,7,Macroalgae,0
+05/01/95,Tektite,2,8,Macroalgae,0
+05/01/95,Tektite,2,9,Macroalgae,7.5
+05/01/95,Tektite,2,10,Macroalgae,7
+05/01/95,Tektite,3,1,Macroalgae,5.5
+05/01/95,Tektite,3,2,Macroalgae,5
+05/01/95,Tektite,3,3,Macroalgae,0.5
+05/01/95,Tektite,3,4,Macroalgae,10
+05/01/95,Tektite,3,5,Macroalgae,2
+05/01/95,Tektite,3,6,Macroalgae,0.5
+05/01/95,Tektite,3,7,Macroalgae,14
+05/01/95,Tektite,3,8,Macroalgae,1.5
+05/01/95,Tektite,3,9,Macroalgae,4.5
+05/01/95,Tektite,3,10,Macroalgae,11.5
+05/01/96,Tektite,1,1,Macroalgae,10.2
+05/01/96,Tektite,1,2,Macroalgae,35
+05/01/96,Tektite,1,3,Macroalgae,26.8
+05/01/96,Tektite,1,4,Macroalgae,31.6
+05/01/96,Tektite,1,5,Macroalgae,10.3
+05/01/96,Tektite,1,6,Macroalgae,9.2
+05/01/96,Tektite,1,7,Macroalgae,8.7
+05/01/96,Tektite,1,8,Macroalgae,15.4
+05/01/96,Tektite,1,9,Macroalgae,15.1
+05/01/96,Tektite,1,10,Macroalgae,5.3
+05/01/96,Tektite,1,11,Macroalgae,26
+05/01/96,Tektite,2,1,Macroalgae,38
+05/01/96,Tektite,2,2,Macroalgae,21.8
+05/01/96,Tektite,2,3,Macroalgae,12.2
+05/01/96,Tektite,2,4,Macroalgae,9.7
+05/01/96,Tektite,2,5,Macroalgae,2.2
+05/01/96,Tektite,2,6,Macroalgae,0
+05/01/96,Tektite,2,7,Macroalgae,0.5
+05/01/96,Tektite,2,8,Macroalgae,4.3
+05/01/96,Tektite,2,9,Macroalgae,13.3
+05/01/96,Tektite,2,10,Macroalgae,10.2
+05/01/96,Tektite,3,1,Macroalgae,12.4
+05/01/96,Tektite,3,2,Macroalgae,3.7
+05/01/96,Tektite,3,3,Macroalgae,5.7
+05/01/96,Tektite,3,4,Macroalgae,13.7
+05/01/96,Tektite,3,5,Macroalgae,7.4
+05/01/96,Tektite,3,6,Macroalgae,8.7
+05/01/96,Tektite,3,7,Macroalgae,6
+05/01/96,Tektite,3,8,Macroalgae,4.4
+05/01/96,Tektite,3,9,Macroalgae,14.3
+05/01/96,Tektite,3,10,Macroalgae,14.3
+08/01/97,Tektite,1,1,Macroalgae,8
+08/01/97,Tektite,1,2,Macroalgae,43.5
+08/01/97,Tektite,1,3,Macroalgae,28.5
+08/01/97,Tektite,1,4,Macroalgae,26
+08/01/97,Tektite,1,5,Macroalgae,16.5
+08/01/97,Tektite,1,6,Macroalgae,10.5
+08/01/97,Tektite,1,7,Macroalgae,9
+08/01/97,Tektite,1,8,Macroalgae,11
+08/01/97,Tektite,1,9,Macroalgae,11.5
+08/01/97,Tektite,1,10,Macroalgae,6.5
+08/01/97,Tektite,2,1,Macroalgae,24.5
+08/01/97,Tektite,2,2,Macroalgae,19
+08/01/97,Tektite,2,3,Macroalgae,10.5
+08/01/97,Tektite,2,4,Macroalgae,3
+08/01/97,Tektite,2,5,Macroalgae,3.5
+08/01/97,Tektite,2,6,Macroalgae,5
+08/01/97,Tektite,2,7,Macroalgae,0
+08/01/97,Tektite,2,8,Macroalgae,6.5
+08/01/97,Tektite,2,9,Macroalgae,8.5
+08/01/97,Tektite,2,10,Macroalgae,4.5
+08/01/97,Tektite,3,1,Macroalgae,15
+08/01/97,Tektite,3,2,Macroalgae,0
+08/01/97,Tektite,3,3,Macroalgae,9.5
+08/01/97,Tektite,3,4,Macroalgae,3.5
+08/01/97,Tektite,3,5,Macroalgae,2.5
+08/01/97,Tektite,3,6,Macroalgae,0
+08/01/97,Tektite,3,7,Macroalgae,9.5
+08/01/97,Tektite,3,8,Macroalgae,1
+08/01/97,Tektite,3,9,Macroalgae,8.5
+08/01/97,Tektite,3,10,Macroalgae,5
+08/01/98,Tektite,1,1,Macroalgae,17.5
+08/01/98,Tektite,1,2,Macroalgae,52.5
+08/01/98,Tektite,1,3,Macroalgae,28
+08/01/98,Tektite,1,4,Macroalgae,32.5
+08/01/98,Tektite,1,5,Macroalgae,29.5
+08/01/98,Tektite,1,6,Macroalgae,12.5
+08/01/98,Tektite,1,7,Macroalgae,14
+08/01/98,Tektite,1,8,Macroalgae,9
+08/01/98,Tektite,1,9,Macroalgae,10
+08/01/98,Tektite,1,10,Macroalgae,7.5
+08/01/98,Tektite,2,1,Macroalgae,19.5
+08/01/98,Tektite,2,2,Macroalgae,16
+08/01/98,Tektite,2,3,Macroalgae,15.5
+08/01/98,Tektite,2,4,Macroalgae,3
+08/01/98,Tektite,2,5,Macroalgae,6.5
+08/01/98,Tektite,2,6,Macroalgae,8.5
+08/01/98,Tektite,2,7,Macroalgae,2
+08/01/98,Tektite,2,8,Macroalgae,1.5
+08/01/98,Tektite,2,9,Macroalgae,11
+08/01/98,Tektite,2,10,Macroalgae,10
+08/01/98,Tektite,3,1,Macroalgae,10.5
+08/01/98,Tektite,3,2,Macroalgae,2.5
+08/01/98,Tektite,3,3,Macroalgae,3
+08/01/98,Tektite,3,4,Macroalgae,8.5
+08/01/98,Tektite,3,5,Macroalgae,10
+08/01/98,Tektite,3,6,Macroalgae,7.5
+08/01/98,Tektite,3,7,Macroalgae,12
+08/01/98,Tektite,3,8,Macroalgae,2
+08/01/98,Tektite,3,9,Macroalgae,13
+08/01/98,Tektite,3,10,Macroalgae,9.5
+08/01/99,Tektite,1,1,Macroalgae,23.4
+08/01/99,Tektite,1,2,Macroalgae,46.2
+08/01/99,Tektite,1,3,Macroalgae,44.5
+08/01/99,Tektite,1,4,Macroalgae,54
+08/01/99,Tektite,1,5,Macroalgae,16.1
+08/01/99,Tektite,1,6,Macroalgae,15.8
+08/01/99,Tektite,1,7,Macroalgae,12.3
+08/01/99,Tektite,1,8,Macroalgae,12.4
+08/01/99,Tektite,1,9,Macroalgae,9.7
+08/01/99,Tektite,1,10,Macroalgae,24.2
+08/01/99,Tektite,2,1,Macroalgae,26.7
+08/01/99,Tektite,2,2,Macroalgae,12.5
+08/01/99,Tektite,2,3,Macroalgae,20.9
+08/01/99,Tektite,2,4,Macroalgae,16.3
+08/01/99,Tektite,2,5,Macroalgae,7.5
+08/01/99,Tektite,2,6,Macroalgae,15.9
+08/01/99,Tektite,2,7,Macroalgae,2
+08/01/99,Tektite,2,8,Macroalgae,8.1
+08/01/99,Tektite,2,9,Macroalgae,3.1
+08/01/99,Tektite,2,10,Macroalgae,10.3
+08/01/99,Tektite,3,1,Macroalgae,13.1
+08/01/99,Tektite,3,2,Macroalgae,2.1
+08/01/99,Tektite,3,3,Macroalgae,9.7
+08/01/99,Tektite,3,4,Macroalgae,14.5
+08/01/99,Tektite,3,5,Macroalgae,13.8
+08/01/99,Tektite,3,6,Macroalgae,9.7
+08/01/99,Tektite,3,7,Macroalgae,20.9
+08/01/99,Tektite,3,8,Macroalgae,8.5
+08/01/99,Tektite,3,9,Macroalgae,21.5
+08/01/99,Tektite,3,10,Macroalgae,27.6
+08/01/00,Tektite,1,1,Macroalgae,16.1
+08/01/00,Tektite,1,2,Macroalgae,48.5
+08/01/00,Tektite,1,3,Macroalgae,39.7
+08/01/00,Tektite,1,4,Macroalgae,39.5
+08/01/00,Tektite,1,5,Macroalgae,11
+08/01/00,Tektite,1,6,Macroalgae,15.5
+08/01/00,Tektite,1,7,Macroalgae,13
+08/01/00,Tektite,1,8,Macroalgae,12.1
+08/01/00,Tektite,1,9,Macroalgae,7
+08/01/00,Tektite,1,10,Macroalgae,23.5
+08/01/00,Tektite,2,1,Macroalgae,23.5
+08/01/00,Tektite,2,2,Macroalgae,22.7
+08/01/00,Tektite,2,3,Macroalgae,34
+08/01/00,Tektite,2,4,Macroalgae,8.5
+08/01/00,Tektite,2,5,Macroalgae,7.5
+08/01/00,Tektite,2,6,Macroalgae,15
+08/01/00,Tektite,2,7,Macroalgae,7.5
+08/01/00,Tektite,2,8,Macroalgae,10.5
+08/01/00,Tektite,2,9,Macroalgae,6
+08/01/00,Tektite,2,10,Macroalgae,20.1
+08/01/00,Tektite,3,1,Macroalgae,31
+08/01/00,Tektite,3,2,Macroalgae,7.5
+08/01/00,Tektite,3,3,Macroalgae,9.6
+08/01/00,Tektite,3,4,Macroalgae,18.5
+08/01/00,Tektite,3,5,Macroalgae,15.6
+08/01/00,Tektite,3,6,Macroalgae,17.5
+08/01/00,Tektite,3,7,Macroalgae,17.5
+08/01/00,Tektite,3,8,Macroalgae,12.5
+08/01/00,Tektite,3,9,Macroalgae,28
+08/01/00,Tektite,3,10,Macroalgae,21.8
+08/01/01,Tektite,1,1,Macroalgae,9.8
+08/01/01,Tektite,1,2,Macroalgae,35.1
+08/01/01,Tektite,1,3,Macroalgae,24.1
+08/01/01,Tektite,1,4,Macroalgae,18.3
+08/01/01,Tektite,1,5,Macroalgae,21.2
+08/01/01,Tektite,1,6,Macroalgae,12.6
+08/01/01,Tektite,1,7,Macroalgae,15
+08/01/01,Tektite,1,8,Macroalgae,19.1
+08/01/01,Tektite,1,9,Macroalgae,7.8
+08/01/01,Tektite,1,10,Macroalgae,14.6
+08/01/01,Tektite,2,1,Macroalgae,11.9
+08/01/01,Tektite,2,2,Macroalgae,11.1
+08/01/01,Tektite,2,3,Macroalgae,12.2
+08/01/01,Tektite,2,4,Macroalgae,6.5
+08/01/01,Tektite,2,5,Macroalgae,3
+08/01/01,Tektite,2,6,Macroalgae,4.6
+08/01/01,Tektite,2,7,Macroalgae,0
+08/01/01,Tektite,2,8,Macroalgae,2.5
+08/01/01,Tektite,2,9,Macroalgae,3.5
+08/01/01,Tektite,2,10,Macroalgae,6.6
+08/01/01,Tektite,3,1,Macroalgae,12.4
+08/01/01,Tektite,3,2,Macroalgae,8.1
+08/01/01,Tektite,3,3,Macroalgae,5.5
+08/01/01,Tektite,3,4,Macroalgae,7.8
+08/01/01,Tektite,3,5,Macroalgae,5.6
+08/01/01,Tektite,3,6,Macroalgae,10.1
+08/01/01,Tektite,3,7,Macroalgae,8
+08/01/01,Tektite,3,8,Macroalgae,4.7
+08/01/01,Tektite,3,9,Macroalgae,5.1
+08/01/01,Tektite,3,10,Macroalgae,9.5
+08/01/02,Tektite,1,1,Macroalgae,22.5
+08/01/02,Tektite,1,2,Macroalgae,48
+08/01/02,Tektite,1,3,Macroalgae,41.8
+08/01/02,Tektite,1,4,Macroalgae,36.7
+08/01/02,Tektite,1,5,Macroalgae,10.9
+08/01/02,Tektite,1,6,Macroalgae,12.4
+08/01/02,Tektite,1,7,Macroalgae,14.1
+08/01/02,Tektite,1,8,Macroalgae,13.5
+08/01/02,Tektite,1,9,Macroalgae,12.8
+08/01/02,Tektite,1,10,Macroalgae,21.4
+08/01/02,Tektite,2,1,Macroalgae,20.9
+08/01/02,Tektite,2,2,Macroalgae,16.1
+08/01/02,Tektite,2,3,Macroalgae,12.2
+08/01/02,Tektite,2,4,Macroalgae,19.5
+08/01/02,Tektite,2,5,Macroalgae,3.6
+08/01/02,Tektite,2,6,Macroalgae,2
+08/01/02,Tektite,2,7,Macroalgae,3.6
+08/01/02,Tektite,2,8,Macroalgae,10.5
+08/01/02,Tektite,2,9,Macroalgae,7.6
+08/01/02,Tektite,2,10,Macroalgae,13.4
+08/01/02,Tektite,3,1,Macroalgae,10.4
+08/01/02,Tektite,3,2,Macroalgae,5.8
+08/01/02,Tektite,3,3,Macroalgae,8.6
+08/01/02,Tektite,3,4,Macroalgae,8.7
+08/01/02,Tektite,3,5,Macroalgae,14.4
+08/01/02,Tektite,3,6,Macroalgae,13.5
+08/01/02,Tektite,3,7,Macroalgae,23
+08/01/02,Tektite,3,8,Macroalgae,6.6
+08/01/02,Tektite,3,9,Macroalgae,18
+08/01/02,Tektite,3,10,Macroalgae,11.9
+08/01/03,Tektite,1,1,Macroalgae,8.6
+08/01/03,Tektite,1,2,Macroalgae,20.4
+08/01/03,Tektite,1,3,Macroalgae,26.1
+08/01/03,Tektite,1,4,Macroalgae,20.4
+08/01/03,Tektite,1,5,Macroalgae,6.6
+08/01/03,Tektite,1,6,Macroalgae,10.1
+08/01/03,Tektite,1,7,Macroalgae,7.2
+08/01/03,Tektite,1,8,Macroalgae,7.6
+08/01/03,Tektite,1,9,Macroalgae,6.2
+08/01/03,Tektite,1,10,Macroalgae,10.1
+08/01/03,Tektite,2,1,Macroalgae,6.6
+08/01/03,Tektite,2,2,Macroalgae,10.1
+08/01/03,Tektite,2,3,Macroalgae,8.2
+08/01/03,Tektite,2,4,Macroalgae,15.6
+08/01/03,Tektite,2,5,Macroalgae,3.6
+08/01/03,Tektite,2,6,Macroalgae,5.2
+08/01/03,Tektite,2,7,Macroalgae,3.1
+08/01/03,Tektite,2,8,Macroalgae,5.1
+08/01/03,Tektite,2,9,Macroalgae,5.6
+08/01/03,Tektite,2,10,Macroalgae,9.6
+08/01/03,Tektite,3,1,Macroalgae,12.8
+08/01/03,Tektite,3,2,Macroalgae,8.2
+08/01/03,Tektite,3,3,Macroalgae,6.1
+08/01/03,Tektite,3,4,Macroalgae,10.2
+08/01/03,Tektite,3,5,Macroalgae,7.7
+08/01/03,Tektite,3,6,Macroalgae,6
+08/01/03,Tektite,3,7,Macroalgae,7.6
+08/01/03,Tektite,3,8,Macroalgae,5.1
+08/01/03,Tektite,3,9,Macroalgae,10.3
+08/01/03,Tektite,3,10,Macroalgae,10.9
+08/01/04,Tektite,1,1,Macroalgae,26.5
+08/01/04,Tektite,1,2,Macroalgae,30.4
+08/01/04,Tektite,1,3,Macroalgae,19.5
+08/01/04,Tektite,1,4,Macroalgae,24.8
+08/01/04,Tektite,1,5,Macroalgae,11.4
+08/01/04,Tektite,1,6,Macroalgae,22.6
+08/01/04,Tektite,1,7,Macroalgae,9.7
+08/01/04,Tektite,1,8,Macroalgae,7.3
+08/01/04,Tektite,1,9,Macroalgae,7.2
+08/01/04,Tektite,1,10,Macroalgae,8.8
+08/01/04,Tektite,2,1,Macroalgae,20.1
+08/01/04,Tektite,2,2,Macroalgae,50
+08/01/04,Tektite,2,3,Macroalgae,7.7
+08/01/04,Tektite,2,4,Macroalgae,7.8
+08/01/04,Tektite,2,5,Macroalgae,8
+08/01/04,Tektite,2,6,Macroalgae,5.4
+08/01/04,Tektite,2,7,Macroalgae,7
+08/01/04,Tektite,2,8,Macroalgae,4
+08/01/04,Tektite,2,9,Macroalgae,10.1
+08/01/04,Tektite,2,10,Macroalgae,6
+08/01/04,Tektite,3,1,Macroalgae,11.7
+08/01/04,Tektite,3,2,Macroalgae,6.7
+08/01/04,Tektite,3,3,Macroalgae,17.5
+08/01/04,Tektite,3,4,Macroalgae,28.2
+08/01/04,Tektite,3,5,Macroalgae,12.6
+08/01/04,Tektite,3,6,Macroalgae,6.2
+08/01/04,Tektite,3,7,Macroalgae,2.6
+08/01/04,Tektite,3,8,Macroalgae,14.4
+08/01/04,Tektite,3,9,Macroalgae,11.5
+08/01/04,Tektite,3,10,Macroalgae,7.4
+08/01/05,Tektite,1,1,Macroalgae,24.9
+08/01/05,Tektite,1,2,Macroalgae,16.6
+08/01/05,Tektite,1,3,Macroalgae,21.8
+08/01/05,Tektite,1,4,Macroalgae,23.7
+08/01/05,Tektite,1,5,Macroalgae,13.6
+08/01/05,Tektite,1,6,Macroalgae,31.1
+08/01/05,Tektite,1,7,Macroalgae,10.1
+08/01/05,Tektite,1,8,Macroalgae,19.8
+08/01/05,Tektite,1,9,Macroalgae,16
+08/01/05,Tektite,1,10,Macroalgae,18.3
+08/01/05,Tektite,2,1,Macroalgae,43.2
+08/01/05,Tektite,2,2,Macroalgae,21.5
+08/01/05,Tektite,2,3,Macroalgae,38.6
+08/01/05,Tektite,2,4,Macroalgae,22.4
+08/01/05,Tektite,2,5,Macroalgae,5.4
+08/01/05,Tektite,2,6,Macroalgae,3.5
+08/01/05,Tektite,2,7,Macroalgae,6.5
+08/01/05,Tektite,2,8,Macroalgae,10.9
+08/01/05,Tektite,2,9,Macroalgae,14
+08/01/05,Tektite,2,10,Macroalgae,24.6
+08/01/05,Tektite,3,1,Macroalgae,12
+08/01/05,Tektite,3,2,Macroalgae,9.6
+08/01/05,Tektite,3,3,Macroalgae,16.5
+08/01/05,Tektite,3,4,Macroalgae,24.8
+08/01/05,Tektite,3,5,Macroalgae,28.8
+08/01/05,Tektite,3,6,Macroalgae,19.8
+08/01/05,Tektite,3,7,Macroalgae,23.6
+08/01/05,Tektite,3,8,Macroalgae,19.9
+08/01/05,Tektite,3,9,Macroalgae,18.3
+08/01/05,Tektite,3,10,Macroalgae,11.6
+08/01/06,Tektite,1,1,Macroalgae,49.5
+08/01/06,Tektite,1,2,Macroalgae,52.5
+08/01/06,Tektite,1,3,Macroalgae,41.3
+08/01/06,Tektite,1,4,Macroalgae,66.2
+08/01/06,Tektite,1,5,Macroalgae,36.8
+08/01/06,Tektite,1,6,Macroalgae,26.2
+08/01/06,Tektite,1,7,Macroalgae,30.2
+08/01/06,Tektite,1,8,Macroalgae,39.8
+08/01/06,Tektite,1,9,Macroalgae,42.4
+08/01/06,Tektite,1,10,Macroalgae,27.5
+08/01/06,Tektite,2,1,Macroalgae,53.2
+08/01/06,Tektite,2,2,Macroalgae,39.8
+08/01/06,Tektite,2,3,Macroalgae,37.8
+08/01/06,Tektite,2,4,Macroalgae,36.7
+08/01/06,Tektite,2,5,Macroalgae,27.4
+08/01/06,Tektite,2,6,Macroalgae,20.7
+08/01/06,Tektite,2,7,Macroalgae,21.4
+08/01/06,Tektite,2,8,Macroalgae,27.7
+08/01/06,Tektite,2,9,Macroalgae,38.4
+08/01/06,Tektite,2,10,Macroalgae,30.7
+08/01/06,Tektite,3,1,Macroalgae,32.8
+08/01/06,Tektite,3,2,Macroalgae,21.3
+08/01/06,Tektite,3,3,Macroalgae,24
+08/01/06,Tektite,3,4,Macroalgae,39.7
+08/01/06,Tektite,3,5,Macroalgae,37.5
+08/01/06,Tektite,3,6,Macroalgae,24.4
+08/01/06,Tektite,3,7,Macroalgae,34.2
+08/01/06,Tektite,3,8,Macroalgae,43.2
+08/01/06,Tektite,3,9,Macroalgae,41.6
+08/01/06,Tektite,3,10,Macroalgae,39.3
+08/01/07,Tektite,1,1,Macroalgae,24.5
+08/01/07,Tektite,1,2,Macroalgae,25.1
+08/01/07,Tektite,1,3,Macroalgae,37.4
+08/01/07,Tektite,1,4,Macroalgae,43.8
+08/01/07,Tektite,1,5,Macroalgae,30.3
+08/01/07,Tektite,1,6,Macroalgae,23
+08/01/07,Tektite,1,7,Macroalgae,35.2
+08/01/07,Tektite,1,8,Macroalgae,35.4
+08/01/07,Tektite,1,9,Macroalgae,21.6
+08/01/07,Tektite,1,10,Macroalgae,58.7
+08/01/07,Tektite,2,1,Macroalgae,48.1
+08/01/07,Tektite,2,2,Macroalgae,59.9
+08/01/07,Tektite,2,3,Macroalgae,43.2
+08/01/07,Tektite,2,4,Macroalgae,37.5
+08/01/07,Tektite,2,5,Macroalgae,32.8
+08/01/07,Tektite,2,6,Macroalgae,29.3
+08/01/07,Tektite,2,7,Macroalgae,37.6
+08/01/07,Tektite,2,8,Macroalgae,44.3
+08/01/07,Tektite,2,9,Macroalgae,48
+08/01/07,Tektite,2,10,Macroalgae,23.5
+08/01/07,Tektite,3,1,Macroalgae,34
+08/01/07,Tektite,3,2,Macroalgae,22.8
+08/01/07,Tektite,3,3,Macroalgae,22.2
+08/01/07,Tektite,3,4,Macroalgae,33.5
+08/01/07,Tektite,3,5,Macroalgae,24.7
+08/01/07,Tektite,3,6,Macroalgae,37.5
+08/01/07,Tektite,3,7,Macroalgae,26.6
+08/01/07,Tektite,3,8,Macroalgae,38.7
+08/01/07,Tektite,3,9,Macroalgae,38.5
+08/01/07,Tektite,3,10,Macroalgae,39.2
+08/01/08,Tektite,1,1,Macroalgae,21.9
+08/01/08,Tektite,1,2,Macroalgae,15.8
+08/01/08,Tektite,1,3,Macroalgae,20.9
+08/01/08,Tektite,1,4,Macroalgae,21.9
+08/01/08,Tektite,1,5,Macroalgae,10.6
+08/01/08,Tektite,1,6,Macroalgae,12.5
+08/01/08,Tektite,1,7,Macroalgae,6.8
+08/01/08,Tektite,1,8,Macroalgae,28.4
+08/01/08,Tektite,1,9,Macroalgae,18
+08/01/08,Tektite,1,10,Macroalgae,18.4
+08/01/08,Tektite,2,1,Macroalgae,9.2
+08/01/08,Tektite,2,2,Macroalgae,21.4
+08/01/08,Tektite,2,3,Macroalgae,10.3
+08/01/08,Tektite,2,4,Macroalgae,8.3
+08/01/08,Tektite,2,5,Macroalgae,5.1
+08/01/08,Tektite,2,6,Macroalgae,9.2
+08/01/08,Tektite,2,7,Macroalgae,8.3
+08/01/08,Tektite,2,8,Macroalgae,15.4
+08/01/08,Tektite,2,9,Macroalgae,17.4
+08/01/08,Tektite,2,10,Macroalgae,9.8
+08/01/08,Tektite,3,1,Macroalgae,6.1
+08/01/08,Tektite,3,2,Macroalgae,3.4
+08/01/08,Tektite,3,3,Macroalgae,4.6
+08/01/08,Tektite,3,4,Macroalgae,19.2
+08/01/08,Tektite,3,5,Macroalgae,4
+08/01/08,Tektite,3,6,Macroalgae,8.6
+08/01/08,Tektite,3,7,Macroalgae,8.6
+08/01/08,Tektite,3,8,Macroalgae,6.9
+08/01/08,Tektite,3,9,Macroalgae,18
+08/01/08,Tektite,3,10,Macroalgae,7.9
+08/01/09,Tektite,1,1,Macroalgae,20.8
+08/01/09,Tektite,1,2,Macroalgae,8.2
+08/01/09,Tektite,1,3,Macroalgae,18
+08/01/09,Tektite,1,4,Macroalgae,26.4
+08/01/09,Tektite,1,5,Macroalgae,21.2
+08/01/09,Tektite,1,6,Macroalgae,22.7
+08/01/09,Tektite,1,7,Macroalgae,25.8
+08/01/09,Tektite,1,8,Macroalgae,21
+08/01/09,Tektite,1,9,Macroalgae,13.8
+08/01/09,Tektite,1,10,Macroalgae,11.6
+08/01/09,Tektite,2,1,Macroalgae,19.6
+08/01/09,Tektite,2,2,Macroalgae,25.3
+08/01/09,Tektite,2,3,Macroalgae,23.1
+08/01/09,Tektite,2,4,Macroalgae,19
+08/01/09,Tektite,2,5,Macroalgae,12.8
+08/01/09,Tektite,2,6,Macroalgae,9.1
+08/01/09,Tektite,2,7,Macroalgae,12.9
+08/01/09,Tektite,2,8,Macroalgae,25.8
+08/01/09,Tektite,2,9,Macroalgae,28.4
+08/01/09,Tektite,2,10,Macroalgae,13.2
+08/01/09,Tektite,3,1,Macroalgae,7.1
+08/01/09,Tektite,3,2,Macroalgae,9.7
+08/01/09,Tektite,3,3,Macroalgae,9.5
+08/01/09,Tektite,3,4,Macroalgae,15.6
+08/01/09,Tektite,3,5,Macroalgae,16.8
+08/01/09,Tektite,3,6,Macroalgae,19.6
+08/01/09,Tektite,3,7,Macroalgae,25.4
+08/01/09,Tektite,3,8,Macroalgae,16.7
+08/01/09,Tektite,3,9,Macroalgae,33
+08/01/09,Tektite,3,10,Macroalgae,15.7
+08/01/10,Tektite,1,1,Macroalgae,27.4
+08/01/10,Tektite,1,2,Macroalgae,21.2
+08/01/10,Tektite,1,3,Macroalgae,23.4
+08/01/10,Tektite,1,4,Macroalgae,36.7
+08/01/10,Tektite,1,5,Macroalgae,49.5
+08/01/10,Tektite,1,6,Macroalgae,41.6
+08/01/10,Tektite,1,7,Macroalgae,38.1
+08/01/10,Tektite,1,8,Macroalgae,45
+08/01/10,Tektite,1,9,Macroalgae,41.8
+08/01/10,Tektite,1,10,Macroalgae,21.4
+08/01/10,Tektite,2,1,Macroalgae,21.6
+08/01/10,Tektite,2,2,Macroalgae,30.2
+08/01/10,Tektite,2,3,Macroalgae,49.2
+08/01/10,Tektite,2,4,Macroalgae,45.4
+08/01/10,Tektite,2,5,Macroalgae,22.6
+08/01/10,Tektite,2,6,Macroalgae,22.6
+08/01/10,Tektite,2,7,Macroalgae,13.4
+08/01/10,Tektite,2,8,Macroalgae,26
+08/01/10,Tektite,2,9,Macroalgae,7
+08/01/10,Tektite,2,10,Macroalgae,14.6
+08/01/10,Tektite,3,1,Macroalgae,18.8
+08/01/10,Tektite,3,2,Macroalgae,13.1
+08/01/10,Tektite,3,3,Macroalgae,16
+08/01/10,Tektite,3,4,Macroalgae,16.3
+08/01/10,Tektite,3,5,Macroalgae,15.8
+08/01/10,Tektite,3,6,Macroalgae,26.2
+08/01/10,Tektite,3,7,Macroalgae,19.3
+08/01/10,Tektite,3,8,Macroalgae,23.2
+08/01/10,Tektite,3,9,Macroalgae,9.5
+08/01/10,Tektite,3,10,Macroalgae,27.5
+08/01/11,Tektite,1,1,Macroalgae,32.3
+08/01/11,Tektite,1,2,Macroalgae,28.8
+08/01/11,Tektite,1,3,Macroalgae,29.1
+08/01/11,Tektite,1,4,Macroalgae,29.1
+08/01/11,Tektite,1,5,Macroalgae,32
+08/01/11,Tektite,1,6,Macroalgae,25
+08/01/11,Tektite,1,7,Macroalgae,26.8
+08/01/11,Tektite,1,8,Macroalgae,36.5
+08/01/11,Tektite,1,9,Macroalgae,25.6
+08/01/11,Tektite,1,10,Macroalgae,32.7
+08/01/11,Tektite,2,1,Macroalgae,21
+08/01/11,Tektite,2,2,Macroalgae,23.6
+08/01/11,Tektite,2,3,Macroalgae,22.6
+08/01/11,Tektite,2,4,Macroalgae,30.2
+08/01/11,Tektite,2,5,Macroalgae,24.2
+08/01/11,Tektite,2,6,Macroalgae,21
+08/01/11,Tektite,2,7,Macroalgae,16.5
+08/01/11,Tektite,2,8,Macroalgae,30
+08/01/11,Tektite,2,9,Macroalgae,22
+08/01/11,Tektite,2,10,Macroalgae,16.9
+08/01/11,Tektite,3,1,Macroalgae,36.2
+08/01/11,Tektite,3,2,Macroalgae,29.5
+08/01/11,Tektite,3,3,Macroalgae,30.8
+08/01/11,Tektite,3,4,Macroalgae,45.6
+08/01/11,Tektite,3,5,Macroalgae,27.3
+08/01/11,Tektite,3,6,Macroalgae,31.2
+08/01/11,Tektite,3,7,Macroalgae,16.8
+08/01/11,Tektite,3,8,Macroalgae,34.5
+08/01/11,Tektite,3,9,Macroalgae,30.2
+08/01/11,Tektite,3,10,Macroalgae,20.8
+08/01/12,Tektite,1,1,Macroalgae,34.8
+08/01/12,Tektite,1,2,Macroalgae,27.6
+08/01/12,Tektite,1,3,Macroalgae,34.7
+08/01/12,Tektite,1,4,Macroalgae,32.2
+08/01/12,Tektite,1,5,Macroalgae,38
+08/01/12,Tektite,1,6,Macroalgae,26
+08/01/12,Tektite,1,7,Macroalgae,31.8
+08/01/12,Tektite,1,8,Macroalgae,37.2
+08/01/12,Tektite,1,9,Macroalgae,31
+08/01/12,Tektite,1,10,Macroalgae,42.7
+08/01/12,Tektite,2,1,Macroalgae,19.6
+08/01/12,Tektite,2,2,Macroalgae,38
+08/01/12,Tektite,2,3,Macroalgae,48.2
+08/01/12,Tektite,2,4,Macroalgae,44.2
+08/01/12,Tektite,2,5,Macroalgae,30.5
+08/01/12,Tektite,2,6,Macroalgae,26
+08/01/12,Tektite,2,7,Macroalgae,34.3
+08/01/12,Tektite,2,8,Macroalgae,38
+08/01/12,Tektite,2,9,Macroalgae,39.7
+08/01/12,Tektite,2,10,Macroalgae,36.5
+08/01/12,Tektite,3,1,Macroalgae,41.4
+08/01/12,Tektite,3,2,Macroalgae,35.9
+08/01/12,Tektite,3,3,Macroalgae,29.6
+08/01/12,Tektite,3,4,Macroalgae,34.7
+08/01/12,Tektite,3,5,Macroalgae,46.5
+08/01/12,Tektite,3,6,Macroalgae,45.7
+08/01/12,Tektite,3,7,Macroalgae,36.9
+08/01/12,Tektite,3,8,Macroalgae,25.4
+08/01/12,Tektite,3,9,Macroalgae,53.5
+08/01/12,Tektite,3,10,Macroalgae,33.5
+08/01/13,Tektite,1,1,Macroalgae,20.5
+08/01/13,Tektite,1,2,Macroalgae,17.5
+08/01/13,Tektite,1,3,Macroalgae,24
+08/01/13,Tektite,1,4,Macroalgae,42
+08/01/13,Tektite,1,5,Macroalgae,30.6
+08/01/13,Tektite,1,6,Macroalgae,25.6
+08/01/13,Tektite,1,7,Macroalgae,15.5
+08/01/13,Tektite,1,8,Macroalgae,33.7
+08/01/13,Tektite,1,9,Macroalgae,22.3
+08/01/13,Tektite,1,10,Macroalgae,31.5
+08/01/13,Tektite,2,1,Macroalgae,31.8
+08/01/13,Tektite,2,2,Macroalgae,28.9
+08/01/13,Tektite,2,3,Macroalgae,31.2
+08/01/13,Tektite,2,4,Macroalgae,37.6
+08/01/13,Tektite,2,5,Macroalgae,24.9
+08/01/13,Tektite,2,6,Macroalgae,22.5
+08/01/13,Tektite,2,7,Macroalgae,24.5
+08/01/13,Tektite,2,8,Macroalgae,30.8
+08/01/13,Tektite,2,9,Macroalgae,32.1
+08/01/13,Tektite,2,10,Macroalgae,34.7
+08/01/13,Tektite,3,1,Macroalgae,32.7
+08/01/13,Tektite,3,2,Macroalgae,34.7
+08/01/13,Tektite,3,3,Macroalgae,43
+08/01/13,Tektite,3,4,Macroalgae,39.4
+08/01/13,Tektite,3,5,Macroalgae,22.1
+08/01/13,Tektite,3,6,Macroalgae,44.6
+08/01/13,Tektite,3,7,Macroalgae,23.6
+08/01/13,Tektite,3,8,Macroalgae,28.6
+08/01/13,Tektite,3,9,Macroalgae,40.1
+08/01/13,Tektite,3,10,Macroalgae,26.9
+08/01/14,Tektite,1,1,Macroalgae,38
+08/01/14,Tektite,1,2,Macroalgae,30.2
+08/01/14,Tektite,1,3,Macroalgae,42.5
+08/01/14,Tektite,1,4,Macroalgae,37.4
+08/01/14,Tektite,1,5,Macroalgae,35
+08/01/14,Tektite,1,6,Macroalgae,37.5
+08/01/14,Tektite,1,7,Macroalgae,37.7
+08/01/14,Tektite,1,8,Macroalgae,34.5
+08/01/14,Tektite,1,9,Macroalgae,20
+08/01/14,Tektite,1,10,Macroalgae,43
+08/01/14,Tektite,2,1,Macroalgae,32
+08/01/14,Tektite,2,2,Macroalgae,35.5
+08/01/14,Tektite,2,3,Macroalgae,41.9
+08/01/14,Tektite,2,4,Macroalgae,37.4
+08/01/14,Tektite,2,5,Macroalgae,30
+08/01/14,Tektite,2,6,Macroalgae,24.7
+08/01/14,Tektite,2,7,Macroalgae,31.2
+08/01/14,Tektite,2,8,Macroalgae,34
+08/01/14,Tektite,2,9,Macroalgae,31.8
+08/01/14,Tektite,2,10,Macroalgae,25
+08/01/14,Tektite,3,1,Macroalgae,25
+08/01/14,Tektite,3,2,Macroalgae,25.1
+08/01/14,Tektite,3,3,Macroalgae,33.8
+08/01/14,Tektite,3,4,Macroalgae,33.8
+08/01/14,Tektite,3,5,Macroalgae,28.3
+08/01/14,Tektite,3,6,Macroalgae,26.8
+08/01/14,Tektite,3,7,Macroalgae,30
+08/01/14,Tektite,3,8,Macroalgae,21.1
+08/01/14,Tektite,3,9,Macroalgae,37.9
+08/01/14,Tektite,3,10,Macroalgae,23.6
+08/01/15,Tektite,1,1,Macroalgae,31
+08/01/15,Tektite,1,2,Macroalgae,41.5
+08/01/15,Tektite,1,3,Macroalgae,38
+08/01/15,Tektite,1,4,Macroalgae,45
+08/01/15,Tektite,1,5,Macroalgae,30.5
+08/01/15,Tektite,1,6,Macroalgae,40.5
+08/01/15,Tektite,1,7,Macroalgae,37.2
+08/01/15,Tektite,1,8,Macroalgae,51
+08/01/15,Tektite,1,9,Macroalgae,39.5
+08/01/15,Tektite,1,10,Macroalgae,42
+08/01/15,Tektite,2,1,Macroalgae,39
+08/01/15,Tektite,2,2,Macroalgae,53.5
+08/01/15,Tektite,2,3,Macroalgae,51.5
+08/01/15,Tektite,2,4,Macroalgae,45
+08/01/15,Tektite,2,5,Macroalgae,28.6
+08/01/15,Tektite,2,6,Macroalgae,32
+08/01/15,Tektite,2,7,Macroalgae,36.5
+08/01/15,Tektite,2,8,Macroalgae,45
+08/01/15,Tektite,2,9,Macroalgae,63.5
+08/01/15,Tektite,2,10,Macroalgae,51.3
+08/01/15,Tektite,3,1,Macroalgae,46
+08/01/15,Tektite,3,2,Macroalgae,41.5
+08/01/15,Tektite,3,3,Macroalgae,41
+08/01/15,Tektite,3,4,Macroalgae,37.5
+08/01/15,Tektite,3,5,Macroalgae,38
+08/01/15,Tektite,3,6,Macroalgae,46.5
+08/01/15,Tektite,3,7,Macroalgae,49.5
+08/01/15,Tektite,3,8,Macroalgae,44.5
+08/01/15,Tektite,3,9,Macroalgae,57.3
+08/01/15,Tektite,3,10,Macroalgae,44.9
+12/01/87,Tektite,1,1,CTB,6
+12/01/87,Tektite,1,2,CTB,74
+12/01/87,Tektite,1,3,CTB,45
+12/01/87,Tektite,1,4,CTB,61.5
+12/01/87,Tektite,1,5,CTB,48
+12/01/87,Tektite,1,6,CTB,10
+12/01/87,Tektite,1,7,CTB,3
+12/01/87,Tektite,1,8,CTB,29
+12/01/87,Tektite,1,9,CTB,38
+12/01/87,Tektite,1,10,CTB,30.5
+12/01/87,Tektite,2,1,CTB,29
+12/01/87,Tektite,2,2,CTB,31.5
+12/01/87,Tektite,2,3,CTB,26
+12/01/87,Tektite,2,4,CTB,24
+12/01/87,Tektite,2,5,CTB,10
+12/01/87,Tektite,2,6,CTB,11.5
+12/01/87,Tektite,2,7,CTB,6
+12/01/87,Tektite,2,8,CTB,14.5
+12/01/87,Tektite,2,9,CTB,19
+12/01/87,Tektite,2,10,CTB,15.5
+12/01/87,Tektite,3,1,CTB,22
+12/01/87,Tektite,3,2,CTB,16
+12/01/87,Tektite,3,3,CTB,19.3
+12/01/87,Tektite,3,4,CTB,31
+12/01/87,Tektite,3,5,CTB,31
+12/01/87,Tektite,3,6,CTB,39
+12/01/87,Tektite,3,7,CTB,30
+12/01/87,Tektite,3,8,CTB,19.5
+12/01/87,Tektite,3,9,CTB,14.5
+12/01/87,Tektite,3,10,CTB,20.5
+03/01/88,Tektite,1,1,CTB,44.5
+03/01/88,Tektite,1,2,CTB,63
+03/01/88,Tektite,1,3,CTB,39.5
+03/01/88,Tektite,1,4,CTB,46
+03/01/88,Tektite,1,5,CTB,62
+03/01/88,Tektite,1,6,CTB,19
+03/01/88,Tektite,1,7,CTB,6.8
+03/01/88,Tektite,1,8,CTB,29
+03/01/88,Tektite,1,9,CTB,38.5
+03/01/88,Tektite,2,1,CTB,32.5
+03/01/88,Tektite,2,2,CTB,21
+03/01/88,Tektite,2,3,CTB,36.5
+03/01/88,Tektite,2,4,CTB,25.5
+03/01/88,Tektite,2,5,CTB,11.5
+03/01/88,Tektite,2,6,CTB,21
+03/01/88,Tektite,2,7,CTB,19.5
+03/01/88,Tektite,2,8,CTB,10.5
+03/01/88,Tektite,2,9,CTB,18
+03/01/88,Tektite,2,10,CTB,15.5
+03/01/88,Tektite,3,1,CTB,12.5
+03/01/88,Tektite,3,2,CTB,25.5
+03/01/88,Tektite,3,3,CTB,10.5
+03/01/88,Tektite,3,4,CTB,24.5
+03/01/88,Tektite,3,5,CTB,44.5
+03/01/88,Tektite,3,6,CTB,32
+03/01/88,Tektite,3,7,CTB,14
+03/01/88,Tektite,3,8,CTB,14
+03/01/88,Tektite,3,9,CTB,22
+03/01/88,Tektite,3,10,CTB,25
+07/01/88,Tektite,1,1,CTB,33.5
+07/01/88,Tektite,1,2,CTB,40.5
+07/01/88,Tektite,1,3,CTB,29.8
+07/01/88,Tektite,1,4,CTB,33
+07/01/88,Tektite,1,5,CTB,41
+07/01/88,Tektite,1,6,CTB,10.5
+07/01/88,Tektite,1,7,CTB,9
+07/01/88,Tektite,1,8,CTB,22
+07/01/88,Tektite,1,9,CTB,34.5
+07/01/88,Tektite,1,10,CTB,23
+07/01/88,Tektite,2,1,CTB,27.5
+07/01/88,Tektite,2,2,CTB,29.5
+07/01/88,Tektite,2,3,CTB,27.5
+07/01/88,Tektite,2,4,CTB,25
+07/01/88,Tektite,2,5,CTB,7.5
+07/01/88,Tektite,2,6,CTB,9
+07/01/88,Tektite,2,7,CTB,26
+07/01/88,Tektite,2,8,CTB,7
+07/01/88,Tektite,2,9,CTB,21
+07/01/88,Tektite,2,10,CTB,26.5
+07/01/88,Tektite,3,1,CTB,12.5
+07/01/88,Tektite,3,2,CTB,15.5
+07/01/88,Tektite,3,3,CTB,12.5
+07/01/88,Tektite,3,4,CTB,25
+07/01/88,Tektite,3,5,CTB,27.5
+07/01/88,Tektite,3,6,CTB,22.5
+07/01/88,Tektite,3,7,CTB,16.5
+07/01/88,Tektite,3,8,CTB,11.5
+07/01/88,Tektite,3,9,CTB,16
+07/01/88,Tektite,3,10,CTB,32.5
+12/01/88,Tektite,2,1,CTB,24.5
+12/01/88,Tektite,2,2,CTB,19.5
+12/01/88,Tektite,2,3,CTB,29.5
+12/01/88,Tektite,2,4,CTB,20.5
+12/01/88,Tektite,2,5,CTB,21
+12/01/88,Tektite,2,6,CTB,29.5
+12/01/88,Tektite,2,7,CTB,12
+12/01/88,Tektite,2,8,CTB,7.5
+12/01/88,Tektite,2,9,CTB,18
+12/01/88,Tektite,2,10,CTB,30.5
+12/01/88,Tektite,3,1,CTB,17
+12/01/88,Tektite,3,2,CTB,26
+12/01/88,Tektite,3,3,CTB,16.1
+12/01/88,Tektite,3,4,CTB,23
+12/01/88,Tektite,3,5,CTB,25
+12/01/88,Tektite,3,6,CTB,40.5
+12/01/88,Tektite,3,7,CTB,10.5
+12/01/88,Tektite,3,8,CTB,19.5
+12/01/88,Tektite,3,9,CTB,17.5
+12/01/88,Tektite,3,10,CTB,35.5
+04/01/89,Tektite,1,1,CTB,30
+04/01/89,Tektite,1,2,CTB,31.5
+04/01/89,Tektite,1,3,CTB,26
+04/01/89,Tektite,1,4,CTB,24.5
+04/01/89,Tektite,1,5,CTB,50
+04/01/89,Tektite,1,6,CTB,20.5
+04/01/89,Tektite,1,7,CTB,16.5
+04/01/89,Tektite,1,8,CTB,32
+04/01/89,Tektite,1,9,CTB,37.5
+04/01/89,Tektite,1,10,CTB,25.5
+04/01/89,Tektite,2,1,CTB,27
+04/01/89,Tektite,2,2,CTB,31
+04/01/89,Tektite,2,3,CTB,17
+04/01/89,Tektite,2,4,CTB,19
+04/01/89,Tektite,2,5,CTB,18.5
+04/01/89,Tektite,2,6,CTB,22
+04/01/89,Tektite,2,7,CTB,14
+04/01/89,Tektite,2,8,CTB,9.5
+04/01/89,Tektite,2,9,CTB,22
+04/01/89,Tektite,2,10,CTB,29
+04/01/89,Tektite,3,1,CTB,20.5
+04/01/89,Tektite,3,2,CTB,18
+04/01/89,Tektite,3,3,CTB,21
+04/01/89,Tektite,3,4,CTB,37
+04/01/89,Tektite,3,5,CTB,37
+04/01/89,Tektite,3,6,CTB,32.5
+04/01/89,Tektite,3,7,CTB,22.5
+04/01/89,Tektite,3,8,CTB,22
+04/01/89,Tektite,3,9,CTB,20.5
+04/01/89,Tektite,3,10,CTB,22.5
+10/01/89,Tektite,1,1,CTB,41.5
+10/01/89,Tektite,1,2,CTB,51
+10/01/89,Tektite,1,3,CTB,49.5
+10/01/89,Tektite,1,4,CTB,44.5
+10/01/89,Tektite,1,5,CTB,31
+10/01/89,Tektite,1,6,CTB,20
+10/01/89,Tektite,1,7,CTB,32
+10/01/89,Tektite,1,8,CTB,18
+10/01/89,Tektite,1,9,CTB,29.5
+10/01/89,Tektite,1,10,CTB,12.5
+10/01/89,Tektite,2,1,CTB,31.5
+10/01/89,Tektite,2,2,CTB,20.5
+10/01/89,Tektite,2,3,CTB,42.5
+10/01/89,Tektite,2,4,CTB,19.5
+10/01/89,Tektite,2,5,CTB,19.5
+10/01/89,Tektite,2,6,CTB,29
+10/01/89,Tektite,2,7,CTB,21.5
+10/01/89,Tektite,2,8,CTB,7.5
+10/01/89,Tektite,2,9,CTB,12
+10/01/89,Tektite,2,10,CTB,18
+10/01/89,Tektite,3,1,CTB,23
+10/01/89,Tektite,3,2,CTB,16.5
+10/01/89,Tektite,3,3,CTB,21.5
+10/01/89,Tektite,3,4,CTB,26
+10/01/89,Tektite,3,5,CTB,43.5
+10/01/89,Tektite,3,6,CTB,32
+10/01/89,Tektite,3,7,CTB,19.5
+10/01/89,Tektite,3,8,CTB,26.5
+10/01/89,Tektite,3,9,CTB,22
+10/01/89,Tektite,3,10,CTB,40
+09/01/90,Tektite,1,1,CTB,16
+09/01/90,Tektite,1,2,CTB,15.5
+09/01/90,Tektite,1,3,CTB,28.5
+09/01/90,Tektite,1,4,CTB,25
+09/01/90,Tektite,1,5,CTB,30.5
+09/01/90,Tektite,1,6,CTB,20.5
+09/01/90,Tektite,1,7,CTB,28
+09/01/90,Tektite,1,8,CTB,22
+09/01/90,Tektite,1,9,CTB,19
+09/01/90,Tektite,1,10,CTB,25
+09/01/90,Tektite,2,1,CTB,23.5
+09/01/90,Tektite,2,2,CTB,32.5
+09/01/90,Tektite,2,3,CTB,21.5
+09/01/90,Tektite,2,4,CTB,28.5
+09/01/90,Tektite,2,5,CTB,6.5
+09/01/90,Tektite,2,6,CTB,25.5
+09/01/90,Tektite,2,7,CTB,15
+09/01/90,Tektite,2,8,CTB,16
+09/01/90,Tektite,2,9,CTB,38
+09/01/90,Tektite,2,10,CTB,14
+09/01/90,Tektite,3,1,CTB,11
+09/01/90,Tektite,3,2,CTB,19.5
+09/01/90,Tektite,3,3,CTB,20.5
+09/01/90,Tektite,3,4,CTB,26
+09/01/90,Tektite,3,5,CTB,34
+09/01/90,Tektite,3,6,CTB,36.5
+09/01/90,Tektite,3,7,CTB,15.5
+09/01/90,Tektite,3,8,CTB,21
+09/01/90,Tektite,3,9,CTB,22.5
+09/01/90,Tektite,3,10,CTB,29.5
+03/01/91,Tektite,1,1,CTB,33
+03/01/91,Tektite,1,2,CTB,26.5
+03/01/91,Tektite,1,3,CTB,26
+03/01/91,Tektite,1,4,CTB,14
+03/01/91,Tektite,1,5,CTB,23
+03/01/91,Tektite,1,6,CTB,8.5
+03/01/91,Tektite,1,7,CTB,21.5
+03/01/91,Tektite,1,8,CTB,9
+03/01/91,Tektite,1,9,CTB,21
+03/01/91,Tektite,1,10,CTB,21.5
+03/01/91,Tektite,2,1,CTB,11.5
+03/01/91,Tektite,2,2,CTB,24.5
+03/01/91,Tektite,2,3,CTB,29
+03/01/91,Tektite,2,4,CTB,21.5
+03/01/91,Tektite,2,5,CTB,8
+03/01/91,Tektite,2,6,CTB,13
+03/01/91,Tektite,2,7,CTB,9.5
+03/01/91,Tektite,2,8,CTB,11.5
+03/01/91,Tektite,2,9,CTB,12.5
+03/01/91,Tektite,2,10,CTB,16.5
+03/01/91,Tektite,3,1,CTB,20
+03/01/91,Tektite,3,2,CTB,13.5
+03/01/91,Tektite,3,3,CTB,13.5
+03/01/91,Tektite,3,4,CTB,23
+03/01/91,Tektite,3,5,CTB,26.5
+03/01/91,Tektite,3,6,CTB,26.5
+03/01/91,Tektite,3,7,CTB,21
+03/01/91,Tektite,3,8,CTB,12
+03/01/91,Tektite,3,9,CTB,25.5
+03/01/91,Tektite,3,10,CTB,23
+05/01/92,Tektite,2,1,CTB,34.5
+05/01/92,Tektite,2,2,CTB,32.5
+05/01/92,Tektite,2,3,CTB,34.5
+05/01/92,Tektite,2,4,CTB,25
+05/01/92,Tektite,2,5,CTB,11.5
+05/01/92,Tektite,2,6,CTB,14
+05/01/92,Tektite,2,7,CTB,13.5
+05/01/92,Tektite,2,8,CTB,11.5
+05/01/92,Tektite,2,9,CTB,17.5
+05/01/92,Tektite,2,10,CTB,20
+05/01/92,Tektite,3,1,CTB,25
+05/01/92,Tektite,3,2,CTB,11
+05/01/92,Tektite,3,3,CTB,17
+05/01/92,Tektite,3,4,CTB,36
+05/01/92,Tektite,3,5,CTB,28
+05/01/92,Tektite,3,7,CTB,27
+05/01/92,Tektite,3,8,CTB,13.5
+05/01/92,Tektite,3,9,CTB,32
+06/01/93,Tektite,1,1,CTB,30.3
+06/01/93,Tektite,1,2,CTB,32.3
+06/01/93,Tektite,1,3,CTB,25.6
+06/01/93,Tektite,1,4,CTB,30.9
+06/01/93,Tektite,1,5,CTB,17.2
+06/01/93,Tektite,1,6,CTB,8.5
+06/01/93,Tektite,1,7,CTB,28.8
+06/01/93,Tektite,1,8,CTB,5.3
+06/01/93,Tektite,1,9,CTB,17.5
+06/01/93,Tektite,1,10,CTB,15.1
+06/01/93,Tektite,2,1,CTB,15.6
+06/01/93,Tektite,2,2,CTB,21
+06/01/93,Tektite,2,3,CTB,25.9
+06/01/93,Tektite,2,4,CTB,22.6
+06/01/93,Tektite,2,5,CTB,8.9
+06/01/93,Tektite,2,6,CTB,10.3
+06/01/93,Tektite,2,7,CTB,7.6
+06/01/93,Tektite,2,8,CTB,11.5
+06/01/93,Tektite,2,9,CTB,8.7
+06/01/93,Tektite,2,10,CTB,8.8
+06/01/93,Tektite,3,1,CTB,25.5
+06/01/93,Tektite,3,2,CTB,10.5
+06/01/93,Tektite,3,3,CTB,7.3
+06/01/93,Tektite,3,4,CTB,19
+06/01/93,Tektite,3,5,CTB,29.5
+06/01/93,Tektite,3,6,CTB,6
+06/01/93,Tektite,3,7,CTB,20
+06/01/93,Tektite,3,8,CTB,5.6
+06/01/93,Tektite,3,9,CTB,26
+06/01/93,Tektite,3,10,CTB,15.5
+08/01/94,Tektite,1,1,CTB,12.5
+08/01/94,Tektite,1,2,CTB,0
+08/01/94,Tektite,1,3,CTB,1.6
+08/01/94,Tektite,1,4,CTB,19.5
+08/01/94,Tektite,1,5,CTB,25.3
+08/01/94,Tektite,1,6,CTB,28.5
+08/01/94,Tektite,1,7,CTB,40.7
+08/01/94,Tektite,1,8,CTB,13.5
+08/01/94,Tektite,1,9,CTB,14
+08/01/94,Tektite,1,10,CTB,11.5
+08/01/94,Tektite,2,1,CTB,11
+08/01/94,Tektite,2,2,CTB,8.5
+08/01/94,Tektite,2,3,CTB,13
+08/01/94,Tektite,2,4,CTB,9
+08/01/94,Tektite,2,5,CTB,3.2
+08/01/94,Tektite,2,6,CTB,7.5
+08/01/94,Tektite,2,7,CTB,4.5
+08/01/94,Tektite,2,8,CTB,2.5
+08/01/94,Tektite,2,9,CTB,11
+08/01/94,Tektite,2,10,CTB,3.5
+08/01/94,Tektite,3,1,CTB,22
+08/01/94,Tektite,3,2,CTB,8
+08/01/94,Tektite,3,3,CTB,6
+08/01/94,Tektite,3,4,CTB,15.5
+08/01/94,Tektite,3,5,CTB,17.5
+08/01/94,Tektite,3,6,CTB,8.5
+08/01/94,Tektite,3,7,CTB,3
+08/01/94,Tektite,3,8,CTB,3.5
+08/01/94,Tektite,3,9,CTB,15.5
+08/01/94,Tektite,3,10,CTB,19
+05/01/95,Tektite,1,1,CTB,21
+05/01/95,Tektite,1,2,CTB,20.5
+05/01/95,Tektite,1,3,CTB,11.5
+05/01/95,Tektite,1,4,CTB,26.5
+05/01/95,Tektite,1,5,CTB,14
+05/01/95,Tektite,1,6,CTB,8.5
+05/01/95,Tektite,1,7,CTB,15.5
+05/01/95,Tektite,1,8,CTB,8
+05/01/95,Tektite,1,9,CTB,5
+05/01/95,Tektite,1,10,CTB,11
+05/01/95,Tektite,2,1,CTB,24
+05/01/95,Tektite,2,2,CTB,13
+05/01/95,Tektite,2,3,CTB,25.5
+05/01/95,Tektite,2,4,CTB,16.5
+05/01/95,Tektite,2,5,CTB,2.5
+05/01/95,Tektite,2,6,CTB,8
+05/01/95,Tektite,2,7,CTB,11
+05/01/95,Tektite,2,8,CTB,61.5
+05/01/95,Tektite,2,9,CTB,6.5
+05/01/95,Tektite,2,10,CTB,5
+05/01/95,Tektite,3,1,CTB,16.5
+05/01/95,Tektite,3,2,CTB,10
+05/01/95,Tektite,3,3,CTB,17
+05/01/95,Tektite,3,4,CTB,8.5
+05/01/95,Tektite,3,5,CTB,19.5
+05/01/95,Tektite,3,6,CTB,14.5
+05/01/95,Tektite,3,7,CTB,3
+05/01/95,Tektite,3,8,CTB,8
+05/01/95,Tektite,3,9,CTB,16.5
+05/01/95,Tektite,3,10,CTB,13
+05/01/96,Tektite,1,1,CTB,18.7
+05/01/96,Tektite,1,2,CTB,18.8
+05/01/96,Tektite,1,3,CTB,20.8
+05/01/96,Tektite,1,4,CTB,8.7
+05/01/96,Tektite,1,5,CTB,8.1
+05/01/96,Tektite,1,6,CTB,2.6
+05/01/96,Tektite,1,7,CTB,12.3
+05/01/96,Tektite,1,8,CTB,14.9
+05/01/96,Tektite,1,9,CTB,14.1
+05/01/96,Tektite,1,10,CTB,2.7
+05/01/96,Tektite,1,11,CTB,15.9
+05/01/96,Tektite,2,1,CTB,12.8
+05/01/96,Tektite,2,2,CTB,15.7
+05/01/96,Tektite,2,3,CTB,6.6
+05/01/96,Tektite,2,4,CTB,13.8
+05/01/96,Tektite,2,5,CTB,1.1
+05/01/96,Tektite,2,6,CTB,9
+05/01/96,Tektite,2,7,CTB,2.2
+05/01/96,Tektite,2,8,CTB,12.3
+05/01/96,Tektite,2,9,CTB,33.2
+05/01/96,Tektite,2,10,CTB,23.7
+05/01/96,Tektite,3,1,CTB,31.4
+05/01/96,Tektite,3,2,CTB,26.2
+05/01/96,Tektite,3,3,CTB,1
+05/01/96,Tektite,3,4,CTB,7.4
+05/01/96,Tektite,3,5,CTB,18.6
+05/01/96,Tektite,3,6,CTB,19.5
+05/01/96,Tektite,3,7,CTB,2.2
+05/01/96,Tektite,3,8,CTB,2.7
+05/01/96,Tektite,3,9,CTB,8.8
+05/01/96,Tektite,3,10,CTB,6.8
+08/01/97,Tektite,1,1,CTB,17.5
+08/01/97,Tektite,1,2,CTB,4
+08/01/97,Tektite,1,3,CTB,1
+08/01/97,Tektite,1,4,CTB,10.5
+08/01/97,Tektite,1,5,CTB,7.5
+08/01/97,Tektite,1,6,CTB,1.5
+08/01/97,Tektite,1,7,CTB,8
+08/01/97,Tektite,1,8,CTB,9
+08/01/97,Tektite,1,9,CTB,9
+08/01/97,Tektite,1,10,CTB,5.5
+08/01/97,Tektite,2,1,CTB,7
+08/01/97,Tektite,2,2,CTB,9
+08/01/97,Tektite,2,3,CTB,20
+08/01/97,Tektite,2,4,CTB,14.5
+08/01/97,Tektite,2,5,CTB,1.5
+08/01/97,Tektite,2,6,CTB,10.5
+08/01/97,Tektite,2,7,CTB,7.5
+08/01/97,Tektite,2,8,CTB,5
+08/01/97,Tektite,2,9,CTB,7.5
+08/01/97,Tektite,2,10,CTB,7.5
+08/01/97,Tektite,3,1,CTB,15
+08/01/97,Tektite,3,2,CTB,6
+08/01/97,Tektite,3,3,CTB,12
+08/01/97,Tektite,3,4,CTB,19
+08/01/97,Tektite,3,5,CTB,22
+08/01/97,Tektite,3,6,CTB,12
+08/01/97,Tektite,3,7,CTB,3.5
+08/01/97,Tektite,3,8,CTB,18
+08/01/97,Tektite,3,9,CTB,8
+08/01/97,Tektite,3,10,CTB,17.5
+08/01/98,Tektite,1,1,CTB,16.5
+08/01/98,Tektite,1,2,CTB,8.5
+08/01/98,Tektite,1,3,CTB,19
+08/01/98,Tektite,1,4,CTB,28.5
+08/01/98,Tektite,1,5,CTB,6
+08/01/98,Tektite,1,6,CTB,17
+08/01/98,Tektite,1,7,CTB,25
+08/01/98,Tektite,1,8,CTB,12
+08/01/98,Tektite,1,9,CTB,19
+08/01/98,Tektite,1,10,CTB,9.5
+08/01/98,Tektite,2,1,CTB,23
+08/01/98,Tektite,2,2,CTB,20
+08/01/98,Tektite,2,3,CTB,13
+08/01/98,Tektite,2,4,CTB,19
+08/01/98,Tektite,2,5,CTB,4
+08/01/98,Tektite,2,6,CTB,10.5
+08/01/98,Tektite,2,7,CTB,7
+08/01/98,Tektite,2,8,CTB,14.5
+08/01/98,Tektite,2,9,CTB,7
+08/01/98,Tektite,2,10,CTB,7
+08/01/98,Tektite,3,1,CTB,22
+08/01/98,Tektite,3,2,CTB,8
+08/01/98,Tektite,3,3,CTB,3
+08/01/98,Tektite,3,4,CTB,19
+08/01/98,Tektite,3,5,CTB,20
+08/01/98,Tektite,3,6,CTB,10
+08/01/98,Tektite,3,7,CTB,4.5
+08/01/98,Tektite,3,8,CTB,5.5
+08/01/98,Tektite,3,9,CTB,15.5
+08/01/98,Tektite,3,10,CTB,16
+08/01/99,Tektite,1,1,CTB,22.3
+08/01/99,Tektite,1,2,CTB,11.1
+08/01/99,Tektite,1,3,CTB,8.5
+08/01/99,Tektite,1,4,CTB,12.2
+08/01/99,Tektite,1,5,CTB,7.3
+08/01/99,Tektite,1,6,CTB,11.2
+08/01/99,Tektite,1,7,CTB,14.9
+08/01/99,Tektite,1,8,CTB,24.7
+08/01/99,Tektite,1,9,CTB,8.2
+08/01/99,Tektite,1,10,CTB,4.1
+08/01/99,Tektite,2,1,CTB,7.7
+08/01/99,Tektite,2,2,CTB,30
+08/01/99,Tektite,2,3,CTB,30.9
+08/01/99,Tektite,2,4,CTB,14.3
+08/01/99,Tektite,2,5,CTB,7.5
+08/01/99,Tektite,2,6,CTB,9.7
+08/01/99,Tektite,2,7,CTB,10.2
+08/01/99,Tektite,2,8,CTB,10.7
+08/01/99,Tektite,2,9,CTB,13.8
+08/01/99,Tektite,2,10,CTB,5.1
+08/01/99,Tektite,3,1,CTB,22.7
+08/01/99,Tektite,3,2,CTB,10.3
+08/01/99,Tektite,3,3,CTB,17.9
+08/01/99,Tektite,3,4,CTB,15.5
+08/01/99,Tektite,3,5,CTB,12.8
+08/01/99,Tektite,3,6,CTB,10.7
+08/01/99,Tektite,3,7,CTB,2
+08/01/99,Tektite,3,8,CTB,4
+08/01/99,Tektite,3,9,CTB,10.5
+08/01/99,Tektite,3,10,CTB,9.9
+08/01/00,Tektite,1,1,CTB,36.2
+08/01/00,Tektite,1,2,CTB,30.8
+08/01/00,Tektite,1,3,CTB,23
+08/01/00,Tektite,1,4,CTB,20.7
+08/01/00,Tektite,1,5,CTB,20.5
+08/01/00,Tektite,1,6,CTB,20.1
+08/01/00,Tektite,1,7,CTB,12
+08/01/00,Tektite,1,8,CTB,23.2
+08/01/00,Tektite,1,9,CTB,14.5
+08/01/00,Tektite,1,10,CTB,22.6
+08/01/00,Tektite,2,1,CTB,17
+08/01/00,Tektite,2,2,CTB,9.1
+08/01/00,Tektite,2,3,CTB,13.5
+08/01/00,Tektite,2,4,CTB,32
+08/01/00,Tektite,2,5,CTB,3
+08/01/00,Tektite,2,6,CTB,6.6
+08/01/00,Tektite,2,7,CTB,7.7
+08/01/00,Tektite,2,8,CTB,8.5
+08/01/00,Tektite,2,9,CTB,12.2
+08/01/00,Tektite,2,10,CTB,6.5
+08/01/00,Tektite,3,1,CTB,11.4
+08/01/00,Tektite,3,2,CTB,4.5
+08/01/00,Tektite,3,3,CTB,12.1
+08/01/00,Tektite,3,4,CTB,5
+08/01/00,Tektite,3,5,CTB,11.2
+08/01/00,Tektite,3,6,CTB,2
+08/01/00,Tektite,3,7,CTB,1
+08/01/00,Tektite,3,8,CTB,2.5
+08/01/00,Tektite,3,9,CTB,10.1
+08/01/00,Tektite,3,10,CTB,7.6
+08/01/01,Tektite,1,1,CTB,29.4
+08/01/01,Tektite,1,2,CTB,24.2
+08/01/01,Tektite,1,3,CTB,14.9
+08/01/01,Tektite,1,4,CTB,21.5
+08/01/01,Tektite,1,5,CTB,8.1
+08/01/01,Tektite,1,6,CTB,10.6
+08/01/01,Tektite,1,7,CTB,10.5
+08/01/01,Tektite,1,8,CTB,8.2
+08/01/01,Tektite,1,9,CTB,16.6
+08/01/01,Tektite,1,10,CTB,12.6
+08/01/01,Tektite,2,1,CTB,19.1
+08/01/01,Tektite,2,2,CTB,18.1
+08/01/01,Tektite,2,3,CTB,34.5
+08/01/01,Tektite,2,4,CTB,31.2
+08/01/01,Tektite,2,5,CTB,6.6
+08/01/01,Tektite,2,6,CTB,8.6
+08/01/01,Tektite,2,7,CTB,10.2
+08/01/01,Tektite,2,8,CTB,10.7
+08/01/01,Tektite,2,9,CTB,16.6
+08/01/01,Tektite,2,10,CTB,11.7
+08/01/01,Tektite,3,1,CTB,19.1
+08/01/01,Tektite,3,2,CTB,2
+08/01/01,Tektite,3,3,CTB,12.6
+08/01/01,Tektite,3,4,CTB,21.8
+08/01/01,Tektite,3,5,CTB,33.7
+08/01/01,Tektite,3,6,CTB,14.1
+08/01/01,Tektite,3,7,CTB,8.5
+08/01/01,Tektite,3,8,CTB,7.3
+08/01/01,Tektite,3,9,CTB,13.2
+08/01/01,Tektite,3,10,CTB,4.8
+08/01/02,Tektite,1,1,CTB,31.4
+08/01/02,Tektite,1,2,CTB,23.2
+08/01/02,Tektite,1,3,CTB,18.4
+08/01/02,Tektite,1,4,CTB,37.2
+08/01/02,Tektite,1,5,CTB,32.1
+08/01/02,Tektite,1,6,CTB,13.9
+08/01/02,Tektite,1,7,CTB,15.7
+08/01/02,Tektite,1,8,CTB,14.6
+08/01/02,Tektite,1,9,CTB,14.9
+08/01/02,Tektite,1,10,CTB,12.5
+08/01/02,Tektite,2,1,CTB,34.7
+08/01/02,Tektite,2,2,CTB,34.7
+08/01/02,Tektite,2,3,CTB,31.2
+08/01/02,Tektite,2,4,CTB,36.9
+08/01/02,Tektite,2,5,CTB,7.2
+08/01/02,Tektite,2,6,CTB,9.2
+08/01/02,Tektite,2,7,CTB,5.1
+08/01/02,Tektite,2,8,CTB,10
+08/01/02,Tektite,2,9,CTB,16.7
+08/01/02,Tektite,2,10,CTB,12.9
+08/01/02,Tektite,3,1,CTB,29.7
+08/01/02,Tektite,3,2,CTB,14.3
+08/01/02,Tektite,3,3,CTB,12.6
+08/01/02,Tektite,3,4,CTB,19.4
+08/01/02,Tektite,3,5,CTB,16.4
+08/01/02,Tektite,3,6,CTB,10.4
+08/01/02,Tektite,3,7,CTB,5.1
+08/01/02,Tektite,3,8,CTB,3.6
+08/01/02,Tektite,3,9,CTB,11.9
+08/01/02,Tektite,3,10,CTB,11.3
+08/01/03,Tektite,1,1,CTB,33.5
+08/01/03,Tektite,1,2,CTB,41.3
+08/01/03,Tektite,1,3,CTB,20.1
+08/01/03,Tektite,1,4,CTB,34.2
+08/01/03,Tektite,1,5,CTB,24.4
+08/01/03,Tektite,1,6,CTB,22.2
+08/01/03,Tektite,1,7,CTB,10.3
+08/01/03,Tektite,1,8,CTB,24.7
+08/01/03,Tektite,1,9,CTB,16.4
+08/01/03,Tektite,1,10,CTB,14.1
+08/01/03,Tektite,2,1,CTB,19.2
+08/01/03,Tektite,2,2,CTB,15.7
+08/01/03,Tektite,2,3,CTB,36.2
+08/01/03,Tektite,2,4,CTB,18.1
+08/01/03,Tektite,2,5,CTB,4.1
+08/01/03,Tektite,2,6,CTB,10.3
+08/01/03,Tektite,2,7,CTB,8.9
+08/01/03,Tektite,2,8,CTB,12.6
+08/01/03,Tektite,2,9,CTB,13.1
+08/01/03,Tektite,2,10,CTB,15.7
+08/01/03,Tektite,3,1,CTB,18.5
+08/01/03,Tektite,3,2,CTB,8.2
+08/01/03,Tektite,3,3,CTB,8.6
+08/01/03,Tektite,3,4,CTB,10.2
+08/01/03,Tektite,3,5,CTB,14.4
+08/01/03,Tektite,3,6,CTB,6
+08/01/03,Tektite,3,7,CTB,7.6
+08/01/03,Tektite,3,8,CTB,2.6
+08/01/03,Tektite,3,9,CTB,12.3
+08/01/03,Tektite,3,10,CTB,9.3
+08/01/04,Tektite,1,1,CTB,12.7
+08/01/04,Tektite,1,2,CTB,11.9
+08/01/04,Tektite,1,3,CTB,3.6
+08/01/04,Tektite,1,4,CTB,15.7
+08/01/04,Tektite,1,5,CTB,9.1
+08/01/04,Tektite,1,6,CTB,30.4
+08/01/04,Tektite,1,7,CTB,7.9
+08/01/04,Tektite,1,8,CTB,11.5
+08/01/04,Tektite,1,9,CTB,8.4
+08/01/04,Tektite,1,10,CTB,6.3
+08/01/04,Tektite,2,1,CTB,7.3
+08/01/04,Tektite,2,2,CTB,15.2
+08/01/04,Tektite,2,3,CTB,18.9
+08/01/04,Tektite,2,4,CTB,18.7
+08/01/04,Tektite,2,5,CTB,22.1
+08/01/04,Tektite,2,6,CTB,4.2
+08/01/04,Tektite,2,7,CTB,8.2
+08/01/04,Tektite,2,8,CTB,6.4
+08/01/04,Tektite,2,9,CTB,7.7
+08/01/04,Tektite,2,10,CTB,8.9
+08/01/04,Tektite,3,1,CTB,17.8
+08/01/04,Tektite,3,2,CTB,7.4
+08/01/04,Tektite,3,3,CTB,4.7
+08/01/04,Tektite,3,4,CTB,6.3
+08/01/04,Tektite,3,5,CTB,10.2
+08/01/04,Tektite,3,6,CTB,8.6
+08/01/04,Tektite,3,7,CTB,2.1
+08/01/04,Tektite,3,8,CTB,2.8
+08/01/04,Tektite,3,9,CTB,5.8
+08/01/04,Tektite,3,10,CTB,7.4
+08/01/05,Tektite,1,1,CTB,28.9
+08/01/05,Tektite,1,2,CTB,40.8
+08/01/05,Tektite,1,3,CTB,31.6
+08/01/05,Tektite,1,4,CTB,37.3
+08/01/05,Tektite,1,5,CTB,32.5
+08/01/05,Tektite,1,6,CTB,30.3
+08/01/05,Tektite,1,7,CTB,32.7
+08/01/05,Tektite,1,8,CTB,33.1
+08/01/05,Tektite,1,9,CTB,25.1
+08/01/05,Tektite,1,10,CTB,43.4
+08/01/05,Tektite,2,1,CTB,24.3
+08/01/05,Tektite,2,2,CTB,58.2
+08/01/05,Tektite,2,3,CTB,27.2
+08/01/05,Tektite,2,4,CTB,35.3
+08/01/05,Tektite,2,5,CTB,30.5
+08/01/05,Tektite,2,6,CTB,41.2
+08/01/05,Tektite,2,7,CTB,38.8
+08/01/05,Tektite,2,8,CTB,32.8
+08/01/05,Tektite,2,9,CTB,32.2
+08/01/05,Tektite,2,10,CTB,9.4
+08/01/05,Tektite,3,1,CTB,55.7
+08/01/05,Tektite,3,2,CTB,32.8
+08/01/05,Tektite,3,3,CTB,37.5
+08/01/05,Tektite,3,4,CTB,30.8
+08/01/05,Tektite,3,5,CTB,20
+08/01/05,Tektite,3,6,CTB,37.2
+08/01/05,Tektite,3,7,CTB,19.1
+08/01/05,Tektite,3,8,CTB,35.5
+08/01/05,Tektite,3,9,CTB,32
+08/01/05,Tektite,3,10,CTB,31.8
+08/01/06,Tektite,1,1,CTB,25.5
+08/01/06,Tektite,1,2,CTB,32.8
+08/01/06,Tektite,1,3,CTB,28.6
+08/01/06,Tektite,1,4,CTB,16.2
+08/01/06,Tektite,1,5,CTB,19.5
+08/01/06,Tektite,1,6,CTB,48.8
+08/01/06,Tektite,1,7,CTB,43.2
+08/01/06,Tektite,1,8,CTB,31.1
+08/01/06,Tektite,1,9,CTB,18.7
+08/01/06,Tektite,1,10,CTB,23.6
+08/01/06,Tektite,2,1,CTB,20.7
+08/01/06,Tektite,2,2,CTB,30.7
+08/01/06,Tektite,2,3,CTB,37.3
+08/01/06,Tektite,2,4,CTB,33.2
+08/01/06,Tektite,2,5,CTB,15.2
+08/01/06,Tektite,2,6,CTB,30.3
+08/01/06,Tektite,2,7,CTB,22.4
+08/01/06,Tektite,2,8,CTB,39.3
+08/01/06,Tektite,2,9,CTB,39.4
+08/01/06,Tektite,2,10,CTB,25.5
+08/01/06,Tektite,3,1,CTB,51.8
+08/01/06,Tektite,3,2,CTB,41.5
+08/01/06,Tektite,3,3,CTB,20.4
+08/01/06,Tektite,3,4,CTB,16.1
+08/01/06,Tektite,3,5,CTB,23.4
+08/01/06,Tektite,3,6,CTB,32.6
+08/01/06,Tektite,3,7,CTB,16.8
+08/01/06,Tektite,3,8,CTB,5.8
+08/01/06,Tektite,3,9,CTB,26.3
+08/01/06,Tektite,3,10,CTB,21.5
+08/01/07,Tektite,1,1,CTB,59.7
+08/01/07,Tektite,1,2,CTB,45.1
+08/01/07,Tektite,1,3,CTB,39.6
+08/01/07,Tektite,1,4,CTB,46.4
+08/01/07,Tektite,1,5,CTB,40.4
+08/01/07,Tektite,1,6,CTB,57.1
+08/01/07,Tektite,1,7,CTB,48.2
+08/01/07,Tektite,1,8,CTB,46.7
+08/01/07,Tektite,1,9,CTB,37.8
+08/01/07,Tektite,1,10,CTB,19
+08/01/07,Tektite,2,1,CTB,31.9
+08/01/07,Tektite,2,2,CTB,24.4
+08/01/07,Tektite,2,3,CTB,42.7
+08/01/07,Tektite,2,4,CTB,25
+08/01/07,Tektite,2,5,CTB,28.6
+08/01/07,Tektite,2,6,CTB,34.2
+08/01/07,Tektite,2,7,CTB,33
+08/01/07,Tektite,2,8,CTB,30.3
+08/01/07,Tektite,2,9,CTB,28.8
+08/01/07,Tektite,2,10,CTB,32.2
+08/01/07,Tektite,3,1,CTB,46.3
+08/01/07,Tektite,3,2,CTB,53.4
+08/01/07,Tektite,3,3,CTB,42.3
+08/01/07,Tektite,3,4,CTB,36.4
+08/01/07,Tektite,3,5,CTB,35.6
+08/01/07,Tektite,3,6,CTB,40.6
+08/01/07,Tektite,3,7,CTB,23.4
+08/01/07,Tektite,3,8,CTB,28.6
+08/01/07,Tektite,3,9,CTB,32.8
+08/01/07,Tektite,3,10,CTB,30.7
+08/01/08,Tektite,1,1,CTB,55.7
+08/01/08,Tektite,1,2,CTB,56.5
+08/01/08,Tektite,1,3,CTB,50.6
+08/01/08,Tektite,1,4,CTB,56.7
+08/01/08,Tektite,1,5,CTB,43.9
+08/01/08,Tektite,1,6,CTB,52.3
+08/01/08,Tektite,1,7,CTB,71.8
+08/01/08,Tektite,1,8,CTB,53
+08/01/08,Tektite,1,9,CTB,31.4
+08/01/08,Tektite,1,10,CTB,39.7
+08/01/08,Tektite,2,1,CTB,59
+08/01/08,Tektite,2,2,CTB,56.5
+08/01/08,Tektite,2,3,CTB,62.6
+08/01/08,Tektite,2,4,CTB,48.3
+08/01/08,Tektite,2,5,CTB,37.6
+08/01/08,Tektite,2,6,CTB,45.1
+08/01/08,Tektite,2,7,CTB,40.3
+08/01/08,Tektite,2,8,CTB,50.3
+08/01/08,Tektite,2,9,CTB,51.7
+08/01/08,Tektite,2,10,CTB,43.4
+08/01/08,Tektite,3,1,CTB,74.3
+08/01/08,Tektite,3,2,CTB,63.1
+08/01/08,Tektite,3,3,CTB,41
+08/01/08,Tektite,3,4,CTB,37.9
+08/01/08,Tektite,3,5,CTB,54
+08/01/08,Tektite,3,6,CTB,60.3
+08/01/08,Tektite,3,7,CTB,23.6
+08/01/08,Tektite,3,8,CTB,42
+08/01/08,Tektite,3,9,CTB,45.4
+08/01/08,Tektite,3,10,CTB,48
+08/01/09,Tektite,1,1,CTB,50.3
+08/01/09,Tektite,1,2,CTB,67.9
+08/01/09,Tektite,1,3,CTB,39.2
+08/01/09,Tektite,1,4,CTB,61.4
+08/01/09,Tektite,1,5,CTB,35.9
+08/01/09,Tektite,1,6,CTB,46.5
+08/01/09,Tektite,1,7,CTB,60.1
+08/01/09,Tektite,1,8,CTB,62.1
+08/01/09,Tektite,1,9,CTB,29.1
+08/01/09,Tektite,1,10,CTB,46.7
+08/01/09,Tektite,2,1,CTB,54.3
+08/01/09,Tektite,2,2,CTB,40.4
+08/01/09,Tektite,2,3,CTB,56.4
+08/01/09,Tektite,2,4,CTB,48.5
+08/01/09,Tektite,2,5,CTB,45.6
+08/01/09,Tektite,2,6,CTB,40.4
+08/01/09,Tektite,2,7,CTB,39.7
+08/01/09,Tektite,2,8,CTB,43.9
+08/01/09,Tektite,2,9,CTB,48.2
+08/01/09,Tektite,2,10,CTB,37.1
+08/01/09,Tektite,3,1,CTB,63.8
+08/01/09,Tektite,3,2,CTB,57.7
+08/01/09,Tektite,3,3,CTB,34.7
+08/01/09,Tektite,3,4,CTB,37.2
+08/01/09,Tektite,3,5,CTB,37.8
+08/01/09,Tektite,3,6,CTB,54.3
+08/01/09,Tektite,3,7,CTB,23.9
+08/01/09,Tektite,3,8,CTB,29.8
+08/01/09,Tektite,3,9,CTB,26.9
+08/01/09,Tektite,3,10,CTB,35.9
+08/01/10,Tektite,1,1,CTB,31.1
+08/01/10,Tektite,1,2,CTB,26.1
+08/01/10,Tektite,1,3,CTB,19.3
+08/01/10,Tektite,1,4,CTB,39.2
+08/01/10,Tektite,1,5,CTB,21.6
+08/01/10,Tektite,1,6,CTB,18.4
+08/01/10,Tektite,1,7,CTB,2.1
+08/01/10,Tektite,1,8,CTB,38.1
+08/01/10,Tektite,1,9,CTB,17
+08/01/10,Tektite,1,10,CTB,27
+08/01/10,Tektite,2,1,CTB,38.1
+08/01/10,Tektite,2,2,CTB,29.2
+08/01/10,Tektite,2,3,CTB,17.3
+08/01/10,Tektite,2,4,CTB,23.2
+08/01/10,Tektite,2,5,CTB,30.8
+08/01/10,Tektite,2,6,CTB,39.8
+08/01/10,Tektite,2,7,CTB,39.7
+08/01/10,Tektite,2,8,CTB,45.4
+08/01/10,Tektite,2,9,CTB,71.1
+08/01/10,Tektite,2,10,CTB,52.6
+08/01/10,Tektite,3,1,CTB,55
+08/01/10,Tektite,3,2,CTB,49.7
+08/01/10,Tektite,3,3,CTB,42.3
+08/01/10,Tektite,3,4,CTB,40.8
+08/01/10,Tektite,3,5,CTB,40.3
+08/01/10,Tektite,3,6,CTB,36.9
+08/01/10,Tektite,3,7,CTB,43.1
+08/01/10,Tektite,3,8,CTB,20.5
+08/01/10,Tektite,3,9,CTB,58.7
+08/01/10,Tektite,3,10,CTB,32.3
+08/01/11,Tektite,1,1,CTB,43.4
+08/01/11,Tektite,1,2,CTB,45.5
+08/01/11,Tektite,1,3,CTB,41.2
+08/01/11,Tektite,1,4,CTB,50.8
+08/01/11,Tektite,1,5,CTB,39.1
+08/01/11,Tektite,1,6,CTB,53.5
+08/01/11,Tektite,1,7,CTB,53
+08/01/11,Tektite,1,8,CTB,51.5
+08/01/11,Tektite,1,9,CTB,40.7
+08/01/11,Tektite,1,10,CTB,44.7
+08/01/11,Tektite,2,1,CTB,55
+08/01/11,Tektite,2,2,CTB,43.2
+08/01/11,Tektite,2,3,CTB,57.8
+08/01/11,Tektite,2,4,CTB,44.2
+08/01/11,Tektite,2,5,CTB,33.8
+08/01/11,Tektite,2,6,CTB,33
+08/01/11,Tektite,2,7,CTB,38.5
+08/01/11,Tektite,2,8,CTB,46
+08/01/11,Tektite,2,9,CTB,51.5
+08/01/11,Tektite,2,10,CTB,30.3
+08/01/11,Tektite,3,1,CTB,41.2
+08/01/11,Tektite,3,2,CTB,38
+08/01/11,Tektite,3,3,CTB,23.7
+08/01/11,Tektite,3,4,CTB,33.8
+08/01/11,Tektite,3,5,CTB,27.8
+08/01/11,Tektite,3,6,CTB,35.2
+08/01/11,Tektite,3,7,CTB,32.5
+08/01/11,Tektite,3,8,CTB,25.5
+08/01/11,Tektite,3,9,CTB,39.2
+08/01/11,Tektite,3,10,CTB,34
+08/01/12,Tektite,1,1,CTB,32.8
+08/01/12,Tektite,1,2,CTB,42.7
+08/01/12,Tektite,1,3,CTB,23.1
+08/01/12,Tektite,1,4,CTB,54.8
+08/01/12,Tektite,1,5,CTB,24.5
+08/01/12,Tektite,1,6,CTB,49
+08/01/12,Tektite,1,7,CTB,46
+08/01/12,Tektite,1,8,CTB,43.2
+08/01/12,Tektite,1,9,CTB,21.8
+08/01/12,Tektite,1,10,CTB,27.1
+08/01/12,Tektite,2,1,CTB,49.2
+08/01/12,Tektite,2,2,CTB,18.5
+08/01/12,Tektite,2,3,CTB,32.7
+08/01/12,Tektite,2,4,CTB,17.1
+08/01/12,Tektite,2,5,CTB,13
+08/01/12,Tektite,2,6,CTB,11.5
+08/01/12,Tektite,2,7,CTB,15.2
+08/01/12,Tektite,2,8,CTB,18
+08/01/12,Tektite,2,9,CTB,30.7
+08/01/12,Tektite,2,10,CTB,10.2
+08/01/12,Tektite,3,1,CTB,28.8
+08/01/12,Tektite,3,2,CTB,26.3
+08/01/12,Tektite,3,3,CTB,17.1
+08/01/12,Tektite,3,4,CTB,25.6
+08/01/12,Tektite,3,5,CTB,4.5
+08/01/12,Tektite,3,6,CTB,15.6
+08/01/12,Tektite,3,7,CTB,13.1
+08/01/12,Tektite,3,8,CTB,15.7
+08/01/12,Tektite,3,9,CTB,8.5
+08/01/12,Tektite,3,10,CTB,15
+08/01/13,Tektite,1,1,CTB,48
+08/01/13,Tektite,1,2,CTB,56
+08/01/13,Tektite,1,3,CTB,40.5
+08/01/13,Tektite,1,4,CTB,34.5
+08/01/13,Tektite,1,5,CTB,36.7
+08/01/13,Tektite,1,6,CTB,36.7
+08/01/13,Tektite,1,7,CTB,57.5
+08/01/13,Tektite,1,8,CTB,49.2
+08/01/13,Tektite,1,9,CTB,38.6
+08/01/13,Tektite,1,10,CTB,37.1
+08/01/13,Tektite,2,1,CTB,34.8
+08/01/13,Tektite,2,2,CTB,46.4
+08/01/13,Tektite,2,3,CTB,59.3
+08/01/13,Tektite,2,4,CTB,32.8
+08/01/13,Tektite,2,5,CTB,26.9
+08/01/13,Tektite,2,6,CTB,26.5
+08/01/13,Tektite,2,7,CTB,35.2
+08/01/13,Tektite,2,8,CTB,42.1
+08/01/13,Tektite,2,9,CTB,41.3
+08/01/13,Tektite,2,10,CTB,26.5
+08/01/13,Tektite,3,1,CTB,39.2
+08/01/13,Tektite,3,2,CTB,35.8
+08/01/13,Tektite,3,3,CTB,31.1
+08/01/13,Tektite,3,4,CTB,32.3
+08/01/13,Tektite,3,5,CTB,29.2
+08/01/13,Tektite,3,6,CTB,23.1
+08/01/13,Tektite,3,7,CTB,37.2
+08/01/13,Tektite,3,8,CTB,24.3
+08/01/13,Tektite,3,9,CTB,36
+08/01/13,Tektite,3,10,CTB,34.2
+08/01/14,Tektite,1,1,CTB,27.5
+08/01/14,Tektite,1,2,CTB,21.6
+08/01/14,Tektite,1,3,CTB,16.5
+08/01/14,Tektite,1,4,CTB,18.7
+08/01/14,Tektite,1,5,CTB,29
+08/01/14,Tektite,1,6,CTB,30.5
+08/01/14,Tektite,1,7,CTB,28.6
+08/01/14,Tektite,1,8,CTB,34
+08/01/14,Tektite,1,9,CTB,33.5
+08/01/14,Tektite,1,10,CTB,22.5
+08/01/14,Tektite,2,1,CTB,39
+08/01/14,Tektite,2,2,CTB,26.5
+08/01/14,Tektite,2,3,CTB,40.9
+08/01/14,Tektite,2,4,CTB,35.4
+08/01/14,Tektite,2,5,CTB,23.5
+08/01/14,Tektite,2,6,CTB,23.7
+08/01/14,Tektite,2,7,CTB,33.2
+08/01/14,Tektite,2,8,CTB,39.1
+08/01/14,Tektite,2,9,CTB,41.4
+08/01/14,Tektite,2,10,CTB,41.3
+08/01/14,Tektite,3,1,CTB,41.5
+08/01/14,Tektite,3,2,CTB,43.7
+08/01/14,Tektite,3,3,CTB,33.3
+08/01/14,Tektite,3,4,CTB,34.3
+08/01/14,Tektite,3,5,CTB,22.7
+08/01/14,Tektite,3,6,CTB,29.3
+08/01/14,Tektite,3,7,CTB,26.5
+08/01/14,Tektite,3,8,CTB,27.6
+08/01/14,Tektite,3,9,CTB,35.9
+08/01/14,Tektite,3,10,CTB,37.7
+08/01/15,Tektite,1,1,CTB,41
+08/01/15,Tektite,1,2,CTB,34.5
+08/01/15,Tektite,1,3,CTB,22
+08/01/15,Tektite,1,4,CTB,33.5
+08/01/15,Tektite,1,5,CTB,32
+08/01/15,Tektite,1,6,CTB,23.5
+08/01/15,Tektite,1,7,CTB,37.2
+08/01/15,Tektite,1,8,CTB,29
+08/01/15,Tektite,1,9,CTB,15
+08/01/15,Tektite,1,10,CTB,22
+08/01/15,Tektite,2,1,CTB,26
+08/01/15,Tektite,2,2,CTB,21.5
+08/01/15,Tektite,2,3,CTB,25.5
+08/01/15,Tektite,2,4,CTB,17
+08/01/15,Tektite,2,5,CTB,17.1
+08/01/15,Tektite,2,6,CTB,15
+08/01/15,Tektite,2,7,CTB,23
+08/01/15,Tektite,2,8,CTB,29
+08/01/15,Tektite,2,9,CTB,11
+08/01/15,Tektite,2,10,CTB,10.6
+08/01/15,Tektite,3,1,CTB,23.5
+08/01/15,Tektite,3,2,CTB,17.5
+08/01/15,Tektite,3,3,CTB,20.5
+08/01/15,Tektite,3,4,CTB,28
+08/01/15,Tektite,3,5,CTB,19.5
+08/01/15,Tektite,3,6,CTB,10.5
+08/01/15,Tektite,3,7,CTB,8.5
+08/01/15,Tektite,3,8,CTB,12
+08/01/15,Tektite,3,9,CTB,13.1
+08/01/15,Tektite,3,10,CTB,15.8
