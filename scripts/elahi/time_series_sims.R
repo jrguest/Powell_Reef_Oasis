@@ -17,128 +17,20 @@ library(ggplot2)
 library(dplyr)
 library(tidyr)
 
-##### EXAMPLES #####
-#http://stats.stackexchange.com/questions/99924/simulate-regression-data-with-dependent-variable-being-non-normally-distributed
+##' I want to simulate the following types of trends:
+##' stable (no trend), with variation Y fluctuating about a mean X
+##' positive trend with a mean of X
+##' negative trend with a mean of X
+##' oscillating trend with a mean of X
 
-set.seed(5840)  # this makes the example exactly reproducible
-N      <- 100
-x      <- rnorm(N)
-beta   <- 0.4
-errors <- rlnorm(N, meanlog=0, sdlog=1)
-errors <- -1*errors   # this makes them left skewed
-errors <- errors - 1  # this centers the error distribution on 0
-y      <- 1 + x*beta + errors
-plot(y ~ x)
+##' What am I calculating from a population of trends?
+##' average coral cover
+##' coefficient of variation
+##' slope
+##' intercept at time X (e.g., 1985?)
+##' 
 
-set.seed(5840)  # this makes the example exactly reproducible
-N      <- 100
-x      <- rnorm(N)
-beta   <- 0.4
-errors <- rweibull(N, shape=1.5, scale=1)
-# errors <- -1*errors   # this makes them left skewed
-errors <- errors - factorial(1/1.5)  # this centers the error distribution on 0
-y      <- 1 + x*beta + errors
-plot(y ~ x)
-
-# http://stackoverflow.com/questions/14554558/simulate-a-linear-model-100-times
-a <- 3
-B <- 0.5
-C <- -0.7
-
-results <- matrix(nrow=100,ncol=3)
-for (i in 1:100){
-  x1 <- rnorm(200, mean=0, sd=1)
-  x2 <- rnorm(200, mean=0, sd=1) 
-  e <- rnorm(200, mean=0, sd=1)
-  y1 <- a+B*x1+C*x2+e 
-  
-  y<- lm(y1~x1+x2)
-  results[i,] <- coef(y)
-}
-
-results
-
-
-
-x <- diffinv(rnorm(999))
-x
-
-##### ARIMA SIM #####
-
-ts.sim <- arima.sim(n = 63, list(ar = c(0.8897, -0.4858), ma = c(-0.2279, 0.2488)),
-          sd = sqrt(0.1796))
-plot(ts.sim)
-ts.plot(ts.sim)
-
-# mildly long-tailed
-ts.sim <- arima.sim(n = 63, list(ar = c(0.8897, -0.4858), ma = c(-0.2279, 0.2488)),
-          rand.gen = function(n, ...) sqrt(0.1796) * rt(n, df = 5))
-plot(ts.sim)
-
-# An ARIMA simulation
-ts.sim <- arima.sim(list(order = c(1,1,0), ar = 0.2), n = 200)
-ts.plot(ts.sim)
-
-arima(ts.sim)
-
-# An ARIMA simulation - white noise
-ts.sim <- arima.sim(list(order = c(0, 0, 0)), n = 200)
-ts.plot(ts.sim)
-
-# Other...
-x <- arima.sim(list(order = c(1,0,2), ar = -0.5 , ma=c(0.5, -0.7)), 
-               sd=sqrt(0.25), n = 1000)
-ts.plot(x)
-arima(x)
-
-##' package stsm
-# generate a quarterly series from a local level plus seasonal model
-library(stsm)
-
-pars <- c(var1 = 300, var2 = 10, var3 = 100)
-m <- stsm.model(model = "llm+seas", y = ts(seq(120), frequency = 4), 
-                pars = pars, nopars = NULL)
-ss <- char2numeric(m)
-set.seed(123)
-y <- datagen.stsm(n = 120, model = list(Z = ss$Z, T = ss$T, H = ss$H, Q = ss$Q), 
-                  n0 = 20, freq = 4, old.version = TRUE)$data
-plot(y, main = "data generated from the local-level plus seasonal component")
-
-
-
-pars <- c(var1 = 300, var2 = 10, var3 = 100)
-m <- stsm.model(model = "local-trend", y = ts(seq(30), frequency = 1), 
-                pars = pars, nopars = NULL)
-ss <- char2numeric(m)
-set.seed(123)
-y <- datagen.stsm(n = 30, model = list(Z = ss$Z, T = ss$T, H = ss$H, Q = ss$Q), 
-                  n0 = 20, freq = 1, old.version = TRUE)$data
-plot(y, main = "")
-
-plot(ts(seq(20), frequency = 4))
-
-
-ts(1:10, frequency = 4, start = c(1959, 2)) # 2nd Quarter of 1959
-print( ts(1:10, frequency = 7, start = c(12, 2)), calendar = TRUE)
-# print.ts(.)
-## Using July 1954 as start date:
-gnp <- ts(cumsum(1 + round(rnorm(100), 2)),
-          start = c(1954, 7), frequency = 12)
-gnp
-plot(gnp) # using 'plot.ts' for time-series plot
-
-## Multivariate
-z <- ts(matrix(rnorm(300), 100, 3), start = c(1961, 1), frequency = 12)
-class(z)
-head(z) # as "matrix"
-plot(z)
-plot(z, plot.type = "single", lty = 1:3)
-
-## A phase plot:
-plot(nhtemp, lag(nhtemp, 1), cex = .8, col = "blue",
-     main = "Lag plot of New Haven temperatures")
-
-##### MODIFY FOR CORAL COVER TIME SERIES #####
+##### EXAMPLE FOR CORAL COVER TIME SERIES #####
 
 ##' cc = coral cover
 ##' cc_sd = sd of cover
@@ -147,14 +39,17 @@ plot(nhtemp, lag(nhtemp, 1), cex = .8, col = "blue",
 ##' slope = slope of temporal trend
 ##' intercept = intercept of temporal trend
 
+###### STABLE ######
 
 ## White noise around a mean of coral cover
 cc = 30
 cc_sd = 3
 yrs = 30
 w = rnorm(yrs, mean = cc, sd = cc_sd) 
+w
 plot.ts(w)
 
+## Function to return a time series with random variation about a mean coral cover
 stable_simF <- function(cc = 30, cc_sd = 3, yrs = 30){
   w = rnorm(yrs, mean = cc, sd = cc_sd)
 }
@@ -162,23 +57,108 @@ stable_simF <- function(cc = 30, cc_sd = 3, yrs = 30){
 stable_df <- as.data.frame(replicate(5, stable_simF())) %>%
   mutate(year = seq(1:yrs)) %>% 
   gather(key = "ID", value = "cover", V1:V5)
+
 stable_df %>% 
   ggplot(aes(year, cover, color = ID)) + 
   geom_point() + geom_line()
 
+###### LINEAR TREND ######
 
-
-## Linear trend
+## Assign state variables
+# Mean coral cover
+cc = 30
+# Standard deviation of coral cover
 cc_sd = 3
-w = rnorm(yrs, mean = 0, sd = cc_sd) 
-slope = -1
-intercept = 40
+# Number of years
+yrs = 30
+# Linear trend
+trend = 0
+# Standard deviation of trend
+trend_sd = 1
 
-x = seq(1:N)
+## Random variation for each time point
+w = rnorm(yrs, mean = 0, sd = cc_sd) 
+
+## Random value for slope (mean = 0, sd = 1)
+slope = rnorm(1, mean = trend, sd = trend_sd)
+
+## Random value for intercept
+intercept = rnorm(1, cc, sd = cc_sd)
+
+x = seq(1:yrs)
 y = slope * x + intercept + w
 plot.ts(y)
 mean(y)
 summary(lm(y ~ x))
+
+##' For each simulation, need to:
+##' 1) assign 1 slope (at random)
+##' 2) assign 1 intercept (at random)
+##' 3) assign N yrs of random variation at each time point
+##' 4) calculate cover using slope, intercept, and random variation
+
+
+# Mean coral cover
+coral_cover = 30
+# Standard deviation of coral cover
+coral_cover_sd = 3
+# Number of years
+number_yrs = 30
+# Linear trend
+linear_trend = 0
+# Standard deviation of trend
+linear_trend_sd = 1
+
+## Function to return a time series with a trend
+
+x = seq(1:yrs)
+
+linear_simF <- function(cc = coral_cover, cc_sd = coral_cover_sd, yrs = number_yrs, 
+                        trend = linear_trend, trend_sd = linear_trend_sd){
+  
+  ## Random variation for each time point
+  w <- rnorm(yrs, mean = 0, sd = cc_sd) 
+  
+  ## Random value for slope (mean = 0, sd = 1)
+  slope <- rnorm(1, mean = trend, sd = trend_sd)
+  
+  ## Random value for intercept
+  intercept <- rnorm(1, cc, sd = cc_sd)
+  
+  ## Get time series
+  y <- slope * x + intercept + w
+  
+  ## Assemble data frame
+  sim_df <- data.frame(year = 1:number_yrs, 
+                       w = w, slope = slope, intercept = intercept, 
+                       y = y)
+  
+  sim_df
+  
+  return(sim_df)
+}
+
+linear_simF()
+
+
+sim_df <- data.frame(sim = as.character(seq(1:100)))
+
+sim_df2 <- sim_df %>% group_by(sim) %>% 
+  do(linear_simF()) %>% ungroup()
+
+sim_df2 %>% 
+  ggplot(aes(year, y, color = sim)) + 
+  geom_hline(yintercept = 0) + 
+  geom_point() + geom_line() + 
+  theme(legend.position = "none")
+
+##' NEXT STEPS
+##' (1) NEED TO BOUND CORAL COVER AT ZERO PERCENT - ALLOW RECRUITMENT FROM OUTSIDE?
+##' (2) VARY THE STARTING CORAL COVER
+##' (3) CYCLES
+
+
+###### CYCLES ######
 
 ## Cycles
 period = 15
