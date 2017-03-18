@@ -257,9 +257,19 @@ tsl %>%
   ggtitle("Starting with high percent coral cover (mean = 30%)") + 
   theme(legend.position = "none")
 
-ggsave("figures/trend_scenarios.png", height = 3.5, width = 7)
+#ggsave("figures/trend_scenarios.png", height = 3.5, width = 7)
 
 ##' NEXT STEPS
 ##' (1) NEED TO BOUND CORAL COVER AT ZERO PERCENT - ALLOW RECRUITMENT FROM OUTSIDE?
 ##' (2) VARY THE STARTING CORAL COVER
+
+
+##' James wants these scenarios
+##' 1. Stable
+##' 2. U-shaped recovery
+##' 3. Linear decline
+##' 4. Abrupt decline/phase shift
+
+
+
 

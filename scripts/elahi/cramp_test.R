@@ -16,12 +16,15 @@ rm(list=ls(all=TRUE))
 library(ggplot2)
 library(dplyr)
 library(readr)
-library(lubridate)
+library(tidyr)
+library(broom)
 
 dat <- read.csv("data_derived/CRAMP_MHI_corcov.csv", 
                 stringsAsFactors = FALSE)
 head(dat)
 summary(dat)
+str(dat)
+glimpse(dat)
 
 dat %>% 
   ggplot(aes(Year, Stony_coral, color = Site)) + 
@@ -38,11 +41,12 @@ grand_means <- dat %>% group_by(Island, Site) %>%
             n = n(), 
             cv = sd/mean, 
             stability = 1/cv) %>% ungroup()
+summary(grand_means)
 
 grand_means2 <- grand_means %>% 
-  mutate(mean_z = scale(mean), 
-         cv_z = scale(cv))
-
+  mutate(mean_z = scale(mean)[,1], 
+         cv_z = scale(cv)[,1])
+glimpse(grand_means2)
 summary(grand_means2)
 
 grand_means2 %>% 
@@ -75,9 +79,6 @@ ggsave("figures/cramp_var_vs_mean.png", height = 5, width = 5)
 head(dat)
 summary(dat)
 
-library(tidyr)
-library(broom)
-
 # Function to calculate linear trend
 get_lin_fit <- function(dat, offset = 0) {
   the_fit <- lm(Stony_coral ~ I(Year - offset), dat)
@@ -92,18 +93,42 @@ site_lm_fits <- dat %>%
   group_by(Site) %>% 
   do(get_lin_fit(.))
 site_lm_fits
+summary(site_lm_fits)
 
 # Attach to means
 
 grand_means3 <- left_join(grand_means2, site_lm_fits, by = "Site") %>%
   mutate(lm_sig = ifelse(p.value < 0.05, "sig", "ns"), 
-         lm_dir = ifelse(estimate < 0, "negative", "positive"))
+         lm_dir = ifelse(estimate < 0, "negative", "positive"), 
+         oasis = ifelse(cv_z > 1 & mean_z > 0, "oasis_variable", 
+                        ifelse(cv_z < 1 & mean_z > 1, "oasis_stable", 
+                               "not_oasis")))
 
-grand_means3 %>% 
-  ggplot(aes(estimate, fill = lm_sig)) + 
-  geom_histogram(bins = 30)
+grand_means3
+summary(grand_means2)
+glimpse(grand_means3)
 
 
+## Attach oasis results to raw data
+
+dat2 <- grand_means3 %>% select(Site, mean_z, lm_sig:oasis) %>% 
+  left_join(dat, ., by = "Site") %>% 
+  mutate(Site2 = reorder(Site, desc(mean_z)))
+names(dat2)
+glimpse(dat2)
+summary(dat2)
+str(dat2)
+
+mean_cover = mean(dat2$Stony_coral)
+
+dat2 %>% 
+  filter(oasis != "not_oasis") %>% 
+  ggplot(aes(Year, Stony_coral, color = lm_sig)) + 
+  geom_line(alpha = 0.5) + geom_point() + 
+  facet_wrap(oasis ~ Site2) + 
+  geom_hline(yintercept = mean_cover, color = "black", linetype = "dashed")
+
+ggsave("figures/cramp_var_vs_mean_2ts.png")
 
 ##### GET A SURFACE TO DEFINE OASES #####
 grand_means2
