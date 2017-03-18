@@ -42,6 +42,24 @@ sim_df_stable %>%
 
 stable_mean = quantile(sim_df_stable$y, probs = 0.99)
 
+##### SIMULATE PHASE SHIFT #####
+
+# Run simulations
+# Then replace negative values with 0
+sim_df2 <- sim_df %>% group_by(sim) %>% 
+  do(phase_shift_simF()) %>% ungroup() %>% 
+  mutate(y = ifelse(y < 0, 0, y))
+
+# Rename dataset and add column for scenario
+sim_df_phase_shift <- sim_df2 %>% 
+  mutate(scenario = "Phase_shift")
+
+sim_df_phase_shift %>% 
+  slice(1:270) %>% 
+  ggplot(aes(year, y)) + 
+  geom_line(alpha = 0.5) + geom_point() + 
+  facet_wrap(~ sim)
+
 ##### SIMULATE LINEAR TRENDS #####
 
 # Need to specify slope - I want mostly negative trends
@@ -56,7 +74,7 @@ sim_df2 <- sim_df %>% group_by(sim) %>%
   do(linear_simF()) %>% ungroup() %>% 
   mutate(y = ifelse(y < 0, 0, y), 
          y = ifelse(y > stable_mean, 
-                    runif(1, min = 0.5*stable_mean, max = 1.5*stable_mean), 
+                    runif(1, min = 0.75*stable_mean, max = stable_mean), 
                     y))
 
 sim_df2 %>% slice(1:300) %>% 
@@ -92,7 +110,7 @@ sim_df2 <- sim_df %>% group_by(sim) %>%
   do(non_linear_simF()) %>% ungroup() %>% 
   mutate(y = ifelse(y < 0, 0, y), 
          y = ifelse(y > stable_mean, 
-                    runif(1, min = 0.5*stable_mean, max = 1.5*stable_mean), 
+                    runif(1, min = 0.75*stable_mean, max = stable_mean), 
                     y))
 
 sim_df2 %>% slice(1:300) %>% 
@@ -106,6 +124,6 @@ sim_df_osc <- sim_df2 %>%
   mutate(scenario = "Oscillations")
 
 ##### COMBINE DATASETS AND SAVE #####
-sim_df <- rbind(sim_df_stable, sim_df_linear, sim_df_osc)
+sim_df <- rbind(sim_df_stable, sim_df_phase_shift, sim_df_linear, sim_df_osc)
 write.csv(sim_df, "scripts/elahi/coral_sims/output_sims/sim_df.csv")
 

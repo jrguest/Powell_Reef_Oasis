@@ -66,18 +66,20 @@ grand_means3 %>%
   geom_point() + 
   facet_wrap(~ scenario)
 
+ggsave("scripts/elahi/coral_sims/figs_sims/oasis_z_plot_facet.png")
+
 ##### TIME SERIES PLOTS #####
 
 sim_df3 <- sim_df2 %>% arrange(sim, scenario, year)
 
 sim_df3 %>% 
-  slice(1:900) %>% 
+  slice(1:1200) %>% 
   ggplot(aes(year, y, color = oasis)) + 
   geom_line(alpha = 1) + #geom_point(alpha = 0.5) + 
   geom_hline(yintercept = mean_cover, color = "black", linetype = "dashed") + 
-  #facet_grid(sim ~ scenario) + 
   facet_grid(scenario ~ sim) + 
-  ylab("Coral cover (%)")
+  ylab("Coral cover (%)") + 
+  theme(legend.position = "top")
 
 ggsave("scripts/elahi/coral_sims/figs_sims/scenario_time_series.png")
 
