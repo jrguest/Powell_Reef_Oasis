@@ -22,10 +22,19 @@ sim_df <- read.csv("scripts/elahi/coral_sims/output_sims/sim_df.csv") %>% tbl_df
 str(sim_df)
 sim_df
 
+n_sims = length(unique(sim_df$sim))
+
 ##### TAKE RANDOM SUBSAMPLES OF DATA TO TEST THE EFFECT OF SAMPLE SIZE #####
 
-# FOR LATER
+samp1 <- sim_df %>% 
+  group_by(sim, scenario) %>% 
+  sample_n(1) 
 
+sample_size = 10 # of each scenario
+random_vector <- sample(x = seq(1,n_sims,1), size = sample_size, replace = FALSE)
+sort(random_vector)
+
+#sim_df <- sim_df[sim_df$sim %in% random_vector, ]
 
 ##### CALCULATE SUMMARY STATISTICS #####
 

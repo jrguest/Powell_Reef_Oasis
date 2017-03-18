@@ -42,7 +42,7 @@ grand_means3 %>%
 ##### OASIS Z PLOTS #####
 
 grand_means3 %>% 
-  filter(cv_z < 8) %>% 
+  #filter(cv_z < 8) %>% 
   ggplot(aes(mean_z, cv_z, color = scenario)) + 
   geom_hline(yintercept = 0, linetype = "solid", color = "black") + 
   geom_vline(xintercept = 0, linetype = "solid", color = "black") + 
@@ -82,4 +82,3 @@ sim_df3 %>%
 ggsave("scripts/elahi/coral_sims/figs_sims/scenario_time_series.png")
 
 
-#ggsave("scripts/elahi/coral_sims/figs_sims/scenario_time_series.png", height = 5, width = 10)

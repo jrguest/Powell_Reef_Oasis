@@ -40,6 +40,8 @@ sim_df_stable %>%
   geom_line(alpha = 0.5) + geom_point() + 
   facet_wrap(~ sim)
 
+stable_mean = quantile(sim_df_stable$y, probs = 0.99)
+
 ##### SIMULATE LINEAR TRENDS #####
 
 # Need to specify slope - I want mostly negative trends
@@ -52,7 +54,16 @@ linear_trend_sd = 0.5
 # Then replace negative values with 0
 sim_df2 <- sim_df %>% group_by(sim) %>% 
   do(linear_simF()) %>% ungroup() %>% 
-  mutate(y = ifelse(y < 0, 0, y))
+  mutate(y = ifelse(y < 0, 0, y), 
+         y = ifelse(y > stable_mean, 
+                    runif(1, min = 0.5*stable_mean, max = 1.5*stable_mean), 
+                    y))
+
+sim_df2 %>% slice(1:300) %>% 
+  ggplot(aes(year, y)) + 
+  geom_point() + geom_line() + 
+  theme(legend.position = "none") + 
+  facet_wrap(~ sim)
 
 # Rename dataset and add column for scenario
 sim_df_linear <- sim_df2 %>% 
@@ -65,31 +76,36 @@ sim_df_linear <- sim_df2 %>%
 # Linear trend
 linear_trend = 0
 # Standard deviation of trend
-linear_trend_sd = 0
+linear_trend_sd = 0.5
 
 ## Choose periodicity
 # Periodicity (years) [for a 30 yr time series, a period of 30 results in a U]
 period_yrs = 40
 # SD of periodicity (years) 
 period_yrs_sd = 10
+# Amplitude 
+amp = 15
 
 # Run simulations
 # Then replace negative values with 0
 sim_df2 <- sim_df %>% group_by(sim) %>% 
   do(non_linear_simF()) %>% ungroup() %>% 
-  mutate(y = ifelse(y < 0, 0, y))
+  mutate(y = ifelse(y < 0, 0, y), 
+         y = ifelse(y > stable_mean, 
+                    runif(1, min = 0.5*stable_mean, max = 1.5*stable_mean), 
+                    y))
 
-# Rename dataset and add column for scenario
-sim_df_osc <- sim_df2 %>% 
-  mutate(scenario = "Oscillations")
-
-##### COMBINE DATASETS AND SAVE #####
 sim_df2 %>% slice(1:300) %>% 
   ggplot(aes(year, y)) + 
   geom_point() + geom_line() + 
   theme(legend.position = "none") + 
   facet_wrap(~ sim)
 
+# Rename dataset and add column for scenario
+sim_df_osc <- sim_df2 %>% 
+  mutate(scenario = "Oscillations")
+
+##### COMBINE DATASETS AND SAVE #####
 sim_df <- rbind(sim_df_stable, sim_df_linear, sim_df_osc)
 write.csv(sim_df, "scripts/elahi/coral_sims/output_sims/sim_df.csv")
 
