@@ -17,38 +17,59 @@ library(tidyr)
 library(readr)
 library(broom)
 
-sim_df <- read.csv("scripts/elahi/coral_sims/output_sims/sim_df.csv") %>% tbl_df() %>%
-  select(-X)
+sim_df <- read.csv("scripts/elahi/coral_sims/output_sims/sim_df.csv") %>% 
+  tbl_df() %>% select(-X)
 str(sim_df)
 sim_df
 
 n_sims = length(unique(sim_df$sim))
 
+sim_df %>% filter(scenario == "Linear") %>% 
+  select(slope) %>% unlist(use.names = TRUE) %>% summary()
+
+sim_df %>% #filter(year == 1) %>% 
+  ggplot(aes(y)) +
+  geom_histogram()
+
 ##### TAKE RANDOM SUBSAMPLES OF DATA TO TEST THE EFFECT OF SAMPLE SIZE #####
 
-samp1 <- sim_df %>% 
-  group_by(sim, scenario) %>% 
-  sample_n(1) 
+# How many simulations total?
+n_sims = 400
+i = 1
+i_vec <- rep(i,30)
+for(i in 2:n_sims){
+  i_new <- rep(i, 30)
+  i_vec <- c(i_vec, i_new)
+}
 
-sample_size = 10 # of each scenario
-random_vector <- sample(x = seq(1,n_sims,1), size = sample_size, replace = FALSE)
-sort(random_vector)
+sim_df$sim_total <- i_vec
+sim_df
 
-#sim_df <- sim_df[sim_df$sim %in% random_vector, ]
+# Get random samples
+n_random = 100
+set.seed(203)
+random_sims <- sample(x = 1:n_sims, size = n_random, replace = FALSE)
+
+# Now subset the data
+sim_df_sub <- sim_df[sim_df$sim_total %in% random_sims, ]
+sim_df_sub %>% group_by(scenario) %>% tally()
 
 ##### CALCULATE SUMMARY STATISTICS #####
 
+# What am I going to summarise?
+
 grand_means <- sim_df %>% 
-  #filter(scenario != "Stable") %>% 
   group_by(sim, scenario) %>% 
   summarise(mean = mean(y), 
+            median = median(y), 
             sd = sd(y), 
             n = n(), 
-            cv = sd/mean) %>% ungroup()
+            cv = sd/mean * 100) %>% ungroup()
 summary(grand_means)
 
 grand_means2 <- grand_means %>% 
   mutate(mean_z = scale(mean)[,1], 
+         med_z = scale(median)[,1], 
          cv_z = scale(cv)[,1])
 
 ##### GET LONG-TERM TRENDS #####
@@ -76,14 +97,51 @@ grand_means3 <- left_join(grand_means2, site_lm_fits, by = c("sim", "scenario"))
                         ifelse(cv_z < 1 & mean_z > 1, "oasis_stable", 
                                "not_oasis")))
 
-## Attach oasis results to raw data
+##### GET PERCENTAGE OF TIME ABOVE MEAN #####
+head(sim_df)
+summary(sim_df)
 
-sim_df2 <- grand_means3 %>% select(sim, scenario, mean_z, lm_sig:oasis) %>% 
-  left_join(sim_df, ., c("sim", "scenario")) %>% 
+## I need to know the mean coral cover for each time-location
+yr_means <- sim_df %>% group_by(year, scenario) %>% 
+  summarise(yr_mean = mean(y)) %>% ungroup()
+  
+# Attach to raw data
+sim_df2 <- left_join(sim_df, yr_means, by = c("year", "scenario"))
+
+sim_df2 <- sim_df2 %>% 
+  mutate(above_mean = ifelse(y > yr_mean, 1, 0))
+
+above_mean_df <- sim_df2 %>% 
+  group_by(sim, scenario) %>% 
+  summarise(percent_above = sum(above_mean)/30) %>% 
+  ungroup()
+
+## attach to grand_means3
+grand_means4 <- left_join(grand_means3, above_mean_df, by = c("sim", "scenario")) %>% 
+  mutate(sim_total = seq(from = 1, to = n_sims * 4, 1))
+  
+
+## Attach oasis results to raw data
+sim_df3 <- grand_means4 %>% 
+  select(sim, sim_total, scenario, cv, med_z, mean_z, lm_sig:oasis) %>% 
+  left_join(sim_df2, ., c("sim", "scenario")) %>% 
   mutate(sim2 = reorder(sim, desc(mean_z)))
 
-mean_cover = mean(sim_df2$y)
+mean_cover_df <- sim_df3 %>% 
+  group_by(year) %>%
+  summarise(y_mean = mean(y))
 
+##### CLUSTERING #####
+names(grand_means4)
+grand_means4
 
+set.seed(20)
 
+cluster_dat <- grand_means4 %>% 
+  select(mean_z, cv)
+
+sim_cluster <- kmeans(cluster_dat, centers = 4, nstart = 20)
+
+grand_means4$cluster = factor(sim_cluster$cluster)
+centers = as.data.frame(sim_cluster$centers)
 

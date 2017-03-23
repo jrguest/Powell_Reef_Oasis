@@ -11,58 +11,63 @@
 #rm(list=ls(all=TRUE))
 
 source("scripts/elahi/coral_sims/2_summarise_data.R")
+source("scripts/elahi/coral_sims/multiplotF.R")
+library(RColorBrewer)
+library(gridExtra)
+library(grid)
 
-sim_df2
-grand_means3
+theme_set(theme_bw(base_size = 12))
 
-##### BOX PLOTS #####
+plot_dat <- grand_means4
+names(plot_dat)
+summary(plot_dat)
 
-grand_means3 %>% 
-  ggplot(aes(scenario, mean)) + 
-  geom_boxplot()
-
-grand_means3 %>% 
-  ggplot(aes(scenario, cv)) + 
-  geom_boxplot()
-
-##### FREQUENCY PLOTS #####
-
-grand_means3 %>% 
-  ggplot(aes(mean_z)) + 
-  geom_histogram(binwidth = 0.1) + 
-  geom_vline(xintercept = 1, linetype = "dashed", color = "darkgray") + 
-  xlab("Coral cover (z-score)")
-
-grand_means3 %>% 
-  ggplot(aes(cv_z)) + 
-  geom_histogram(binwidth = 0.1) + 
-  geom_vline(xintercept = 1, linetype = "dashed", color = "darkgray") + 
-  xlab("Coral cover variability (z-score)")
+## Get colors for scenarios
+scenarios <- unique(plot_dat$scenario)
+cb_pal_scenario <- c("#D55E00", "#E69F00", "#56B4E9", "#009E73")
+names(cb_pal_scenario) <- scenarios
+col_scale_scenario <- scale_colour_manual(name = "scenario", values = cb_pal_scenario)
+  
 
 ##### OASIS Z PLOTS #####
 
-grand_means3 %>% 
-  #filter(cv_z < 8) %>% 
-  ggplot(aes(mean_z, cv_z, color = scenario)) + 
-  geom_hline(yintercept = 0, linetype = "solid", color = "black") + 
-  geom_vline(xintercept = 0, linetype = "solid", color = "black") + 
+plot_dat %>% 
+  ggplot(aes(med_z, cv, color = scenario)) + 
   xlab("Long-term mean coral cover (z-score)") + 
-  ylab("Temporal variability in coral cover (z-score)") + 
-  geom_hline(yintercept = 1, linetype = "dashed", color = "gray") + 
-  geom_vline(xintercept = 1, linetype = "dashed", color = "gray") + 
-  geom_point(alpha = 0.7) 
+  ylab("Temporal variability in coral cover (CV)") + 
+  annotate("rect", xmin = -2, xmax = -1, ymin = 100, ymax = 150,
+           alpha = 0, color = "gray", linetype = "solid") +
+  annotate("rect", xmin = -2, xmax = -1, ymin = 50, ymax = 100,
+           alpha = 0, color = "gray") +
+  annotate("rect", xmin = -2, xmax = -1, ymin = 0, ymax = 50,
+           alpha = 0, color = "gray") +
+  annotate("rect", xmin = -1, xmax = -0, ymin = 50, ymax = 100,
+           alpha = 0, color = "gray") +
+  annotate("rect", xmin = 0, xmax = 1, ymin = 50, ymax = 100,
+           alpha = 0, color = "gray") +
+  annotate("rect", xmin = 1, xmax = 2, ymin = 0, ymax = 50,
+           alpha = 0, color = "gray") +
+  annotate("rect", xmin = 0, xmax = 1, ymin = 0, ymax = 50,
+           alpha = 0, color = "gray") +
+  annotate("rect", xmin = -1, xmax = 0, ymin = 0, ymax = 50,
+           alpha = 0, color = "gray") +
+  annotate("rect", xmin = -1, xmax = -2, ymin = 0, ymax = 50,
+           alpha = 0, color = "gray") +
+  geom_point(alpha = 0.75) + 
+  col_scale_scenario + 
+  theme(legend.position = c(1,1), legend.justification = c(1.25, 1.25), 
+        legend.title = element_blank()) + 
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 
 ggsave("scripts/elahi/coral_sims/figs_sims/oasis_z_plot.png")
+ggsave("scripts/elahi/coral_sims/figs_sims/oasis_z_plot.pdf")
 
 
-grand_means3 %>% 
-  ggplot(aes(mean_z, cv_z, color = lm_sig, shape = lm_dir)) + 
-  geom_hline(yintercept = 0, linetype = "solid", color = "black") + 
-  geom_vline(xintercept = 0, linetype = "solid", color = "black") + 
+plot_dat %>% 
+  ggplot(aes(med_z, cv, color = lm_sig, shape = lm_dir)) + 
+  geom_vline(xintercept = 0, linetype = "dashed", color = "gray") + 
   xlab("Long-term mean coral cover (z-score)") + 
   ylab("Temporal variability in coral cover (z-score)") + 
-  geom_hline(yintercept = 1, linetype = "dashed", color = "gray") + 
-  geom_vline(xintercept = 1, linetype = "dashed", color = "gray") + 
   geom_point() + 
   facet_wrap(~ scenario)
 
@@ -70,17 +75,243 @@ ggsave("scripts/elahi/coral_sims/figs_sims/oasis_z_plot_facet.png")
 
 ##### TIME SERIES PLOTS #####
 
-sim_df3 <- sim_df2 %>% arrange(sim, scenario, year)
+sim_df4 <- sim_df3 %>% arrange(sim, scenario, year)
 
-sim_df3 %>% 
+sim_df4 %>% 
   slice(1:1200) %>% 
-  ggplot(aes(year, y, color = oasis)) + 
-  geom_line(alpha = 1) + #geom_point(alpha = 0.5) + 
-  geom_hline(yintercept = mean_cover, color = "black", linetype = "dashed") + 
+  ggplot(aes(year, y)) + 
+  geom_line(alpha = 1, color = 'red') + 
   facet_grid(scenario ~ sim) + 
   ylab("Coral cover (%)") + 
-  theme(legend.position = "top")
+  theme(legend.position = "top") + 
+  theme(strip.background = element_blank()) + 
+  geom_line(aes(year, y_mean), alpha = 0.75, 
+            data = mean_cover_df, color = "black", linetype = "solid")
 
 ggsave("scripts/elahi/coral_sims/figs_sims/scenario_time_series.png")
 
+##### BOX PLOTS #####
+
+plot_dat %>% 
+  ggplot(aes(scenario, mean)) + 
+  geom_boxplot()
+
+plot_dat %>% 
+  ggplot(aes(scenario, cv)) + 
+  geom_boxplot()
+
+##### FREQUENCY PLOTS #####
+
+plot_dat %>% 
+  ggplot(aes(mean_z)) + 
+  geom_histogram(binwidth = 0.2) + 
+  geom_vline(xintercept = 1, linetype = "dashed", color = "darkgray") + 
+  xlab("Coral cover (z-score)")
+
+plot_dat %>% 
+  ggplot(aes(cv)) + 
+  geom_histogram(binwidth = 10) + 
+  geom_vline(xintercept = 1, linetype = "dashed", color = "darkgray") + 
+  xlab("Coral cover variability (CV)")
+
+##### PICK REPRESENTATIVE SITES #####
+
+##' Escape reef (stable positive)
+##' Rebound reef (phase shift)
+##' Crap reef (stable negative)
+##' (non-linear decline)
+
+plot_dat %>% 
+  ggplot(aes(med_z, cv, color = scenario)) + 
+  geom_vline(xintercept = 0, linetype = "dashed", color = "gray") + 
+  xlab("Long-term mean coral cover (z-score)") + 
+  ylab("Temporal variability in coral cover (CV)") + 
+  geom_text(data = plot_dat,  
+            aes(label = sim_total), size = 2.5, check_overlap = TRUE, 
+            vjust = 0, nudge_y = 3) + 
+  annotate("rect", xmin = -2, xmax = -1, ymin = 100, ymax = 150,
+           alpha = 0, color = "black") +
+  annotate("rect", xmin = -2, xmax = -1, ymin = 50, ymax = 100,
+           alpha = 0, color = "black") +
+  annotate("rect", xmin = -2, xmax = -1, ymin = 0, ymax = 50,
+           alpha = 0, color = "black") +
+  annotate("rect", xmin = -1, xmax = -0, ymin = 50, ymax = 100,
+           alpha = 0, color = "black") +
+  annotate("rect", xmin = 0, xmax = 1, ymin = 50, ymax = 100,
+           alpha = 0, color = "black") +
+  annotate("rect", xmin = 1, xmax = 2, ymin = 0, ymax = 50,
+           alpha = 0, color = "black") +
+  annotate("rect", xmin = 0, xmax = 1, ymin = 0, ymax = 50,
+           alpha = 0, color = "black") +
+  annotate("rect", xmin = -1, xmax = 0, ymin = 0, ymax = 50,
+         alpha = 0, color = "black") +
+  annotate("rect", xmin = -1, xmax = -2, ymin = 0, ymax = 50,
+           alpha = 0, color = "black") +
+  geom_point(alpha = 0.5) 
+
+ggsave("scripts/elahi/coral_sims/figs_sims/oasis_z_plot_boxes.png")
+
+## Get time-series for each box
+box1 = c(113, 378, 83)
+box2 = c(101, 139, 334)
+box3 = c(138, 259)
+box4 = c(6, 95)
+box5 = c(181, 102, 203, 20)
+box6 = c(169, 186, 63, 200)
+box7 = c(129, 94, 31, 312)
+box8 = c(377, 54, 148)
+
+## Get needed items for the loop
+box_list <- list(box1, box2, box3, box4, 
+                 box5, box6, box7, box8)
+
+box_names <- c("box1", "box2", "box3", "box4", 
+               "box5", "box6", "box7", "box8")
+
+box_names_length <- length(box_list)
+
+i = 1
+box_i <- box_list[[i]]
+box_name_i <- box_names[i]
+box_i_df <- sim_df3[sim_df3$sim_total %in% box_i, ]
+box_i_df$box <- box_name_i
+
+box_df <- box_i_df
+box_results <- vector("list", box_names_length)
+
+for(i in 1:box_names_length){
+  
+  box_i <- box_list[[i]]
+  box_name_i <- box_names[i]
+  box_i_df <- sim_df3[sim_df3$sim_total %in% box_i, ]
+  box_i_df$box <- box_name_i
+  
+  plot_box <- box_i_df %>% 
+    ggplot(aes(year, y)) + 
+    ylab("") + xlab("") + 
+    scale_y_continuous(limits = c(0, 60)) + 
+    theme(legend.position = "none") + 
+    geom_line(aes(year, y_mean), alpha = 0.75, 
+              data = mean_cover_df, color = "black", linetype = "solid") + 
+    geom_line(alpha = 0.8, aes(group = sim2, color = scenario), 
+              size = 1.25) + 
+    col_scale_scenario + 
+    theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+  
+  box_results[[i]] <- plot_box
+}
+
+box_results[[1]]
+
+
+##### USE GRID ARRANGE TO CREATE PANEL B #####
+
+hlay <- rbind(c(1,NA,NA,NA),
+              c(2,3,4,NA),
+              c(5,6,7,8))
+
+
+pdf("scripts/elahi/coral_sims/figs_sims/box_time_series_panels.pdf", 
+    width = 10, height = 7)
+grid.arrange(grobs = box_results, layout_matrix = hlay)
+dev.off()
+
+
+
+##### OLD CRAP #####
+##### OLD CRAP #####
+##### OLD CRAP #####
+
+## DECLINE (LINEAR)
+linear_decline <- sim_df3 %>% 
+  filter(med_z < -1) %>% 
+  filter(cv > 100 & cv < 150)
+unique(linear_decline$sim2)
+
+linear_decline %>% 
+  ggplot(aes(year, y, color = sim2)) + 
+  geom_hline(yintercept = mean_cover, color = "gray", linetype = "dashed") + 
+  geom_line(alpha = 0.5) + 
+  ylab("Coral cover (%)") + 
+  scale_y_continuous(limits = c(0, 60)) + 
+  theme(legend.position = "none")
+
+## REBOUND
+rebound <- sim_df3 %>% 
+  filter(med_z > 0 & med_z < 1) %>% 
+  filter(cv > 50 & cv < 100) %>% 
+  filter(scenario == "Oscillations")
+
+rebound %>% 
+  ggplot(aes(year, y, color = sim2)) + 
+  geom_hline(yintercept = mean_cover, color = "gray", linetype = "dashed") + 
+  geom_line(alpha = 0.5) + 
+  ylab("Coral cover (%)") + 
+  scale_y_continuous(limits = c(0, 60)) + 
+  theme(legend.position = "none")
+
+## RESTORATION
+restoration <- sim_df3 %>% 
+  filter(med_z > 0 & med_z < 1) %>% 
+  filter(cv > 50 & cv < 100) %>% 
+  filter(scenario == "Phase_shift")
+
+restoration %>% 
+  ggplot(aes(year, y, color = sim2)) + 
+  geom_hline(yintercept = mean_cover, color = "gray", linetype = "dashed") + 
+  geom_line(alpha = 0.5) + 
+  ylab("Coral cover (%)") + 
+  scale_y_continuous(limits = c(0, 60)) + 
+  theme(legend.position = "none") + 
+  geom_point()
+
+## STABLE HIGH
+stable_high <- sim_df3 %>% 
+  filter(med_z > 1 & med_z < 2) %>% 
+  filter(cv > 0 & cv < 50) %>% 
+  filter(scenario == "Stable")
+
+stable_high %>% 
+  ggplot(aes(year, y, color = sim2)) + 
+  geom_hline(yintercept = mean_cover, color = "gray", linetype = "dashed") + 
+  geom_line(alpha = 0.5) + 
+  ylab("Coral cover (%)") + 
+  scale_y_continuous(limits = c(0, 60)) + 
+  theme(legend.position = "none")
+
+## STABLE LOW
+stable_low <- sim_df3 %>% 
+  filter(med_z > -2 & med_z < -1) %>% 
+  filter(cv > 0 & cv < 50) %>% 
+  filter(scenario == "Stable")
+
+stable_low %>% 
+  ggplot(aes(year, y, color = sim2)) + 
+  geom_hline(yintercept = mean_cover, color = "gray", linetype = "dashed") + 
+  geom_line(alpha = 0.5) + 
+  ylab("Coral cover (%)") + 
+  scale_y_continuous(limits = c(0, 60)) + 
+  theme(legend.position = "none")
+
+
+##### OASIS % PLOTS #####
+
+plot_dat %>% 
+  ggplot(aes(mean_z, percent_above, color = scenario)) + 
+  xlab("Long-term mean coral cover (z-score)") + 
+  ylab("Proportion of years above mean") + 
+  geom_vline(xintercept = 0, linetype = "dashed", color = "gray") + 
+  geom_point(alpha = 0.5) 
+
+ggsave("scripts/elahi/coral_sims/figs_sims/oasis_percent_plot.png")
+
+plot_dat %>% 
+  ggplot(aes(mean_z, percent_above, color = scenario)) + 
+  xlab("Long-term mean coral cover (z-score)") + 
+  ylab("Proportion of years above mean") + 
+  geom_vline(xintercept = 0, linetype = "dashed", color = "gray") + 
+  geom_point(alpha = 0.5) + 
+  facet_wrap(~ scenario)
+
+ggsave("scripts/elahi/coral_sims/figs_sims/oasis_percent_plot_facet.png")
 

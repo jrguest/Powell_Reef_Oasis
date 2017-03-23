@@ -39,27 +39,6 @@ phase_shift = 0 * pi # starting at top (cos curve)
 
 ##### STABLE #####
 
-# stable_simF <- function(cc = coral_cover, cc_sd = coral_cover_sd, 
-#                         yrs = number_yrs, randomize_cover = TRUE){
-#   
-#   # If I am randomizing starting values:
-#   if(randomize_cover == TRUE){
-#     # Choose the starting coral cover from a normal distribution
-#     cc = rnorm(1, mean = cc, sd = 10)
-#     # Choose the starting coral cover sd from a normal distribution
-#     cc_sd = rnorm(1, mean = cc_sd, sd = 0.5)}
-# 
-#   ## Get time series
-#   y = rnorm(number_yrs, mean = cc, sd = cc_sd)
-#   
-#   ## Assemble data frame
-#   sim_df <- data.frame(year = 1:number_yrs, 
-#                        w = cc - y, slope = 0, intercept = cc, 
-#                        y = y)
-#   
-#   return(sim_df)
-# }
-
 # Starting coral cover with random samples between 5 and select upper bound
 # Flip a coin - sample from a normal distribution OR sample from a uniform distribution
 stable_simF <- function(cc = coral_cover, yrs = number_yrs, rnorm_theta = 0.5){
@@ -154,7 +133,8 @@ phase_shift_simF()
 ###### NEGATIVE LINEAR TREND ######
 
 linear_simF <- function(cc = coral_cover, yrs = number_yrs, 
-                        trend = linear_trend, trend_sd = linear_trend_sd, rnorm_theta = 0.5){
+                        trend = linear_trend, trend_sd = linear_trend_sd, 
+                        rnorm_theta = 0.5){
   
   coin_flip <- sample(c(0, 1), size = 1, prob = c(rnorm_theta, 1 - rnorm_theta))
   
@@ -207,7 +187,7 @@ linear_simF()
 
 non_linear_simF <- function(cc = coral_cover, yrs = number_yrs, 
                         trend = linear_trend, trend_sd = linear_trend_sd, 
-                        rnorm_theta = 0.5){
+                        rnorm_theta = 0.5, amplitude = amp){
   
   coin_flip <- sample(c(0, 1), size = 1, prob = c(rnorm_theta, 1 - rnorm_theta))
   
@@ -237,6 +217,9 @@ non_linear_simF <- function(cc = coral_cover, yrs = number_yrs,
   
   # Phase shift
   phase_shift = runif(1, 0, 0.25) * pi
+  
+  # Amplitude
+  amp = rnorm(1, mean = amp, sd = amp*0.5)
   
   ## Catch the wave
   period = rnorm(1, mean = period_yrs, sd = period_yrs_sd)

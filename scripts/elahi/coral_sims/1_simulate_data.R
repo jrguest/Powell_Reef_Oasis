@@ -12,7 +12,7 @@
 
 ##### LOAD PACKAGES, DATA #####
 
-source("scripts/elahi/coral_sims/sim_functions.R")
+source("scripts/elahi/coral_sims/0_sim_functions.R")
 
 library(ggplot2)
 library(dplyr)
@@ -60,13 +60,13 @@ sim_df_phase_shift %>%
   geom_line(alpha = 0.5) + geom_point() + 
   facet_wrap(~ sim)
 
-##### SIMULATE LINEAR TRENDS #####
+##### SIMULATE NEGATIVE LINEAR TRENDS #####
 
 # Need to specify slope - I want mostly negative trends
 # Linear trend
 linear_trend = -0.5
 # Standard deviation of trend
-linear_trend_sd = 0.5
+linear_trend_sd = 0.25
 
 # Run simulations
 # Then replace negative values with 0
@@ -83,6 +83,8 @@ sim_df2 %>% slice(1:300) %>%
   theme(legend.position = "none") + 
   facet_wrap(~ sim)
 
+sim_df2 %>% select(slope) %>% unlist(use.names = TRUE) %>% summary()
+
 # Rename dataset and add column for scenario
 sim_df_linear <- sim_df2 %>% 
   mutate(scenario = "Linear")
@@ -94,13 +96,15 @@ sim_df_linear <- sim_df2 %>%
 # Linear trend
 linear_trend = 0
 # Standard deviation of trend
-linear_trend_sd = 0.5
+linear_trend_sd = 0
+# Mean coral cover
+coral_cover = 30
 
 ## Choose periodicity
 # Periodicity (years) [for a 30 yr time series, a period of 30 results in a U]
 period_yrs = 40
 # SD of periodicity (years) 
-period_yrs_sd = 10
+period_yrs_sd = 5
 # Amplitude 
 amp = 15
 
@@ -113,11 +117,13 @@ sim_df2 <- sim_df %>% group_by(sim) %>%
                     runif(1, min = 0.75*stable_mean, max = stable_mean), 
                     y))
 
-sim_df2 %>% slice(1:300) %>% 
+sim_df2 %>% #slice(1:900) %>% 
   ggplot(aes(year, y)) + 
   geom_point() + geom_line() + 
   theme(legend.position = "none") + 
   facet_wrap(~ sim)
+
+quantile(sim_df2$y, probs = 0.99)
 
 # Rename dataset and add column for scenario
 sim_df_osc <- sim_df2 %>% 
