@@ -111,6 +111,8 @@ sim_df2 <- left_join(sim_df, yr_means, by = c("year", "scenario"))
 sim_df2 <- sim_df2 %>% 
   mutate(above_mean = ifelse(y > yr_mean, 1, 0))
 
+#write.csv(sim_df2, "scripts/elahi/coral_sims/output_sims/sim_df2.csv")
+
 above_mean_df <- sim_df2 %>% 
   group_by(sim, scenario) %>% 
   summarise(percent_above = sum(above_mean)/30) %>% 
@@ -120,10 +122,9 @@ above_mean_df <- sim_df2 %>%
 grand_means4 <- left_join(grand_means3, above_mean_df, by = c("sim", "scenario")) %>% 
   mutate(sim_total = seq(from = 1, to = n_sims * 4, 1))
   
-
 ## Attach oasis results to raw data
 sim_df3 <- grand_means4 %>% 
-  select(sim, sim_total, scenario, cv, med_z, mean_z, lm_sig:oasis) %>% 
+  select(sim, scenario, cv, med_z, mean_z, lm_sig:oasis) %>% 
   left_join(sim_df2, ., c("sim", "scenario")) %>% 
   mutate(sim2 = reorder(sim, desc(mean_z)))
 
