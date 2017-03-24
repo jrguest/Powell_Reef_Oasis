@@ -11,7 +11,7 @@
 #rm(list=ls(all=TRUE))
 
 source("scripts/elahi/coral_sims/2_summarise_data.R")
-source("scripts/elahi/coral_sims/multiplotF.R")
+#source("scripts/elahi/coral_sims/multiplotF.R")
 library(RColorBrewer)
 library(gridExtra)
 library(grid)
@@ -216,6 +216,30 @@ pdf("scripts/elahi/coral_sims/figs_sims/box_time_series_panels.pdf",
 grid.arrange(grobs = box_results, layout_matrix = hlay)
 dev.off()
 
+
+
+##### ILLUSTRATING THE METHOD #####
+
+sim_df3 <- sim_df3 %>% 
+  mutate(scenario = factor(scenario, 
+                           levels = c("Stable", "Linear", 
+                                      "Phase_shift", "Oscillations")))
+
+sim_df3 %>% 
+  filter(sim < 6) %>% 
+  ggplot(aes(year, y, color = scenario)) + 
+  theme_bw(base_size = 16) + 
+  ylab("Coral cover (%)") + xlab("Year") + 
+  scale_y_continuous(limits = c(0, 65)) + 
+  theme(legend.position = "none") + 
+  geom_line(alpha = 0.6, aes(group = sim, color = scenario), 
+            size = 1.25) + 
+  facet_wrap(~ scenario) + 
+  col_scale_scenario + 
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) + 
+  theme(strip.background = element_blank())
+
+ggsave("scripts/elahi/coral_sims/figs_sims/scenario_examples.png")
 
 
 ##### OLD CRAP #####

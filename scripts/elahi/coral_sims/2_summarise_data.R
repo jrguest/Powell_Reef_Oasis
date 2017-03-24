@@ -120,7 +120,7 @@ above_mean_df <- sim_df2 %>%
 
 ## attach to grand_means3
 grand_means4 <- left_join(grand_means3, above_mean_df, by = c("sim", "scenario")) %>% 
-  mutate(sim_total = seq(from = 1, to = n_sims * 4, 1))
+  mutate(sim_total = seq(from = 1, to = 400, 1))
   
 ## Attach oasis results to raw data
 sim_df3 <- grand_means4 %>% 
