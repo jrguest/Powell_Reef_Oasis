@@ -21,6 +21,13 @@ sim_df <- read.csv("scripts/elahi/coral_sims/output_sims/sim_df.csv") %>%
   tbl_df() %>% select(-X)
 str(sim_df)
 sim_df
+levels(sim_df$scenario)
+
+# RELEVEL SCENARIOS
+sim_df <- sim_df %>% 
+  mutate(scenario = factor(scenario, 
+                           levels = c("Stable", "Linear", 
+                                      "Phase_shift", "Oscillations")))
 
 n_sims = length(unique(sim_df$sim))
 
@@ -59,7 +66,7 @@ sim_df_sub %>% group_by(scenario) %>% tally()
 # What am I going to summarise?
 
 grand_means <- sim_df %>% 
-  group_by(sim, scenario) %>% 
+  group_by(sim_total, scenario, sim) %>% 
   summarise(mean = mean(y), 
             median = median(y), 
             sd = sd(y), 
