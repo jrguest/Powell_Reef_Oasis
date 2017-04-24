@@ -8,15 +8,13 @@
 ##' @log Add a log here
 ################################################################################
 
-#rm(list=ls(all=TRUE))
+rm(list=ls(all=TRUE))
 
-source("scripts/elahi/coral_sims/2_summarise_data.R")
-#source("scripts/elahi/coral_sims/multiplotF.R")
+source("scripts/elahi/coral_sims/2_summarise_data_original.R")
 library(RColorBrewer)
 library(gridExtra)
 library(grid)
-
-theme_set(theme_bw(base_size = 12))
+theme_set(theme_bw(base_size = 18))
 
 plot_dat <- grand_means4
 levels(plot_dat$scenario)
@@ -37,31 +35,34 @@ plot_dat %>%
   xlab("Median z-score of coral cover") + 
   ylab("Temporal variability in coral cover (CV)") + 
   annotate("rect", xmin = -2, xmax = -1, ymin = 100, ymax = 150,
-           alpha = 0, color = "gray", linetype = "solid") +
+           alpha = 0, color = "gray50", linetype = "solid") +
   annotate("rect", xmin = -2, xmax = -1, ymin = 50, ymax = 100,
-           alpha = 0, color = "gray") +
+           alpha = 0, color = "gray50") +
   annotate("rect", xmin = -2, xmax = -1, ymin = 0, ymax = 50,
-           alpha = 0, color = "gray") +
+           alpha = 0, color = "gray50") +
   annotate("rect", xmin = -1, xmax = -0, ymin = 50, ymax = 100,
-           alpha = 0, color = "gray") +
+           alpha = 0, color = "gray50") +
   annotate("rect", xmin = 0, xmax = 1, ymin = 50, ymax = 100,
-           alpha = 0, color = "gray") +
+           alpha = 0, color = "gray50") +
   annotate("rect", xmin = 1, xmax = 2, ymin = 0, ymax = 50,
-           alpha = 0, color = "gray") +
+           alpha = 0, color = "gray50") +
   annotate("rect", xmin = 0, xmax = 1, ymin = 0, ymax = 50,
-           alpha = 0, color = "gray") +
+           alpha = 0, color = "gray50") +
   annotate("rect", xmin = -1, xmax = 0, ymin = 0, ymax = 50,
-           alpha = 0, color = "gray") +
+           alpha = 0, color = "gray50") +
   annotate("rect", xmin = -1, xmax = -2, ymin = 0, ymax = 50,
-           alpha = 0, color = "gray") +
-  geom_point(alpha = 0.75, size = 2) + 
+           alpha = 0, color = "gray50") +
+  geom_point(alpha = 0.75, size = 4) + 
   theme(legend.position = c(1,1), legend.justification = c(1.25, 1.25), 
         legend.title = element_blank()) + 
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) + 
   scale_fill_manual(name = "Model Scenario", values = cb_pal_scenario) + 
   scale_shape_manual(name = "Model Scenario", values = c(21,22,23,25))
 
-ggsave("scripts/elahi/coral_sims/figs_sims/oasis_z_plot.pdf")
+#ggsave("scripts/elahi/coral_sims/figs_sims/oasis_z_plot.pdf")
+
+ggsave("scripts/elahi/coral_sims/figs_sims/oasis_z_plot.pdf", 
+       height = 7, width = 10)
 
 ##### PICK REPRESENTATIVE SITES #####
 
